@@ -8,7 +8,7 @@ comments: false
 layout: blog-single
 link: https://www.cherrywinklemoore.com/2016/02/redemption-the-story-of-a-painting/
 wordpress_id: 1270
-image: /uploads/IMG_1718.jpg
+image: "/uploads/IMG_1718.jpg"
 ---
 
 ## The Beginning of this Painting
