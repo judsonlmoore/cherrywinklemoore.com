@@ -1,16 +1,15 @@
 ---
+title: The Worst Loss
+date: 2010-12-05 20:34:45 Z
+categories:
+- Poems
 author: cherrywinklemoore
 comments: false
-date: 2010-12-05 20:34:45+00:00
 excerpt: Some thoughts about "The Worst Loss".  I'm told I have experienced it but
   I wonder...
 layout: post
 link: https://www.cherrywinklemoore.com/2010/12/poem-the-worst-loss/
-slug: poem-the-worst-loss
-title: The Worst Loss
 wordpress_id: 649
-categories:
-- Poems
 ---
 
 **THE WORST LOSS – the death of a child**

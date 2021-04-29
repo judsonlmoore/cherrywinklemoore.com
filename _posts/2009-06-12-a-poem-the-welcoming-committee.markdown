@@ -1,13 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-06-12 23:44:50+00:00
-excerpt: A poem imagining the moment of death.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/06/a-poem-the-welcoming-committee/
-slug: a-poem-the-welcoming-committee
 title: The Welcoming Committee
-wordpress_id: 77
+date: 2009-06-12 23:44:50 Z
 categories:
 - Hospice Stories
 - Poems
@@ -16,6 +9,12 @@ tags:
 - dying
 - heaven
 - hospice
+author: cherrywinklemoore
+comments: false
+excerpt: A poem imagining the moment of death.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/06/a-poem-the-welcoming-committee/
+wordpress_id: 77
 ---
 
 How do they know

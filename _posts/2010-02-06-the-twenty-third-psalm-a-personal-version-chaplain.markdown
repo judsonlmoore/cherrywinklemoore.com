@@ -1,7 +1,10 @@
 ---
+title: 'The Twenty-Third Psalm: A personal version - Chaplain'
+date: 2010-02-06 22:31:56 Z
+categories:
+- Poems
 author: cherrywinklemoore
 comments: false
-date: 2010-02-06 22:31:56+00:00
 excerpt: Writing a personal version of the 23rd Psalm was assigned in Week Three of
   Disciple's Prayer Life, a study many of us at First Baptist Church in College Station,
   Texas are doing this spring of 2010.  T.W. Hunt who wrote the study guide was a
@@ -9,11 +12,7 @@ excerpt: Writing a personal version of the 23rd Psalm was assigned in Week Three
   the process of writing my own to be rich and fascinating.  I recommend it to you.
 layout: post
 link: https://www.cherrywinklemoore.com/2010/02/the-twenty-third-psalm-a-personal-version-chaplain/
-slug: the-twenty-third-psalm-a-personal-version-chaplain
-title: 'The Twenty-Third Psalm: A personal version - Chaplain'
 wordpress_id: 495
-categories:
-- Poems
 ---
 
 The Lord is my chaplain.

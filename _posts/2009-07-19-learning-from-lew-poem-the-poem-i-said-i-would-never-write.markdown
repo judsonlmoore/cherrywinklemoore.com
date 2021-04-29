@@ -1,21 +1,20 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-19 02:16:57+00:00
-excerpt: This poem attempts to explain why I wrote it and why I am writing all of
-  these stories and poems about Lew and sending them out into the world.  I want people
-  to see him and others like him.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-the-poem-i-said-i-would-never-write/
-slug: learning-from-lew-poem-the-poem-i-said-i-would-never-write
 title: The Poem I Said I Would Never Write
-wordpress_id: 200
+date: 2009-07-19 02:16:57 Z
 categories:
 - Learning From Lew
 - Poems
 tags:
 - disability
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: This poem attempts to explain why I wrote it and why I am writing all of
+  these stories and poems about Lew and sending them out into the world.  I want people
+  to see him and others like him.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-the-poem-i-said-i-would-never-write/
+wordpress_id: 200
 ---
 
 Every mother of a child who is disabled

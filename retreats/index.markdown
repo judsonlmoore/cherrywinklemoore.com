@@ -1,11 +1,11 @@
 ---
+title: Retreats
+date: 2015-02-18 05:16:36 Z
 author: judsonlmoore
 comments: true
-date: 2015-02-18 05:16:36+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/retreats/
 slug: retreats
-title: Retreats
 wordpress_id: 1197
 ---
 

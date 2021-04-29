@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2015-09-07 23:07:53+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2015/09/fire-a-poem-by-judy-sorum-brown/
-slug: fire-a-poem-by-judy-sorum-brown
 title: 'FIRE: a poem by Judy Sorum Brown and a book page of mine'
-wordpress_id: 1240
+date: 2015-09-07 23:07:53 Z
 categories:
 - Poems
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2015/09/fire-a-poem-by-judy-sorum-brown/
+wordpress_id: 1240
 ---
 
 A couple of years ago I took a page in a book called Creativity by Matthew Fox and made a "found word" poem.

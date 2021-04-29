@@ -1,13 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-05-31 02:56:29+00:00
-excerpt: A poem I wrote in 1971 and encouraging words for those tempted to quit.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/05/life-plan-a-poem/
-slug: life-plan-a-poem
 title: 'Life Plan: A Poem'
-wordpress_id: 33
+date: 2009-05-31 02:56:29 Z
 categories:
 - Poems
 tags:
@@ -15,6 +8,12 @@ tags:
 - Cherry
 - Moore
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: A poem I wrote in 1971 and encouraging words for those tempted to quit.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/05/life-plan-a-poem/
+wordpress_id: 33
 ---
 
 LIFE PLAN:1972

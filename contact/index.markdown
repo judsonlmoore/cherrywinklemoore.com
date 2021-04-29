@@ -1,11 +1,11 @@
 ---
+title: Contact
+date: 2009-05-24 19:37:57 Z
 author: cherrywinklemoore
 comments: false
-date: 2009-05-24 19:37:57+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/contact/
 slug: contact
-title: Contact
 wordpress_id: 12
 ---
 

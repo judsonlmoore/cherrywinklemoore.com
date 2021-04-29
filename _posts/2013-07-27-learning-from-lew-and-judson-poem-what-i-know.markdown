@@ -1,12 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2013-07-27 03:12:09+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2013/07/learning-from-lew-and-judson-poem-what-i-know/
-slug: learning-from-lew-and-judson-poem-what-i-know
 title: What I Know
-wordpress_id: 945
+date: 2013-07-27 03:12:09 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -17,6 +11,11 @@ tags:
 - Judson Moore
 - Lew Moore
 - poem
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2013/07/learning-from-lew-and-judson-poem-what-i-know/
+wordpress_id: 945
 ---
 
 There is a sense in which everything important that I know, I know because of Lew and Judson:

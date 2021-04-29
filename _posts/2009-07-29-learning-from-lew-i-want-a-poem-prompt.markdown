@@ -1,15 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-29 01:09:49+00:00
-excerpt: Today in 2009 I found this poem prompt that I filled in six years ago, in
-  2003.  The prompt had the first few words of every sentence.  Many of the things
-  I "wanted" I now have and YOU are part of it!
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-i-want-a-poem-prompt/
-slug: learning-from-lew-i-want-a-poem-prompt
 title: 'I Want: A Poem Prompt'
-wordpress_id: 226
+date: 2009-07-29 01:09:49 Z
 categories:
 - Learning From Lew
 - Poems
@@ -19,6 +10,14 @@ tags:
 - Judson Moore
 - Lew Moore
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: Today in 2009 I found this poem prompt that I filled in six years ago, in
+  2003.  The prompt had the first few words of every sentence.  Many of the things
+  I "wanted" I now have and YOU are part of it!
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-i-want-a-poem-prompt/
+wordpress_id: 226
 ---
 
 I WANT

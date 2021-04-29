@@ -1,17 +1,16 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2015-02-20 01:40:07+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2015/02/matthew-1510-28-what-defiles-a-person/
-slug: matthew-1510-28-what-defiles-a-person
 title: Matthew 15:10-28; What defiles a person
-wordpress_id: 1067
+date: 2015-02-20 01:40:07 Z
 categories:
 - Art
 - New
 tags:
 - Gospel Art
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2015/02/matthew-1510-28-what-defiles-a-person/
+wordpress_id: 1067
 ---
 
 ## St. Thomas Episcopal Church, College Station, Texas - August 17, 2014

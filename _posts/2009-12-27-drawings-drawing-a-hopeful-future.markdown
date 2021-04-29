@@ -1,17 +1,16 @@
 ---
+title: Drawing a Hopeful Future
+date: 2009-12-27 22:16:31 Z
+categories:
+- Art
 author: cherrywinklemoore
 comments: false
-date: 2009-12-27 22:16:31+00:00
 excerpt: I found this drawing in an old sketchbook.  A "family portrait" of sorts,
   it was drawn at a stressful time in my life but I was blessed to be able to imagine
   a different future - a future I inhabit now!
 layout: post
 link: https://www.cherrywinklemoore.com/2009/12/drawings-drawing-a-hopeful-future/
-slug: drawings-drawing-a-hopeful-future
-title: Drawing a Hopeful Future
 wordpress_id: 399
-categories:
-- Art
 ---
 
 I found this drawing in a 1994 sketchbook: a family portrait with an imagined future.

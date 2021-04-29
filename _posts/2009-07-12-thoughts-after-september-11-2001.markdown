@@ -1,14 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-12 21:43:15+00:00
-excerpt: A Canadian friend wrote me a day or two after 9/11 and asked me what I was
-  thinking about the terrorist attacks.  Here is my reply written 9/16/2001.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/thoughts-after-september-11-2001/
-slug: thoughts-after-september-11-2001
 title: Thoughts After September 11, 2001
-wordpress_id: 175
+date: 2009-07-12 21:43:15 Z
 categories:
 - New
 tags:
@@ -18,6 +10,13 @@ tags:
 - Judson Moore
 - Louisiana
 - terrorists
+author: cherrywinklemoore
+comments: false
+excerpt: A Canadian friend wrote me a day or two after 9/11 and asked me what I was
+  thinking about the terrorist attacks.  Here is my reply written 9/16/2001.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/thoughts-after-september-11-2001/
+wordpress_id: 175
 ---
 
 Date:    9/16/01 11:06:27 PM Central Daylight Time

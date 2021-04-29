@@ -1,11 +1,11 @@
 ---
+title: Altered Book Workshop
+date: 2015-02-17 14:05:23 Z
 author: judsonlmoore
 comments: true
-date: 2015-02-17 14:05:23+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/altered-book-workshop/
 slug: altered-book-workshop
-title: Altered Book Workshop
 wordpress_id: 1177
 ---
 

@@ -1,11 +1,11 @@
 ---
+title: About
+date: 2009-05-24 00:53:40 Z
 author: cherrywinklemoore
 comments: false
-date: 2009-05-24 00:53:40+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/about/
 slug: about
-title: About
 wordpress_id: 2
 ---
 

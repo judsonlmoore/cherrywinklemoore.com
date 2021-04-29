@@ -1,19 +1,18 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-06-14 19:23:38+00:00
-excerpt: An event from early in Lew's life.  Cultivating an attitude of gratitude
-  changed the lenses through which I saw my son and my world.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-a-two-part-story-about-gratitude/
-slug: learning-from-lew-a-two-part-story-about-gratitude
 title: A two-part story about gratitude
-wordpress_id: 82
+date: 2009-06-14 19:23:38 Z
 categories:
 - Learning From Lew
 tags:
 - disability
 - gratitude
+author: cherrywinklemoore
+comments: false
+excerpt: An event from early in Lew's life.  Cultivating an attitude of gratitude
+  changed the lenses through which I saw my son and my world.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-a-two-part-story-about-gratitude/
+wordpress_id: 82
 ---
 
 It is a beautiful early spring day in 1992. Lew is six months old and we have had his diagnosis for about a month. I am driving down a residential street in Lexington where the lawns are new-growth green and the dogwoods are budding in the warm sun. This is before the days when parents were told to put the infant seat in the back so Lew and his seat are in the passenger seat next to me.

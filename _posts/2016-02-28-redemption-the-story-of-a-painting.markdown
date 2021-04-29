@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2016-02-28 03:37:32+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2016/02/redemption-the-story-of-a-painting/
-slug: redemption-the-story-of-a-painting
 title: '"Redemption" - The Story of a Painting'
-wordpress_id: 1270
+date: 2016-02-28 03:37:32 Z
 categories:
 - Art
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2016/02/redemption-the-story-of-a-painting/
+wordpress_id: 1270
 ---
 
 ## The Beginning of this Painting

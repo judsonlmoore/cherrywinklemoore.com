@@ -1,17 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-12-21 05:00:45+00:00
-excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the arms
-  of an angel.  They were in water.  She was supporting him and helping him to breathe.  The
-  dream was just that image but I made up a story about what happened before the picture
-  and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
-  this story.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-the-angel-of-transition/
-slug: learning-from-lew-the-angel-of-transition
 title: The Angel of Transition
-wordpress_id: 372
+date: 2009-12-21 05:00:45 Z
 categories:
 - Art
 - Learning From Lew
@@ -22,6 +11,16 @@ tags:
 - grace
 - heaven
 - Lew Moore
+author: cherrywinklemoore
+comments: false
+excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the arms
+  of an angel.  They were in water.  She was supporting him and helping him to breathe.  The
+  dream was just that image but I made up a story about what happened before the picture
+  and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
+  this story.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-the-angel-of-transition/
+wordpress_id: 372
 ---
 
 **Angel:** Hello, Lew.

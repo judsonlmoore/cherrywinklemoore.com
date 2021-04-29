@@ -1,13 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-05 00:04:09+00:00
-excerpt: This is one of my favorite stories of God's grace at work in our family.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-moving-to-hattiesburg/
-slug: learning-from-lew-moving-to-hattiesburg
 title: Moving to Hattiesburg
-wordpress_id: 120
+date: 2009-07-05 00:04:09 Z
 categories:
 - Learning From Lew
 tags:
@@ -18,6 +11,12 @@ tags:
 - pre-language communication
 - University of Southern Mississippi
 - William Carey College
+author: cherrywinklemoore
+comments: false
+excerpt: This is one of my favorite stories of God's grace at work in our family.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-moving-to-hattiesburg/
+wordpress_id: 120
 ---
 
 Lew is five years old and it is the first time that I shake my fists in anger at God.

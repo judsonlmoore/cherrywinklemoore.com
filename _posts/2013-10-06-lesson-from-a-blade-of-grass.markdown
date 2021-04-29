@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2013-10-06 01:51:58+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2013/10/lesson-from-a-blade-of-grass/
-slug: lesson-from-a-blade-of-grass
 title: Lessons from a blade of grass
-wordpress_id: 1010
+date: 2013-10-06 01:51:58 Z
 categories:
 - Spiritual Life
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2013/10/lesson-from-a-blade-of-grass/
+wordpress_id: 1010
 ---
 
 Today I was told to take a walk, notice something and listen to what it might say to me. I knew I would find something and draw it but I wasn’t sure what.

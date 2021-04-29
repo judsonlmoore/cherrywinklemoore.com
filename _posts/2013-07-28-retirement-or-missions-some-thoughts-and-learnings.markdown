@@ -1,17 +1,16 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2013-07-28 02:23:17+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2013/07/retirement-or-missions-some-thoughts-and-learnings/
-slug: retirement-or-missions-some-thoughts-and-learnings
 title: Retirement or Missions? Some thoughts and learnings
-wordpress_id: 955
+date: 2013-07-28 02:23:17 Z
 categories:
 - Missions
 tags:
 - missions
 - retirement
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2013/07/retirement-or-missions-some-thoughts-and-learnings/
+wordpress_id: 955
 ---
 
 Voices inside and out tell me to make plans about retiring. I do feel that a season of my life is ending but I also find that I am looking for a new, a next challenge.

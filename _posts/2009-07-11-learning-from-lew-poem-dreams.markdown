@@ -1,14 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-11 14:33:54+00:00
-excerpt: Some thoughts about the dreams I had for Lew.  I guess I could say that these
-  dreams have come true but not in the way I had imagined.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-dreams/
-slug: learning-from-lew-poem-dreams
 title: Dreams
-wordpress_id: 136
+date: 2009-07-11 14:33:54 Z
 categories:
 - Learning From Lew
 - Poems
@@ -16,6 +8,13 @@ tags:
 - cerebral palsy
 - disability
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: Some thoughts about the dreams I had for Lew.  I guess I could say that these
+  dreams have come true but not in the way I had imagined.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-dreams/
+wordpress_id: 136
 ---
 
 The dreams parents have

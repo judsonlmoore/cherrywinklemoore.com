@@ -1,14 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-12-12 03:00:27+00:00
-excerpt: A poem about my sons.  They were loved before they were born but not special
-  ordered.  They came as gifts from a gracious God.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-poem-the-given-companion/
-slug: learning-from-lew-poem-the-given-companion
 title: The Given Companion
-wordpress_id: 369
+date: 2009-12-12 03:00:27 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -20,6 +12,13 @@ tags:
 - Lew Moore
 - means of grace
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: A poem about my sons.  They were loved before they were born but not special
+  ordered.  They came as gifts from a gracious God.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-poem-the-given-companion/
+wordpress_id: 369
 ---
 
 ## The Given Companion

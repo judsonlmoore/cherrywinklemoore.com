@@ -1,19 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-11-01 21:00:34+00:00
-excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Baptist
-  Church in Lexington, Kentucky.  My mother had recently died and my son, Lew, was
-  declining.  The retreat leader (whose name I am sorry I don't recall), gave us each
-  a paper with a simple drawing of a flower, a circle in the middle and petals radiating
-  out.  We were asked to write a life crisis we had experienced in the middle and
-  then write on the petals things we had learned from that time of crisis and growth.  These
-  were my comments.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/11/affirmations-for-a-time-of-crisis/
-slug: affirmations-for-a-time-of-crisis
 title: Affirmation For a Time of Crisis
-wordpress_id: 299
+date: 2009-11-01 21:00:34 Z
 categories:
 - New
 tags:
@@ -23,6 +10,18 @@ tags:
 - KY
 - Lew Moore
 - Lexington
+author: cherrywinklemoore
+comments: false
+excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Baptist
+  Church in Lexington, Kentucky.  My mother had recently died and my son, Lew, was
+  declining.  The retreat leader (whose name I am sorry I don't recall), gave us each
+  a paper with a simple drawing of a flower, a circle in the middle and petals radiating
+  out.  We were asked to write a life crisis we had experienced in the middle and
+  then write on the petals things we had learned from that time of crisis and growth.  These
+  were my comments.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/11/affirmations-for-a-time-of-crisis/
+wordpress_id: 299
 ---
 
 God never left me in the past nor will God leave me now.  God is present and faithful; doing all that God can do.

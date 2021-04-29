@@ -1,12 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2014-08-09 17:43:32+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2014/08/matthew-1413-21-the-feeding-of-the-5000/
-slug: matthew-1413-21-the-feeding-of-the-5000
 title: Matthew 14:13-21 The Feeding of the 5000
-wordpress_id: 1043
+date: 2014-08-09 17:43:32 Z
 categories:
 - Art
 - New
@@ -16,6 +10,11 @@ tags:
 - Artist-In-Residence
 - Christ
 - St. Thomas Episcopal Church
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2014/08/matthew-1413-21-the-feeding-of-the-5000/
+wordpress_id: 1043
 ---
 
 **St. Thomas Episcopal Church, College Station, Texas - August 3, 2014**

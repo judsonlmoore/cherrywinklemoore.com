@@ -1,11 +1,11 @@
 ---
+title: Gallery
+date: 2015-02-15 01:54:00 Z
 author: judsonlmoore
 comments: true
-date: 2015-02-15 01:54:00+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/gallery/
 slug: gallery
-title: Gallery
 wordpress_id: 1153
 ---
 

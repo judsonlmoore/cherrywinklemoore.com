@@ -1,15 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-24 03:50:51+00:00
-excerpt: This quote is one of the most helpful things I have read anywhere in helping
-  me to deal with the disabilities and death of my son, Lew.  My thanks to John B.
-  Cobb, Jr.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-where-was-god-when-lew-was-declining-and-dying/
-slug: learning-from-lew-where-was-god-when-lew-was-declining-and-dying
 title: Where was God when Lew was declining and dying?
-wordpress_id: 209
+date: 2009-07-24 03:50:51 Z
 categories:
 - Learning From Lew
 tags:
@@ -19,6 +10,14 @@ tags:
 - disability
 - dying
 - theodicy
+author: cherrywinklemoore
+comments: false
+excerpt: This quote is one of the most helpful things I have read anywhere in helping
+  me to deal with the disabilities and death of my son, Lew.  My thanks to John B.
+  Cobb, Jr.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-where-was-god-when-lew-was-declining-and-dying/
+wordpress_id: 209
 ---
 
 In the Fall of 1997 I found this quote in the book Encountering Evil: live options in theodicy edited by Stephen T. Davis. This is a book I never would have read had it not been a text for a seminary class. I also don’t recommend it unless you know what you are getting into and really want a challenging read. The original statement was written by John B. Cobb, Jr. in a postscript to the book. He is responding to the four theodicies presented in the book and answering the question, “If you agree intellectually more with this one or that one, how would that translate into your pastoral ministry?”

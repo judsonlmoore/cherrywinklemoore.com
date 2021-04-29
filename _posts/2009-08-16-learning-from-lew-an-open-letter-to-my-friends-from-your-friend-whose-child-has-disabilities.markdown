@@ -1,16 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-08-16 02:36:31+00:00
-excerpt: A friend made me promise I would publish this letter someday.  I was too
-  cowardly to publish it sooner.  I was afraid I would hurt someone's feelings.  Maybe
-  this can be helpful to some other parent of a child who has disabilities - or to
-  the friend of a parent.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/08/learning-from-lew-an-open-letter-to-my-friends-from-your-friend-whose-child-has-disabilities/
-slug: learning-from-lew-an-open-letter-to-my-friends-from-your-friend-whose-child-has-disabilities
 title: An Open Letter to my friends from your friend whose child has disabilities
-wordpress_id: 249
+date: 2009-08-16 02:36:31 Z
 categories:
 - Learning From Lew
 tags:
@@ -19,6 +9,15 @@ tags:
 - friend
 - Lew Moore
 - parent of child with a disability
+author: cherrywinklemoore
+comments: false
+excerpt: A friend made me promise I would publish this letter someday.  I was too
+  cowardly to publish it sooner.  I was afraid I would hurt someone's feelings.  Maybe
+  this can be helpful to some other parent of a child who has disabilities - or to
+  the friend of a parent.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/08/learning-from-lew-an-open-letter-to-my-friends-from-your-friend-whose-child-has-disabilities/
+wordpress_id: 249
 ---
 
 Dear Friends:

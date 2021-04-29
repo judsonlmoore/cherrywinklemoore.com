@@ -1,11 +1,11 @@
 ---
+title: Home
+date: 2015-02-15 01:29:20 Z
 author: judsonlmoore
 comments: true
-date: 2015-02-15 01:29:20+00:00
 layout: page
 link: https://www.cherrywinklemoore.com/
 slug: home
-title: Home
 wordpress_id: 1131
 ---
 

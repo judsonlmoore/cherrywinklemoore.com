@@ -1,18 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2010-01-14 23:24:48+00:00
-excerpt: 'When Judson L. Moore was born in June of 1983, his older brother was twenty-two
-  months old.  His parents wondered how Judson would "do" with a brother who had severe
-  health challenges.
-
-
-  A proud mother tells part of the story.'
-layout: post
-link: https://www.cherrywinklemoore.com/2010/01/learning-from-one-another-lew-and-judson/
-slug: learning-from-one-another-lew-and-judson
 title: 'Learning From One Another: Lew and Judson'
-wordpress_id: 447
+date: 2010-01-14 23:24:48 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -23,6 +11,15 @@ tags:
 - disability
 - Judson Moore
 - Lew Moore
+author: cherrywinklemoore
+comments: false
+excerpt: |-
+  When Judson L. Moore was born in June of 1983, his older brother was twenty-two months old.  His parents wondered how Judson would "do" with a brother who had severe health challenges.
+
+  A proud mother tells part of the story.
+layout: post
+link: https://www.cherrywinklemoore.com/2010/01/learning-from-one-another-lew-and-judson/
+wordpress_id: 447
 ---
 
 I’ll never forget the first day I knew Judson was going to be alright.

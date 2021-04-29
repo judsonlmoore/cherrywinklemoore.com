@@ -1,14 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-06-24 01:10:09+00:00
-excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
-  was clear to me that Mabel had on open line to the throne of God.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-and-his-brother-prayer-chases-fear-away/
-slug: learning-from-lew-and-his-brother-prayer-chases-fear-away
 title: Prayer chases fear away
-wordpress_id: 100
+date: 2009-06-24 01:10:09 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -22,6 +14,13 @@ tags:
 - KY
 - Lexington
 - prayer
+author: cherrywinklemoore
+comments: false
+excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
+  was clear to me that Mabel had on open line to the throne of God.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-and-his-brother-prayer-chases-fear-away/
+wordpress_id: 100
 ---
 
 “I’m going to pray those fears away.” -- Mabel Mastin

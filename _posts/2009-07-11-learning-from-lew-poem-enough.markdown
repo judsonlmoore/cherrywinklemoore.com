@@ -1,14 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-11 15:10:22+00:00
-excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted\
-  \ the poem."
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-enough/
-slug: learning-from-lew-poem-enough
 title: Enough
-wordpress_id: 158
+date: 2009-07-11 15:10:22 Z
 categories:
 - Learning From Lew
 - Poems
@@ -16,6 +8,13 @@ tags:
 - cerebral palsy
 - disability
 - enough
+author: cherrywinklemoore
+comments: false
+excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
+  the poem."
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-enough/
+wordpress_id: 158
 ---
 
 I have a son

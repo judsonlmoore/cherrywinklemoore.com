@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2015-01-01 03:02:35+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2014/12/some-thoughts-on-hope-and-mary/
-slug: some-thoughts-on-hope-and-mary
 title: Some Thoughts on Hope and Mary
-wordpress_id: 1092
+date: 2015-01-01 03:02:35 Z
 categories:
 - Hospice Stories
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2014/12/some-thoughts-on-hope-and-mary/
+wordpress_id: 1092
 ---
 
 We hope. We don’t have to give up hope but sometimes our hopes have to change.

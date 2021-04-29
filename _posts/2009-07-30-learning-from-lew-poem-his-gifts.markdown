@@ -1,18 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-30 00:57:35+00:00
-excerpt: 'I read a Reader''s Digest article by Henri Nouwen about his relationship
-  with Adam, a man for whom he was a caregiver.  Henri said Adam gave "peace" to his
-  life.  I threw the magazine across the room!  I would not say Lew brought me "peace."  So
-  then I started thinking how I would answer the question: What did Lew bring to my
-  life?  Maybe Henri and I were trying to say the same thing and were using different
-  words.  Here''s my answer.'
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-his-gifts/
-slug: learning-from-lew-poem-his-gifts
 title: His Gifts
-wordpress_id: 233
+date: 2009-07-30 00:57:35 Z
 categories:
 - Learning From Lew
 - Poems
@@ -24,6 +12,17 @@ tags:
 - Lew Moore
 - means of grace
 - poem
+author: cherrywinklemoore
+comments: false
+excerpt: 'I read a Reader''s Digest article by Henri Nouwen about his relationship
+  with Adam, a man for whom he was a caregiver.  Henri said Adam gave "peace" to his
+  life.  I threw the magazine across the room!  I would not say Lew brought me "peace."  So
+  then I started thinking how I would answer the question: What did Lew bring to my
+  life?  Maybe Henri and I were trying to say the same thing and were using different
+  words.  Here''s my answer.'
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-his-gifts/
+wordpress_id: 233
 ---
 
 I have a first-born son

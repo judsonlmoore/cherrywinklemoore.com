@@ -1,17 +1,16 @@
 ---
+title: I remembered in the darkness...
+date: 2009-06-06 02:26:01 Z
+categories:
+- Learning From Lew
 author: cherrywinklemoore
 comments: false
-date: 2009-06-06 02:26:01+00:00
 excerpt: This is a story I heard when Lew's diagnosis was new that continues to be
   helpful to me.  For the speaker it was merely an illustration but for me it was
   a ray of hope in a dark time.
 layout: post
 link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-i-remembered-in-the-darkness/
-slug: learning-from-lew-i-remembered-in-the-darkness
-title: I remembered in the darkness...
 wordpress_id: 56
-categories:
-- Learning From Lew
 ---
 
 Shortly after we had received Lew’s diagnosis, I heard a story that has continued to be one of the most helpful things in my attempts to come to grips with Lew’s disabilities and my pain.Lew was less than a year old.We had only had his diagnosis for a few months.Bob and I were sitting in the balcony of Calvary Baptist Church in Lexington, Kentucky listening to the pastor, Dan Cooper, when he told this story:

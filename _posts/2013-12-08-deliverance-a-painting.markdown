@@ -1,18 +1,17 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2013-12-08 20:55:30+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2013/12/deliverance-a-painting/
-slug: deliverance-a-painting
 title: Deliverance - A painting
-wordpress_id: 1020
+date: 2013-12-08 20:55:30 Z
 categories:
 - Art
 - Dreams
 tags:
 - Art
 - dying
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2013/12/deliverance-a-painting/
+wordpress_id: 1020
 ---
 
 A cancer patient shared a dream with me. He said he was in bed asleep next to his wife when he became aware that the bed had turned into quicksand and he felt himself sinking. Just as he was about to take his last breath before drowning, a bird came down and lifted him up with its wings – not its talons but it wings. He gasped and woke up. His wife awakened with a start and asked him what was wrong. He said, “Hush…I need to think about this.” After catching the dream before it slipped away, he told her about the dream

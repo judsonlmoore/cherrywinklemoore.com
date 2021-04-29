@@ -1,12 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2014-08-11 03:32:20+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2014/08/matthew-1422-33-jesus-walks-on-water-and-calms-the-storm/
-slug: matthew-1422-33-jesus-walks-on-water-and-calms-the-storm
 title: Matthew 14:22-33; Jesus Walks on Water and Calms the Storm
-wordpress_id: 937
+date: 2014-08-11 03:32:20 Z
 categories:
 - Art
 - New
@@ -15,6 +9,11 @@ tags:
 - Art
 - Christ
 - St. Thomas Episcopal Church
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2014/08/matthew-1422-33-jesus-walks-on-water-and-calms-the-storm/
+wordpress_id: 937
 ---
 
 ** St. Thomas Episcopal Church, College Station, Texas - August 10, 2014**

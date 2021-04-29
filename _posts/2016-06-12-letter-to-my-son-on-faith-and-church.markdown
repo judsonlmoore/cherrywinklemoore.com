@@ -1,15 +1,14 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2016-06-12 01:13:49+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2016/06/letter-to-my-son-on-faith-and-church/
-slug: letter-to-my-son-on-faith-and-church
 title: Letter to my son on faith and church
-wordpress_id: 1367
+date: 2016-06-12 01:13:49 Z
 categories:
 - Learning From Judson
 - Spiritual Life
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2016/06/letter-to-my-son-on-faith-and-church/
+wordpress_id: 1367
 ---
 
 [et_pb_section admin_label="section"]

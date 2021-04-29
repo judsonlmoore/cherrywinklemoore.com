@@ -1,16 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-10-12 03:37:22+00:00
-excerpt: I've told so much of Lew's story.  It seems right to tell this part, too.  I
-  will totally understand if nobody reads it but I share it nonetheless.  It was a
-  bleak, dark, snowy night but God was present in many people helping us and in Lew,
-  helping him.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/10/learning-from-lew-the-day-lew-died/
-slug: learning-from-lew-the-day-lew-died
 title: The Day Lew Died
-wordpress_id: 293
+date: 2009-10-12 03:37:22 Z
 categories:
 - Learning From Lew
 tags:
@@ -19,6 +9,15 @@ tags:
 - Home of the Innocents
 - Judson Moore
 - Lew Moore
+author: cherrywinklemoore
+comments: false
+excerpt: I've told so much of Lew's story.  It seems right to tell this part, too.  I
+  will totally understand if nobody reads it but I share it nonetheless.  It was a
+  bleak, dark, snowy night but God was present in many people helping us and in Lew,
+  helping him.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/10/learning-from-lew-the-day-lew-died/
+wordpress_id: 293
 ---
 
 The Day Lew Died: February 4, 1998, 5:30 p.m.

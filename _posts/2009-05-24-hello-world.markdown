@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-05-24 00:53:40+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2009/05/hello-world/
-slug: hello-world
 title: Good Friday 2009
-wordpress_id: 1
+date: 2009-05-24 00:53:40 Z
 categories:
 - Art
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2009/05/hello-world/
+wordpress_id: 1
 ---
 
 Artists in Bryan/College Station, Texas were invited to share art at the 7:00 p.m. Good Friday service of St. Andrew's Episcopal Church in Historic Downtown Bryan, Texas. Rev. Sean Cox asked for art - of any media - that had to do with the themes of suffering or betrayal or any "Good Friday" theme. Here in my first blog I will attempt to upload images of the two paintings I showed at this event. That night there was a poet, a writer, another artist and me.

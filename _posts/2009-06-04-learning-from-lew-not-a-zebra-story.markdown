@@ -1,19 +1,18 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-06-04 04:13:41+00:00
-excerpt: Every person with a disability or disease is a person first.  Lew was not
-  a "zebra" but a child who had severe multiple disabilities.
-layout: post
-link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-not-a-zebra-story/
-slug: learning-from-lew-not-a-zebra-story
 title: Not a zebra story
-wordpress_id: 46
+date: 2009-06-04 04:13:41 Z
 categories:
 - Learning From Lew
 tags:
 - child
 - disability
+author: cherrywinklemoore
+comments: false
+excerpt: Every person with a disability or disease is a person first.  Lew was not
+  a "zebra" but a child who had severe multiple disabilities.
+layout: post
+link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-not-a-zebra-story/
+wordpress_id: 46
 ---
 
 Lew was born in Lexington, Kentucky and we lived there for much of his childhood. From 1988 until Lew’s death in 1998, my husband, Bob, was on the faculty of the University of Kentucky Medical School. He worked in several departments assisting the faculty and the medical residents with their research and its publication.

@@ -1,14 +1,13 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2013-01-07 19:26:07+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2013/01/panama-2012-prayer-cures-motion-sickness/
-slug: panama-2012-prayer-cures-motion-sickness
 title: 'Panama 2012: Prayer "cures" motion sickness'
-wordpress_id: 911
+date: 2013-01-07 19:26:07 Z
 categories:
 - New
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2013/01/panama-2012-prayer-cures-motion-sickness/
+wordpress_id: 911
 ---
 
 _Something I learned years before while walking a labyrinth saved me from motion sickness in Panama in the summer of 2012._

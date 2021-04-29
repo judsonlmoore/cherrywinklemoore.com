@@ -1,17 +1,16 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2016-03-01 02:52:43+00:00
-layout: post
-link: https://www.cherrywinklemoore.com/2016/02/rooted-and-grounded-a-painting/
-slug: rooted-and-grounded-a-painting
 title: '"Rooted and Grounded" - A Painting'
-wordpress_id: 1371
+date: 2016-03-01 02:52:43 Z
 categories:
 - Art
 - Spiritual Life
 tags:
 - Art
+author: cherrywinklemoore
+comments: false
+layout: post
+link: https://www.cherrywinklemoore.com/2016/02/rooted-and-grounded-a-painting/
+wordpress_id: 1371
 ---
 
 I attended a spiritual retreat sometime in the 90s. At the first meeting the retreat leader passed out index cards.

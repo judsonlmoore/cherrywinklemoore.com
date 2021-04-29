@@ -1,19 +1,17 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2011-02-05 07:36:53+00:00
-excerpt: 'Have you experienced a "grief burst"?  If you have ever experienced a significant
-  loss, you probably have.
-
-
-  I had an unexpected one this week.'
-layout: post
-link: https://www.cherrywinklemoore.com/2011/02/grief-bursts-february-4-2011/
-slug: grief-bursts-february-4-2011
 title: GRIEF BURSTS............February 4, 2011
-wordpress_id: 696
+date: 2011-02-05 07:36:53 Z
 categories:
 - Learning From Lew
+author: cherrywinklemoore
+comments: false
+excerpt: |-
+  Have you experienced a "grief burst"?  If you have ever experienced a significant loss, you probably have.
+
+  I had an unexpected one this week.
+layout: post
+link: https://www.cherrywinklemoore.com/2011/02/grief-bursts-february-4-2011/
+wordpress_id: 696
 ---
 
 Shortly after I went to work at the hospice where I am a chaplain, I learned about “grief bursts” from the Bereavement Coordinator. I hadn’t heard the definition but I was familiar with the experience.

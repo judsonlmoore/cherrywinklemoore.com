@@ -1,15 +1,6 @@
 ---
-author: cherrywinklemoore
-comments: false
-date: 2009-07-11 17:47:23+00:00
-excerpt: My best experience of a Social Worker - and my worst - happened on the same
-  day in the same room.  One listened to me deeply and had for a long time; she helped
-  me to see that our family was "in a heap on the floor."
-layout: post
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-best-and-worst-social-worker/
-slug: learning-from-lew-best-and-worst-social-worker
 title: The Best (and worst) Social Worker
-wordpress_id: 168
+date: 2009-07-11 17:47:23 Z
 categories:
 - Learning From Lew
 tags:
@@ -20,6 +11,14 @@ tags:
 - MSW
 - out-of-home placement
 - University of Kentucky
+author: cherrywinklemoore
+comments: false
+excerpt: My best experience of a Social Worker - and my worst - happened on the same
+  day in the same room.  One listened to me deeply and had for a long time; she helped
+  me to see that our family was "in a heap on the floor."
+layout: post
+link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-best-and-worst-social-worker/
+wordpress_id: 168
 ---
 
 “THAT'S EASY FOR YOU TO SAY! IT ISN'T YOUR CHILD HAVING UNCONTROLLABLE SEIZURES ON YOUR LIVINGROOM FLOOR!!"
