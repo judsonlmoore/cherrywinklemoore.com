@@ -15,7 +15,7 @@ excerpt: I've told so much of Lew's story.  It seems right to tell this part, to
   will totally understand if nobody reads it but I share it nonetheless.  It was a
   bleak, dark, snowy night but God was present in many people helping us and in Lew,
   helping him.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/10/learning-from-lew-the-day-lew-died/
 wordpress_id: 293
 ---

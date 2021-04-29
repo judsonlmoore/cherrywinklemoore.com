@@ -12,7 +12,7 @@ tags:
 - St. Thomas Episcopal Church
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2014/08/matthew-1413-21-the-feeding-of-the-5000/
 wordpress_id: 1043
 ---

@@ -1,0 +1,251 @@
+--- 
+layout: compress    
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  {% if jekyll.environment == 'production' %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T3FVMLVCV0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-T3FVMLVCV0');
+  </script>
+  {% endif %}
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  {% seo %}
+
+  <!-- Libs CSS -->
+  <link rel="stylesheet" href="{{ '/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css'| absolute_url }}">
+
+  <!-- Theme CSS -->
+  <link rel="stylesheet" href="{{'/assets/css/theme.min.css'| absolute_url }}">
+
+  <!-- Site Icon -->
+  <link rel="icon" href="{{'/assets/images/favicon.png'| absolute_url }}" />
+
+  {% if page.layout == "shop-single" or page.layout == "shop" %}
+  <!-- Snipcart eCommerce -->
+  <link rel="preconnect" href="https://app.snipcart.com">
+  <link rel="preconnect" href="https://cdn.snipcart.com">
+  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css" />
+  {% endif %}
+
+</head>
+
+  {% capture layout %}
+  {% if page.layout %}layout-{{ page.layout }}
+  {% endif %}
+  {% endcapture %}
+
+  <body class="{{layout}}">
+
+    {% if jekyll.environment == 'production' %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    {% endif %}
+
+    <!-- header -->
+    <div class="header fixed-top border-top-3 border-top border-primary {% if layout.dark-navbar == true %}bg-dark{% endif %}">
+      <!-- navigation start -->
+      <div class="container-lg">
+        <nav class="navbar navbar-expand-lg navbar-default">
+          <a class="navbar-brand" href="{{ site.url | absolute_url }}">
+            <h1 class="font-weight-bolder d-block text-white h4 m-0">Cherry Winkle Moore</h1>
+            <p class="font-weight-light h6 text-white m-0">making divine images visible</p>
+          </a>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar top-bar mt-0"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbar-default">
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation">
+              <i class="fas fa-times"></i>
+            </button>
+            <ul class="navbar-nav ml-auto mr-lg-3">
+              <li class="nav-item dropdown">
+                <a class="nav-link d-lg-none" href="#">
+                  Menu
+                </a>
+              </li>
+              {% for item in site.data.nav.main %}
+              {% if item.dropdown-title %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="" id="menu-{{ forloop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  {{ item.dropdown-title }}
+                </a>
+                <ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-{{ forloop.index }}">
+                  {% for entry in item.dropdown-items %}
+                  <li>
+                    <a class="dropdown-item" href="{{ entry.url | absolute_url }}">
+                      <div class="d-flex align-items-center">
+                        <div class="mr-3 icon-shape icon-lg rounded-circle bg-light">
+                          <i class="{{ entry.icon }} font-24"></i>
+                        </div>
+                        <div>
+                          <h5 class="mb-0">{{ entry.title }}</h5>
+                          <span class="font-12 text-muted">
+                            {{ entry.subtitle }}
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </li>
+              {% else %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ item.url }}" id="menu-{{ forloop.index }}">
+                  {{ item.title }}
+                </a>
+              </li>
+              {% endif %}
+
+              {% endfor %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="" id="search" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-search"></i>
+                </a>
+                <div class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left p-2" aria-labelledby="search">
+                  <form class="my-2 my-lg-0">
+                    <input type="search" class="form-control mr-sm-2" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off" >
+                    <ul class="list-group" id="results-container" style="z-index:9999; position:absolute;"></ul>
+                  </form>
+                </div>
+              </li>
+            </ul>
+            <div class="header-btn">
+              <a href="{{ 'book' | absolute_url }}" class="btn btn-primary btn-sm">Buy art <i class="fas fa-book"></i></a>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <!-- navigation close -->
+    </div>
+
+    {{ content }}
+
+    <!-- Footer -->
+    <div class="footer pt-11 pb-3 bg-dark text-base">
+      <div class="container">
+        <div class="row">
+          {% for item in site.data.nav.footer %}
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">{{ item.column-h }}</h4>
+              <ul class="list-unstyled list-group">
+                {% for entry in item.links %}
+                <li class="list-group-item"><a href="{{ entry.url | absolute_url }}" class="list-group-item-link">{{ entry.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          {% endfor %}
+          <div class="col-lg-4 col-md-8 col-12">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">Subscribe to our newsletter</h4>
+              <div>
+                <p>Subscribe to get notified daily new motivational &amp; inspiration tips.</p>
+                {% include form-opt-in.html %}
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="mt-8">
+              <ul class="list-inline">
+                <li class="list-inline-item">© {{ site.time | date: '%Y' }} {{ site.title }}</li>
+                {% for item in site.data.nav.bottom-bar %}
+                <li class="list-inline-item"><a href="{{ item.url | absolute_url }}" class="text-reset">{{ item.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% if page.layout == "blog-single" %}
+    <!-- Disqus Count -->
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
+      var disqus_config = function () {
+        this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
+      };
+    </script>
+    {% endif %}
+
+    <!-- Optional JavaScript -->
+
+    <!-- Libs JS -->
+    <script src="{{'/assets/libs/jquery/dist/jquery.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/prismjs/prism.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/leaflet/dist/leaflet.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/moment/min/moment.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/lightpick/lightpick.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/inputmask/dist/jquery.inputmask.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/lightbox/js/lightbox.min.js' | absolute_url }}"></script>
+    
+    <!-- clipboard -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="{{'/assets/js/theme.min.js' | absolute_url }}"></script>
+
+    <!-- Search JS -->
+    <script src="{{'/assets/js/simple-jekyll-search.min.js' | absolute_url }}"></script>
+    <script>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ 'search.json' | absolute_url }}',
+        searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 5,
+        fuzzy: true,
+        exclude: ['Welcome']
+      });
+    </script>
+
+    <!-- Modal popup controll -->
+    <script type="text/javascript"> 
+      $(document).ready(function () {
+        if (!sessionStorage.adModal) {
+          setTimeout(function () {
+            $("#admodal").find(".modal");
+            $("#admodal").modal({
+              backdrop: "static",
+              keyboard: false,
+            });
+          }, 30000);
+          sessionStorage.adModal = 1;
+        }
+      });
+    </script>
+
+    {% if page.layout == "shop-single" or page.layout == "shop" %}
+    <!-- Snipcart eCommerce -->
+    <script async src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
+    <div hidden id="snipcart" data-api-key="ZDYzYWRmODYtNTBhMC00ZDM0LWI5OTEtZDIyZjE1Zjk0Y2VlNjM3NDQ0MDM0OTYxNDIwOTQ1"></div>
+    {% endif %}
+
+    {% include schema.html %}
+
+  </body>
+
+</html>

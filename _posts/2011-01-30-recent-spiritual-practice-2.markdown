@@ -9,7 +9,7 @@ excerpt: In my last post I wrote about seeking a personal spiritual practice.  T
   post is about what I am actually doing now.  The real point is to lead a life faithful
   to God - whatever pattern for prayer is used.  I pray you will find - and use -
   a pattern for prayer and devotion that works for you.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2011/01/recent-spiritual-practice-2/
 wordpress_id: 691
 ---

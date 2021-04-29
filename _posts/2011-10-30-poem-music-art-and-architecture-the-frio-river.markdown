@@ -11,7 +11,7 @@ excerpt: |-
   This retreat was led by Ian Cron and Luci Shaw. On Saturday morning we were given a time of silence with the instructions to go to water.  Look at water.  Listen to water.  Here's some of what I heard and saw and thought during that time.
 
   Later when many of us shared what we had written or thought or (in one case) filmed, someone said, "Never doubt the power of the artist prompt". I don't think I will any more.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2011/10/poem-music-art-and-architecture-the-frio-river/
 wordpress_id: 703
 ---

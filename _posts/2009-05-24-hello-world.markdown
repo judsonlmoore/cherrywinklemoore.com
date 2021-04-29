@@ -5,7 +5,7 @@ categories:
 - Art
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/05/hello-world/
 wordpress_id: 1
 ---

@@ -5,9 +5,10 @@ categories:
 - Hospice Stories
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2014/12/some-thoughts-on-hope-and-mary/
 wordpress_id: 1092
+image: /uploads/pieta.jpgxlMedium.jpg
 ---
 
 We hope. We don’t have to give up hope but sometimes our hopes have to change.

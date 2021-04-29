@@ -18,7 +18,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
   was clear to me that Mabel had on open line to the throne of God.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-and-his-brother-prayer-chases-fear-away/
 wordpress_id: 100
 ---

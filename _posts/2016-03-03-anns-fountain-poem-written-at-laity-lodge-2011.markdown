@@ -9,9 +9,10 @@ tags:
 - poem
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2016/03/anns-fountain-poem-written-at-laity-lodge-2011/
 wordpress_id: 1369
+image: /uploads/IMG_3142.jpg
 ---
 
 Artist's Retreat, 2011. Ian Cron asked us to go experience water and come back in about twenty minutes. This happened. It's taken me six years to share it.

@@ -7,7 +7,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: Five pastel portraits from the summer of 2010.  What do you do to recreate
   your spirit?
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2010/07/art-pastel-portraits-2010/
 wordpress_id: 591
 ---

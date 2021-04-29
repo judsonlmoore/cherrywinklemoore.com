@@ -13,7 +13,7 @@ excerpt: If you or anyone you know is a person who is discounted by others, this
   is for you.  If you are the parent, grandparent, sibling, friend of a person others
   see as useless, a burden, a tragedy (oh, the labels we hear!), you may find grace
   in Lew's story.  I know I did.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-introduction/
 wordpress_id: 40
 ---

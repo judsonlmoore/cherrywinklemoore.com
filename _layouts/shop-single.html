@@ -1,0 +1,124 @@
+---
+layout: 			default
+---
+
+<!-- pageheader section -->
+<div class="bg-shape bg-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+        <div class="py-lg-14 pt-12 pb-8">
+          <h1 class="h2 text-white">Shop</h1>
+          <!-- breadcrumbs -->
+          <div class="custom-breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href="{{ site.url | absolute_url }}">Home</a>
+              </li>
+              <li class="breadcrumb-item">
+                <a href="{{ 'shop' | absolute_url }}">Shop</a>
+              </li>
+              <li class="breadcrumb-item">
+                <a href="{{ page.product.category | prepend:'shop' | absolute_url }}">{{ page.product.category | capitalize }}</a>
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">
+                {{ page.title }}
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- product details -->
+<div class="py-12">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- image -->
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="{{ page.image }}" alt="{{ page.product.title }}" class="img-fluid" />
+      </div>
+      <!-- description -->
+      <div class="offset-lg-1 col-lg-7 col-md-8 col-12">
+        <h2>{{ page.title }}</h2>
+        <h3 class="lead">{{ page.medium }}</h3>
+        <p>by<span class="text-primary"> {{ page.author }}</span></p>
+        <hr class="my-4" />
+        <div class="mb-3 font-20">
+          <span class="text-dark mr-2">${{ page.price }}</span>
+        </div>
+
+        <!-- Buy product on site via Snipcart integration -->
+        {% if page.price != nill %}
+        <button class="snipcart-add-item btn btn-outline-primary mr-2"
+          data-item-url="{{ page.url | absolute_url }}"
+          {% if page.id %}
+            data-item-id="{{ page.id }}"
+          {% endif %}
+          {% if page.price %}
+           data-item-price="{{ page.price }}"
+          {% endif %}
+          {% if page.description %}
+            data-item-description="{{ page.description }}"
+          {% endif %}
+          {% if page.image %}
+            data-item-image="{{ page.image }}"
+          {% endif %}
+          {% if page.title %}
+            data-item-name="{{ page.title }}"
+          {% endif %}
+          {% if page.custom1-name %}
+            data-item-custom1-name="{{ page.custom1-name }}"
+          {% endif %}
+          {% if page.custom1-options %}
+            data-item-custom1-options="{{ page.custom1-options }}"
+          {% endif %}
+          {% if page.medium %}
+            data-item-custom1-value="{{ page.medium }}"
+          {% endif %}
+          >
+          Add to cart
+        </button>
+        {% endif %}
+
+        {% if page.category %}
+        <p class="mt-4 font-14 mb-1">
+          <span class="text-dark mr-1">Category:</span>
+          <a href="#!" class="text-inherit ml-1">{{ page.category | capitalize }}</a>
+        </p>
+        {% endif %}
+
+        {% if page.tags %}
+        <p class="font-14">
+          <span class="text-dark mr-1">Tags:</span>
+          {% for tag in page.tags %}
+          <a href="#!" class="text-inherit ml-1">{{ tag }}</a>
+          {% endfor %}
+        </p>
+        {% endif %}
+
+      </div>
+    </div>
+    <hr class="my-10" />
+    <!-- product detail list -->
+    <div class="row">
+      <div class="col-lg-4 col-md-5 col-12">
+        <h4 class="mb-3">Product details</h4>
+        <ul class="list-group list-group-flush font-14 mb-0">
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Medium:</span> {{ page.medium }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Date:</span> {{ page.date | date_to_string: "ordinal", "US" }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Dimensions:</span> {{ page.size }}</li>
+        </ul>
+      </div>
+      <!-- description -->
+      <div class="col-lg-8 col-md-7 col-12">
+        <h4 class="mb-3">Description</h4>
+        
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+</div>

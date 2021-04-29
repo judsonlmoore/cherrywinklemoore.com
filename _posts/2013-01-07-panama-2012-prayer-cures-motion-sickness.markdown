@@ -5,7 +5,7 @@ categories:
 - New
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2013/01/panama-2012-prayer-cures-motion-sickness/
 wordpress_id: 911
 ---

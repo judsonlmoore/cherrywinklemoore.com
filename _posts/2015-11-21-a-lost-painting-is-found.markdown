@@ -6,9 +6,10 @@ categories:
 - New
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2015/11/a-lost-painting-is-found/
 wordpress_id: 1238
+image: /uploads/0902150816c1.jpg
 ---
 
 This painting was "lost" to me for 41 years. I painted it in 1974 in Tuscaloosa, Alabama where I was a graduate student in the Fine Arts Department. When we were leaving Birmingham in 1976, I left it with a friend. I told her she could have it or take it to Baptist Church of the Covenant and offer it to them.  I never knew what happened to it after that until recently.

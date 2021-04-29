@@ -9,7 +9,7 @@ excerpt: |-
   Have you experienced a "grief burst"?  If you have ever experienced a significant loss, you probably have.
 
   I had an unexpected one this week.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2011/02/grief-bursts-february-4-2011/
 wordpress_id: 696
 ---

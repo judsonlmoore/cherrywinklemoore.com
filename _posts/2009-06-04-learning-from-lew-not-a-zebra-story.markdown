@@ -10,7 +10,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: Every person with a disability or disease is a person first.  Lew was not
   a "zebra" but a child who had severe multiple disabilities.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-not-a-zebra-story/
 wordpress_id: 46
 ---

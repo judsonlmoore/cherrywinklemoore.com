@@ -15,7 +15,7 @@ comments: false
 excerpt: This quote is one of the most helpful things I have read anywhere in helping
   me to deal with the disabilities and death of my son, Lew.  My thanks to John B.
   Cobb, Jr.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-where-was-god-when-lew-was-declining-and-dying/
 wordpress_id: 209
 ---

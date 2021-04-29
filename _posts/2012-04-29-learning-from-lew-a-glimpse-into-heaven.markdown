@@ -10,7 +10,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: Recently I got a glimpse of my son, Lew, in Heaven. It has given me a lot
   of joy.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2012/04/learning-from-lew-a-glimpse-into-heaven/
 wordpress_id: 717
 ---

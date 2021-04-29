@@ -18,7 +18,7 @@ excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the ar
   dream was just that image but I made up a story about what happened before the picture
   and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
   this story.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-the-angel-of-transition/
 wordpress_id: 372
 ---

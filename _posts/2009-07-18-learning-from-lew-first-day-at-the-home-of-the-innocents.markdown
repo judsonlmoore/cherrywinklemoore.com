@@ -14,7 +14,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: On a terrible day in the life of our family, God's grace breaks through in
   a surprising way.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-first-day-at-the-home-of-the-innocents/
 wordpress_id: 195
 ---

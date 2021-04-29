@@ -11,7 +11,7 @@ tags:
 - St. Thomas Episcopal Church
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2014/08/matthew-1422-33-jesus-walks-on-water-and-calms-the-storm/
 wordpress_id: 937
 ---

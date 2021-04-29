@@ -8,9 +8,10 @@ tags:
 - Art
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2016/02/rooted-and-grounded-a-painting/
 wordpress_id: 1371
+image: /uploads/IMG_0088.jpg
 ---
 
 I attended a spiritual retreat sometime in the 90s. At the first meeting the retreat leader passed out index cards.

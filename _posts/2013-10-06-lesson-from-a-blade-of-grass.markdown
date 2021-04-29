@@ -5,7 +5,7 @@ categories:
 - Spiritual Life
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2013/10/lesson-from-a-blade-of-grass/
 wordpress_id: 1010
 ---

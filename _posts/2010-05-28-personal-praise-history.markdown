@@ -19,7 +19,7 @@ excerpt: |-
   I was challenged to write my own Praise History and to reread it often.  I have found this to be a rich experience and I recommend it to you.
 
   Here's mine.  What would yours be like?
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2010/05/personal-praise-history/
 wordpress_id: 581
 ---

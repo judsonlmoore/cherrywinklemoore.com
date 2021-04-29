@@ -9,7 +9,7 @@ excerpt: David had been a shepherd so when he wrote about God he used imagery he
   week I was challenged to use the format of the 23rd Psalm and write a version using
   a title meaningful to me.  I wrote more than one but here is "The Lord is my Master
   Artist."  How would you do this assignment to make it fit your life?
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2010/02/the-twenty-third-psalm-personal-version-artist/
 wordpress_id: 484
 ---

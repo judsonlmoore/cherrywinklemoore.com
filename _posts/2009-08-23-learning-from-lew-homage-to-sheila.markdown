@@ -14,7 +14,7 @@ excerpt: |-
   Many staff members at the Home of the Innocents in Louisville, Kentucky were special friends to us and to Lew.  Debbie, Patty, Dawn.  So many others. Physical Therapists.  Volunteers.  Administrators.  But Sheila stood out.  It was love at first sight.  How could I ever thank Sheila enough?
 
   When Lew died, Sheila told me she was never going to allow herself to get so attached to a patient again.  It was too painful.  But, Sheila, I hope that is not what happened.  You were such a blessing to Lew and to his family.  Thank you, dear one.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/08/learning-from-lew-homage-to-sheila/
 wordpress_id: 266
 ---

@@ -17,7 +17,7 @@ excerpt: |-
   When Judson L. Moore was born in June of 1983, his older brother was twenty-two months old.  His parents wondered how Judson would "do" with a brother who had severe health challenges.
 
   A proud mother tells part of the story.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2010/01/learning-from-one-another-lew-and-judson/
 wordpress_id: 447
 ---

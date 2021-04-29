@@ -12,7 +12,7 @@ comments: false
 excerpt: This poem attempts to explain why I wrote it and why I am writing all of
   these stories and poems about Lew and sending them out into the world.  I want people
   to see him and others like him.
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-the-poem-i-said-i-would-never-write/
 wordpress_id: 200
 ---

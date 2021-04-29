@@ -7,7 +7,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: Some thoughts about "The Worst Loss".  I'm told I have experienced it but
   I wonder...
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2010/12/poem-the-worst-loss/
 wordpress_id: 649
 ---

@@ -9,7 +9,7 @@ excerpt: |-
   I have had dreams of a romantic nature for at least forty years.  The male romantic lead is almost never someone I know or someone I recognize: not someone from my real life or an actor or person whose face I would know. Sometimes the woman is not “me” but in this dream she was.  What an amazing subconscious to create these people and these stories!
 
   Do you work with your dreams?
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2009/12/dreamwork-god-pursuing-me-finding-me/
 wordpress_id: 414
 ---

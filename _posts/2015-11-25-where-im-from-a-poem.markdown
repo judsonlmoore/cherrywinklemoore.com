@@ -5,9 +5,10 @@ categories:
 - Art
 author: cherrywinklemoore
 comments: false
-layout: post
+layout: blog-single
 link: https://www.cherrywinklemoore.com/2015/11/where-im-from-a-poem/
 wordpress_id: 1271
+image: /uploads/Cherrys-Shadow1.jpg
 ---
 
 I am from the King James Bible and the Singer Sewing Machine and the '52 Chevy.

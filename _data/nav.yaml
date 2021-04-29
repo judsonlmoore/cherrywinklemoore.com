@@ -1,0 +1,76 @@
+main:
+  - title: About
+    url: /about
+  - dropdown-title: Gallery
+    dropdown-items:
+      - title: Oil
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Acrylic
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Original Prints
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Still Life
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Spiritual
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Portraits
+        subtitle: Art for sale
+        icon: fas fa-user-plus
+        url: /store
+      - title: Archived
+        subtitle: Sold art
+        icon: fas fa-user-plus
+        url: /store-archived
+  - dropdown-title: Musings
+    dropdown-items:
+      - title: On Faith
+        subtitle: Writings about faith
+        icon: fas fa-user-plus
+        url: /faith
+      - title: On Disability
+        subtitle: Writings about disabilities
+        icon: fas fa-user-plus
+        url: /disability
+  - title: Poems
+    url: /poems
+  - title: Contact Cherry
+    url: /contact
+footer:
+  - column-h: Links
+    links:
+      - title: Home
+        url: /
+      - title: Home
+        url: /
+      - title: Home
+        url: /
+      - title: Login
+        url: https://manage.siteleaf.com/login
+bottom-bar:
+  - title: Terms of Service
+    url: /terms
+  - title: Privacy Policy
+    url: /privacy
+
+
+
+
+
+
+
+ 
+
+
+
+
+
