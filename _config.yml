@@ -1,6 +1,7 @@
 ---
 title: Cherry Winkle Moore
 timezone: UTC
+permalink: /:year/:month/:title/
 collections:
   posts:
     title: Posts
@@ -23,6 +24,8 @@ theme: minima
 plugins:
 - jekyll-feed
 - jekyll-strapi
+include:
+- _uploads
 exclude:
 - ".sass-cache/"
 - ".jekyll-cache/"
