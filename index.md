@@ -3,14 +3,12 @@ title: Home
 date: 2015-02-15 01:29:20 Z
 author: judsonlmoore
 comments: true
-layout: page
+layout: home
 link: https://www.cherrywinklemoore.com/
 slug: home
 wordpress_id: 1131
-layout: home
-image: /uploads/lunch-alone.jpg
+image: "/uploads/lunch-alone.jpg"
 ---
-
 
 ### Cherry Winkle Moore, MFA, MDiv
 
