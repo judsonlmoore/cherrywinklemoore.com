@@ -8,7 +8,7 @@ link: https://www.cherrywinklemoore.com/
 slug: home
 wordpress_id: 1131
 layout: home
-image: /uploads/bg-body-pain.jpg
+image: /uploads/lunch-alone.jpg
 ---
 
 
