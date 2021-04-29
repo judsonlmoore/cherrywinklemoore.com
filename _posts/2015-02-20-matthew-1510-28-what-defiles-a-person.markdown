@@ -11,7 +11,7 @@ comments: false
 layout: blog-single
 link: https://www.cherrywinklemoore.com/2015/02/matthew-1510-28-what-defiles-a-person/
 wordpress_id: 1067
-image: /uploads/Integrated.jpg
+image: "/uploads/Integrated.jpg"
 ---
 
 ## St. Thomas Episcopal Church, College Station, Texas - August 17, 2014

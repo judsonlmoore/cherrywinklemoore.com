@@ -2,18 +2,44 @@
 title: Cherry Winkle Moore
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  gallery:
-    title: Gallery
-    output: true
-  authors:
-    title: Authors
-    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: page
+    author: cherrywinklemoore
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: blog-single
+    is_post: true
+- scope:
+    path: _pages
+  values:
+    layout: page
+    permalink: "/:basename"
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: blog-author
+- scope:
+    path: _gallery
+  values:
+    layout: shop-single
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
 description: Write an awesome description for your new site here. You can edit this
@@ -22,34 +48,32 @@ description: Write an awesome description for your new site here. You can edit t
 baseurl: 
 url: https://github.cherrywinklemoore.com
 author: cherrywinklemoore
-logo: /favicon.ico
+logo: "/favicon.ico"
 lang: en_US
-favicon: /favicon.ico
-og_image: /assets/images/bg-hero.jpg
-# twitter_username: 
-# github_username: 
+favicon: "/favicon.ico"
+og_image: "/assets/images/bg-hero.jpg"
 plugins:
-  - jekyll-feed
-  - jekyll-strapi
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-target-blank
+- jekyll-feed
+- jekyll-strapi
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-target-blank
 gems:
-  - jekyll-paginate-v2
+- jekyll-paginate-v2
 include:
-  - _uploads
-  - _pages
+- _uploads
+- _pages
 exclude:
-  - ".sass-cache/"
-  - ".jekyll-cache/"
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+- ".sass-cache/"
+- ".jekyll-cache/"
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
 strapi:
   endpoint: http://localhost:1337
 markdown: kramdown
@@ -77,27 +101,27 @@ cloudinary:
 compress_html:
   clippings: all
   comments:
-    - '<!-- '
-    - ' -->'
+  - "<!-- "
+  - " -->"
   endings:
-    - html
-    - head
-    - body
-    - li
-    - dt
-    - dd
-    - rt
-    - rp
-    - optgroup
-    - option
-    - colgroup
-    - caption
-    - thead
-    - tbody
-    - tfoot
-    - tr
-    - td
-    - th
+  - html
+  - head
+  - body
+  - li
+  - dt
+  - dd
+  - rt
+  - rp
+  - optgroup
+  - option
+  - colgroup
+  - caption
+  - thead
+  - tbody
+  - tfoot
+  - tr
+  - td
+  - th
   profile: false
   blanklines: false
   ignore:
@@ -105,8 +129,8 @@ compress_html:
 pagination:
   enabled: false
   per_page: 9
-  permalink: '/page-:num/'
-  title: ':title'
+  permalink: "/page-:num/"
+  title: ":title"
   limit: 0
   sort_field: date
   sort_reverse: true
@@ -117,51 +141,25 @@ autopages:
   enabled: false
   categories:
     layouts:
-      - autopage.html
-    title: 'Posts in category :cat'
-    permalink: '/category/:cat'
+    - autopage.html
+    title: Posts in category :cat
+    permalink: "/category/:cat"
     slugify:
       mode: default
       case: true
   tags:
     layouts:
-      - autopage.html
-    title: 'Posts tagged with :tag'
-    permalink: '/tag/:tag'
+    - autopage.html
+    title: Posts tagged with :tag
+    permalink: "/tag/:tag"
     slugify:
       mode: default
       case: true
   collections:
     layouts:
-      - autopage.html
-    title: 'Posts in collection :coll'
-    permalink: '/collection/:coll'
+    - autopage.html
+    title: Posts in collection :coll
+    permalink: "/collection/:coll"
     slugify:
       mode: default
       case: true
-defaults:
-  - scope:
-      path: ''
-    values:
-      layout: page
-      author: cherrywinklemoore
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: blog-single
-      is_post: true
-  - scope:
-      path: _pages
-    values:
-      layout: page
-      permalink: '/:basename'
-  - scope:
-      path: ''
-      type: authors
-    values:
-      layout: blog-author
-  - scope:
-      path: _gallery
-    values:
-      layout: shop-single
