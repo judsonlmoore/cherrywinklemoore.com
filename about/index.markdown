@@ -21,7 +21,3 @@ Cherry has a son, Judson, who is a Citizen of the World. He is a Returned Peace 
 Cherry was ordained to the gospel ministry in 2000 by Emmanuel Baptist Church in Alexandria, Louisiana and is endorsed as a hospice chaplain by the Cooperative Baptist Fellowship.
 
 Although Cherry is employed by Hospice Brazos Valley in Bryan, Texas the views expressed here are her own and not those of the agency or of any agency or of any person or organization affiliated or doing business with the agency.
-
-
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
