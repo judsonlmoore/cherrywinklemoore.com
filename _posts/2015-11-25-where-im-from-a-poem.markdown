@@ -34,7 +34,7 @@ I am from a pump organ built by a great uncle with his father and dozens of phot
 
 I am from the dining table where we all gathered every night and now is mine.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/View-of-house-3-1024x768.jpg)
+![](/uploads/View-of-house-3-1024x768.jpg)
 
 Now write your own. Google "[Where I'm FromTemplate](https://www.google.de/search?q=Where+I%27m+From+Template)" and you will find the format and many examples.
 

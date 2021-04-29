@@ -55,7 +55,7 @@ I can help you breathe if you like.
 
 **L:** You can float?  Show me.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/sketch-angel-in-flight.jpg)
+![](/uploads/sketch-angel-in-flight.jpg)
 
 (Angel takes a spin around the room avoiding the doctors and nurses who are there but they don't see or feel her anyway.)
 
@@ -70,7 +70,7 @@ you will hear mine.
 
 **L:** Breathing is getting harder...I'd like your help.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/painting-angel-lifting-lew.jpg)
+![](/uploads/painting-angel-lifting-lew.jpg)
 
 (Angel floats above Lew and places her mouth over hi**A:**  Her arms support his torso.)
 
@@ -108,7 +108,7 @@ leave.
 
 But Sheila...we can wait for Sheil**A:**  She's on her way and very close.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/sketch-bedside-comfort.jpg)
+![](/uploads/sketch-bedside-comfort.jpg)
 
 **Sheila:** "Luder, Luder.  Miss Sheila is here.
 
@@ -152,4 +152,4 @@ His eyelids fly open.  He takes another breath, quickly, deeply._
 
 **A:**  Let's go up toward the light, Lew.  That's where everyone is waiting.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/Ressurection1-e1347729949662.jpg)
+![](/uploads/Ressurection1-e1347729949662.jpg)

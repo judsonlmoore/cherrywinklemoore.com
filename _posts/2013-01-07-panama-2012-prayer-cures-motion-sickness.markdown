@@ -20,7 +20,7 @@ A memory saved me from certain sickness. I remembered the first time I walked a 
 
 Even so when we stopped and were waiting to board our 15-passenger fiberglass boat at the primitive “port” (a rectangle of concrete sticking out into the Atlantic Ocean), I gratefully accepted a motion sickness pill and sat for awhile with my head between my knees. I’m fairly sure I was some shade of green matching the surrounding jungle.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/DSC04676-1024x768.jpg)
+![](/uploads/DSC04676-1024x768.jpg)
 
 During the next seven days we traveled many times and many miles in this boat but only one of those times did I feel a possible motion sickness coming on. I reverted to the focused breathing and then said the Jesus Prayer for everyone at work, my Sunday School class and my family. I’ve used this technique during several MRIs and dental visits but none of those experiences lasted as long as that boat trip.
 

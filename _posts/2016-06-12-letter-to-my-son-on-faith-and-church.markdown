@@ -11,9 +11,7 @@ link: https://www.cherrywinklemoore.com/2016/06/letter-to-my-son-on-faith-and-ch
 wordpress_id: 1367
 ---
 
-[et_pb_section admin_label="section"]
-		[et_pb_row admin_label="row"]
-			[et_pb_column type="4_4"][et_pb_text admin_label="Text"]I wrote this letter to my son after he and I visited a church a couple of years ago. I wanted him to understand certain opinions I hold. Now I share them with you.
+I wrote this letter to my son after he and I visited a church a couple of years ago. I wanted him to understand certain opinions I hold. Now I share them with you.
 
 Dear Son,
 
@@ -25,23 +23,11 @@ It does bother me a little that certain things I think are theologically importa
 
 Here are some of the issues in the Affirmation of Faith that stand out to me:
 
-
-
- 	
-  1. Inerrancy
-
- 	
-  2. The “elect” are those who will be “saved”
-
- 	
-  3. “Once saved; always saved”
-
- 	
-  4. Spiritual gifts
-
- 	
-  5. Proper officers of the church
-
+1. Inerrancy
+2. The “elect” are those who will be “saved”
+3. “Once saved; always saved”
+4. Spiritual gifts
+5. Proper officers of the church
 
 This is not going to be research paper but here’s a few thoughts from your mother on the above points.
 
@@ -62,6 +48,4 @@ I read this great quote from an author named Kathleen Norris that goes something
 Blessings, dear one, on your journey toward a grown up view of God and the world.
 
 I love you.
-Mom[/et_pb_text][/et_pb_column]
-		[/et_pb_row]
-	[/et_pb_section]
+Mom

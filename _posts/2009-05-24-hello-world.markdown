@@ -18,6 +18,6 @@ The first I call "Caregiver Stress." It represents life as I often felt it in th
 
 The second I call "Dissolving into a Heap of Tears." The original drawing was me and expressed how I often felt in the early months after Lew died in 1998. I showed the drawing to a friend who was also the mother of a child who had severe multiple disabilities and she said, "This woman is crying not just from her eyes but from every cell of her body." When I was dusting this painting off to take it to St. Andrew's Episcopal Church, my beloved Bob said, "I know it's not what you intended, but in this context this could be a woman crying at the foot of the cross." Indeed.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/Caregiver+Stress.jpg)
+![](/uploads/Caregiver+Stress.jpg)
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/Dissolving-into-a-Heap-of-Tears.jpg)
+![](/uploads/Dissolving-into-a-Heap-of-Tears.jpg)

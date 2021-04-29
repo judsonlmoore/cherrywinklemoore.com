@@ -33,7 +33,7 @@ I read Matthew 14:22-33;
 _Silence_
 
 
-## ![](https://www.cherrywinklemoore.com/wp-content/uploads/photo-1-1024x765.jpg)ACTIVITY
+## ![](/uploads/photo-1-1024x765.jpg)ACTIVITY
 
 
 I introduced the idea of a line being able to impart an emotion. I referred to Drawing on the Artist Within by Betty Edwards. While some were familiar with Ms. Edwards' other book, Drawing on the Right Side of the Brain, no one were familiar with this book. I gave them each an 8 1/2"  X 11" piece of white paper and asked them to fold it into four equal rectangles. I asked them to draw lines only in these spaces: no symbols, words or smiley faces. In the upper left space I asked them to draw a line that - for them - depicted peacefulness. In the other three space I lead them to use lines to depict fear, joy and anger. After they had done this, I showed examples from Betty's book and shared her insight that - at least in Western culture - there seems to be a fairly universal language of line.

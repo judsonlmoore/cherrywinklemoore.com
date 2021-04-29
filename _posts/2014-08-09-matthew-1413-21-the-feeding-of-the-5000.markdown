@@ -35,7 +35,7 @@ Are we told what time of day it is?  Is the little boy whose lunch this was men
 
 I read the text again and asked them to listen for more details and to play the scene in their imagination as if they were filming a video of the story. What else do they see? What do you see Jesus doing in your film?
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/AIR-Feeding-5000-1024x765.jpg)
+![](/uploads/AIR-Feeding-5000-1024x765.jpg)
 
 
 ## MATERIALS
@@ -49,7 +49,7 @@ I had a curtain rod draped with black netting (fish net?) and various other supp
 
 I encouraged the participants to decorate their fish as individually and creatively as possible. If they had some insight from the text, I encouraged them to write that on their fish or to simply freely decorate it. After a period of working on our fish, we had a time of discussing our fish and our thoughts about the text.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/AIR-Feed-5000-2-1024x765.jpg)
+![](/uploads/AIR-Feed-5000-2-1024x765.jpg)
 
 
 ## INSIGHTS THAT EMERGED

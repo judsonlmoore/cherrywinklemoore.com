@@ -18,8 +18,8 @@ Throughout the year I work thirty hours per week as a chaplain for Hospice Braz
 
 In the summer when I am not teaching at Blinn, I attend this portrait group. I hope you have something in your life that balances your work and pain and brings you joy.
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/Meghan-2010-755x1024.jpg)
+![](/uploads/Meghan-2010-755x1024.jpg)
 
-![](https://www.cherrywinklemoore.com/wp-content/uploads/Joan-2010-770x1024.jpg)
+![](/uploads/Joan-2010-770x1024.jpg)
 
 
