@@ -6,3 +6,4 @@ status: On Hold
 Medium: Oil on canvas
 ---
 
+This is a great piece of art! 
