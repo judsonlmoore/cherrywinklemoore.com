@@ -4,7 +4,6 @@ date: 2009-05-24 00:53:40 Z
 author: cherrywinklemoore
 comments: false
 layout: page
-
 slug: about
 wordpress_id: 2
 ---

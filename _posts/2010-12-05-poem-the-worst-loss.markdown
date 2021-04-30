@@ -8,7 +8,6 @@ comments: false
 excerpt: Some thoughts about "The Worst Loss".  I'm told I have experienced it but
   I wonder...
 layout: blog-single
-
 wordpress_id: 649
 ---
 

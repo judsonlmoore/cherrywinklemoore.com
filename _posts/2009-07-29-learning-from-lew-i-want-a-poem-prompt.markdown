@@ -16,7 +16,6 @@ excerpt: Today in 2009 I found this poem prompt that I filled in six years ago, 
   2003.  The prompt had the first few words of every sentence.  Many of the things
   I "wanted" I now have and YOU are part of it!
 layout: blog-single
-
 wordpress_id: 226
 ---
 

@@ -8,7 +8,6 @@ comments: false
 excerpt: Five pastel portraits from the summer of 2010.  What do you do to recreate
   your spirit?
 layout: blog-single
-
 wordpress_id: 591
 ---
 

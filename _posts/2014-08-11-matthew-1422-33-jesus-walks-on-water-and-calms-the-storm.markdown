@@ -12,7 +12,6 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-
 wordpress_id: 937
 ---
 

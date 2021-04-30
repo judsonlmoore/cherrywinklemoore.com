@@ -12,7 +12,6 @@ comments: false
 excerpt: "Is one story the mother of the other?  The truth is bigger than the question.
   \ \nGod's Light is willing to go with us into every darkness."
 layout: blog-single
-
 wordpress_id: 106
 ---
 

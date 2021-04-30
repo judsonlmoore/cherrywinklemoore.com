@@ -18,7 +18,6 @@ excerpt: |-
 
   A proud mother tells part of the story.
 layout: blog-single
-
 wordpress_id: 447
 ---
 

@@ -10,7 +10,6 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-
 wordpress_id: 1369
 image: "/uploads/IMG_3142.jpg"
 ---

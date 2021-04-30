@@ -11,7 +11,6 @@ comments: false
 excerpt: Every person with a disability or disease is a person first.  Lew was not
   a "zebra" but a child who had severe multiple disabilities.
 layout: blog-single
-
 wordpress_id: 46
 ---
 

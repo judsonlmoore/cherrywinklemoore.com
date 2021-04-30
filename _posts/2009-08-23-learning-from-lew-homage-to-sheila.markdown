@@ -15,7 +15,6 @@ excerpt: |-
 
   When Lew died, Sheila told me she was never going to allow herself to get so attached to a patient again.  It was too painful.  But, Sheila, I hope that is not what happened.  You were such a blessing to Lew and to his family.  Thank you, dear one.
 layout: blog-single
-
 wordpress_id: 266
 ---
 

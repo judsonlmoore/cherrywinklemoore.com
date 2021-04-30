@@ -6,7 +6,6 @@ categories:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-
 wordpress_id: 1240
 image: "/uploads/Fire-book-page.jpg"
 ---

@@ -4,7 +4,6 @@ date: 2015-02-18 05:16:36 Z
 author: judsonlmoore
 comments: true
 layout: page
-
 slug: retreats
 wordpress_id: 1197
 ---

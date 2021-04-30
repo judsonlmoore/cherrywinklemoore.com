@@ -9,7 +9,6 @@ excerpt: This is a story I heard when Lew's diagnosis was new that continues to 
   helpful to me.  For the speaker it was merely an illustration but for me it was
   a ray of hope in a dark time.
 layout: blog-single
-
 wordpress_id: 56
 ---
 

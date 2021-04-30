@@ -12,7 +12,6 @@ author: cherrywinklemoore
 comments: false
 excerpt: A poem I wrote in 1971 and encouraging words for those tempted to quit.
 layout: blog-single
-
 wordpress_id: 33
 ---
 

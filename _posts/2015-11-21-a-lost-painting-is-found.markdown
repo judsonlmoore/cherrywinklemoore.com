@@ -7,7 +7,6 @@ categories:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-
 wordpress_id: 1238
 image: "/uploads/0902150816c1.jpg"
 ---

@@ -10,7 +10,6 @@ excerpt: In my last post I wrote about seeking a personal spiritual practice.  T
   to God - whatever pattern for prayer is used.  I pray you will find - and use -
   a pattern for prayer and devotion that works for you.
 layout: blog-single
-
 wordpress_id: 691
 ---
 

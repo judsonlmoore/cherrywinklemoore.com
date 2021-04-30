@@ -9,7 +9,6 @@ excerpt: I found this drawing in an old sketchbook.  A "family portrait" of sort
   it was drawn at a stressful time in my life but I was blessed to be able to imagine
   a different future - a future I inhabit now!
 layout: blog-single
-
 wordpress_id: 399
 ---
 

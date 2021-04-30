@@ -15,7 +15,6 @@ excerpt: "Both my mother and one of my sons were declining in 1993.  \nI went on
   spiritual retreat where God's comforting, nurturing presence met me.  \nA few years
   later this painting resulted.  What does God look like in your imagination?"
 layout: blog-single
-
 wordpress_id: 639
 ---
 

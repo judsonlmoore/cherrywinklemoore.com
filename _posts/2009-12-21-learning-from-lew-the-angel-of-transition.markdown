@@ -19,7 +19,6 @@ excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the ar
   and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
   this story.
 layout: blog-single
-
 wordpress_id: 372
 ---
 

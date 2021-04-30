@@ -17,7 +17,6 @@ comments: false
 excerpt: A poem about my sons.  They were loved before they were born but not special
   ordered.  They came as gifts from a gracious God.
 layout: blog-single
-
 wordpress_id: 369
 ---
 

@@ -15,7 +15,6 @@ comments: false
 excerpt: On a terrible day in the life of our family, God's grace breaks through in
   a surprising way.
 layout: blog-single
-
 wordpress_id: 195
 ---
 

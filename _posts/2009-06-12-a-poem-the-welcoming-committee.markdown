@@ -13,7 +13,6 @@ author: cherrywinklemoore
 comments: false
 excerpt: A poem imagining the moment of death.
 layout: blog-single
-
 wordpress_id: 77
 ---
 

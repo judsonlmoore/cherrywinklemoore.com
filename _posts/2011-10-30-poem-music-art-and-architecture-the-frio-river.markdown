@@ -12,7 +12,6 @@ excerpt: |-
 
   Later when many of us shared what we had written or thought or (in one case) filmed, someone said, "Never doubt the power of the artist prompt". I don't think I will any more.
 layout: blog-single
-
 wordpress_id: 703
 ---
 

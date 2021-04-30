@@ -19,7 +19,6 @@ comments: false
 excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
   was clear to me that Mabel had on open line to the throne of God.
 layout: blog-single
-
 wordpress_id: 100
 ---
 

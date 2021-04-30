@@ -11,7 +11,6 @@ comments: false
 excerpt: Recently I got a glimpse of my son, Lew, in Heaven. It has given me a lot
   of joy.
 layout: blog-single
-
 wordpress_id: 717
 ---
 

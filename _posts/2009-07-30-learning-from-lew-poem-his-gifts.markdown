@@ -21,7 +21,6 @@ excerpt: 'I read a Reader''s Digest article by Henri Nouwen about his relationsh
   life?  Maybe Henri and I were trying to say the same thing and were using different
   words.  Here''s my answer.'
 layout: blog-single
-
 wordpress_id: 233
 ---
 

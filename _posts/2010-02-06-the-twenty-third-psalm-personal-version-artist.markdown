@@ -10,7 +10,6 @@ excerpt: David had been a shepherd so when he wrote about God he used imagery he
   a title meaningful to me.  I wrote more than one but here is "The Lord is my Master
   Artist."  How would you do this assignment to make it fit your life?
 layout: blog-single
-
 wordpress_id: 484
 ---
 

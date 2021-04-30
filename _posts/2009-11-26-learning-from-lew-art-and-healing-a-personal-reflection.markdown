@@ -16,7 +16,6 @@ excerpt: Directions to an on-line article with drawings that I did in 1999.  Whi
   you are there, check out the rest of the Wayne E. Oates On-line Journal.  It is
   dedicated to the memory of Wayne Oates and deals with health, healing and spirituality.
 layout: blog-single
-
 wordpress_id: 313
 ---
 

@@ -20,7 +20,6 @@ excerpt: |-
 
   Here's mine.  What would yours be like?
 layout: blog-single
-
 wordpress_id: 581
 ---
 

@@ -16,7 +16,6 @@ excerpt: A friend made me promise I would publish this letter someday.  I was to
   this can be helpful to some other parent of a child who has disabilities - or to
   the friend of a parent.
 layout: blog-single
-
 wordpress_id: 249
 ---
 

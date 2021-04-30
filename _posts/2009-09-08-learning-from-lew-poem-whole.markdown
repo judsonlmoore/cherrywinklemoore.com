@@ -11,7 +11,6 @@ excerpt: |-
 
   This poem is my answer to that question.  He was whole in his unique way.
 layout: blog-single
-
 wordpress_id: 286
 ---
 

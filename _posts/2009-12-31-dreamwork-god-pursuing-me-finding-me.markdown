@@ -10,7 +10,6 @@ excerpt: |-
 
   Do you work with your dreams?
 layout: blog-single
-
 wordpress_id: 414
 ---
 

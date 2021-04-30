@@ -10,7 +10,6 @@ excerpt: |-
 
   I had an unexpected one this week.
 layout: blog-single
-
 wordpress_id: 696
 ---
 

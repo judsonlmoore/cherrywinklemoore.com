@@ -13,7 +13,6 @@ comments: false
 excerpt: Some thoughts about the dreams I had for Lew.  I guess I could say that these
   dreams have come true but not in the way I had imagined.
 layout: blog-single
-
 wordpress_id: 136
 ---
 

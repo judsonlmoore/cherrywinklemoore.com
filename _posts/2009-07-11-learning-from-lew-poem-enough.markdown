@@ -13,7 +13,6 @@ comments: false
 excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
   the poem."
 layout: blog-single
-
 wordpress_id: 158
 ---
 

@@ -16,7 +16,6 @@ excerpt: This quote is one of the most helpful things I have read anywhere in he
   me to deal with the disabilities and death of my son, Lew.  My thanks to John B.
   Cobb, Jr.
 layout: blog-single
-
 wordpress_id: 209
 ---
 

@@ -16,7 +16,6 @@ excerpt: I've told so much of Lew's story.  It seems right to tell this part, to
   bleak, dark, snowy night but God was present in many people helping us and in Lew,
   helping him.
 layout: blog-single
-
 wordpress_id: 293
 ---
 

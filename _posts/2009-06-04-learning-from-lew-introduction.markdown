@@ -14,7 +14,6 @@ excerpt: If you or anyone you know is a person who is discounted by others, this
   see as useless, a burden, a tragedy (oh, the labels we hear!), you may find grace
   in Lew's story.  I know I did.
 layout: blog-single
-
 wordpress_id: 40
 ---
 

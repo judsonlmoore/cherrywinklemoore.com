@@ -11,7 +11,6 @@ comments: false
 excerpt: An event from early in Lew's life.  Cultivating an attitude of gratitude
   changed the lenses through which I saw my son and my world.
 layout: blog-single
-
 wordpress_id: 82
 ---
 
