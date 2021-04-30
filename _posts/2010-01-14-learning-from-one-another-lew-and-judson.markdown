@@ -18,7 +18,7 @@ excerpt: |-
 
   A proud mother tells part of the story.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2010/01/learning-from-one-another-lew-and-judson/
+
 wordpress_id: 447
 ---
 
@@ -26,11 +26,13 @@ I’ll never forget the first day I knew Judson was going to be alright.
 
 Lew was sitting in his first child-sized wheelchair in the family room of our Campbellsville, Kentucky house.  Suddenly Judson, who was just beginning to learn to walk, lumbered off toward the nearby kitchen.  I was curious to see what he was up to.  Lew drooled frequently and we usually kept a kitchen towel draped over the handle of his wheelchair so it would be available to wipe his mouth.  We also kept a towel treaded through the handle of the refrigerator for kitchen purposes.  As I watched, Judson retrieved the towel in the kitchen, toddled over to where Lew sat, reached up and wiped his brother’s mouth.  He saw his brother’s need and took care of it.
 
-![](/uploads/judson-helping-lew.jpg)
+
+![](/uploads/judson-helping-lew.jpg){:.img-fluid}
 
 Another memory involved Lew’s wheelchair.  I would be pushing Lew’s wheelchair.  Judson would squeeze in between me and the back of the chair.  He would then raise his hands up so he could put them on the handles.  Then looking up at me he would say, “My job!”  It wasn’t easy to push Lew’s wheelchair with Judson in between but it became a common sight around Campbellsville College where Bob taught at the time.
 
-![](/uploads/judson-pushing-lews-wheelchair.jpg)
+
+![](/uploads/judson-pushing-lews-wheelchair.jpg){:.img-fluid}
 
 Judson accompanied his parents (with and without his brother) on many trips to Frankfort, Kentucky, our state capitol, and to Washington DC to various disability conferences and advocacy meetings.  The last time we went to DC (to give testimony on the need for long term care at a Senate hearing) Judson complained, “Do we have to go to DC AGAIN?”
 
@@ -38,6 +40,7 @@ But several years later, when choosing a college major, the logical choice becam
 
 Judson has become a person who is comfortable with people of all ages and from all types of social positions with all kinds of ability levels.  I have observed that he is a good friend to his friends.  His open and accepting social skills were present from his earliest days.
 
-![](/uploads/Judson-hugging-Lew.jpg)
+
+![](/uploads/Judson-hugging-Lew.jpg){:.img-fluid}
 
 He was a good brother to his brother.

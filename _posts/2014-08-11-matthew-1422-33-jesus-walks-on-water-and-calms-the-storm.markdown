@@ -12,7 +12,7 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2014/08/matthew-1422-33-jesus-walks-on-water-and-calms-the-storm/
+
 wordpress_id: 937
 ---
 
@@ -33,7 +33,8 @@ I read Matthew 14:22-33;
 _Silence_
 
 
-## ![](/uploads/photo-1-1024x765.jpg)ACTIVITY
+## 
+![](/uploads/photo-1-1024x765.jpg){:.img-fluid}ACTIVITY
 
 
 I introduced the idea of a line being able to impart an emotion. I referred to Drawing on the Artist Within by Betty Edwards. While some were familiar with Ms. Edwards' other book, Drawing on the Right Side of the Brain, no one were familiar with this book. I gave them each an 8 1/2"  X 11" piece of white paper and asked them to fold it into four equal rectangles. I asked them to draw lines only in these spaces: no symbols, words or smiley faces. In the upper left space I asked them to draw a line that - for them - depicted peacefulness. In the other three space I lead them to use lines to depict fear, joy and anger. After they had done this, I showed examples from Betty's book and shared her insight that - at least in Western culture - there seems to be a fairly universal language of line.
@@ -66,7 +67,7 @@ After a period of silent working, I shared some research I had read about what h
 
 One woman in the group drew lines similar to those from the first activity as she listened to the second reading of the scripture. I thought this was brilliant. This idea could be the basis for a future activity.
 
-[caption id="attachment_1063" align="aligncenter" width="1024"]![Lines depicting emotions in Matthew 14:22-33](https://www.cherrywinklemoore.com/wp-content/uploads/On-water-lines-1024x600.jpg) Lines depicting emotions in Matthew 14:22-33[/caption]
+[caption id="attachment_1063" align="aligncenter" width="1024"]![Lines depicting emotions in Matthew 14:22-33](https://www.cherrywinklemoore.com/wp-content/uploads/On-water-lines-1024x600.jpg){:.img-fluid} Lines depicting emotions in Matthew 14:22-33[/caption]
 
 One woman drew a simple boat and wrote the various emotions she heard in the story. Only after she was finished did she notice she had put more positive emotions at one end of the boat and things like fear, terror, anxiety at the other end. Due to the more private, inner nature of the content, not everyone showed me their work but no one sealed their work in a envelope and put it in the "boat" with Jesus. One of the most significant things I learned from this study is that this is the first time the disciples are said to worship Jesus. They had left their homes and families but until this experience they may have been more on a fact-finding mission. When Jesus and Peter got back in the boat and the storm ceased, the disciples worshiped Jesus.
 

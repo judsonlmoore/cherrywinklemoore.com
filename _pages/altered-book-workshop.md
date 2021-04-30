@@ -4,7 +4,7 @@ date: 2015-02-17 14:05:23 Z
 author: judsonlmoore
 comments: true
 layout: page
-link: https://www.cherrywinklemoore.com/altered-book-workshop/
+
 slug: altered-book-workshop
 wordpress_id: 1177
 ---

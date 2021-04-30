@@ -7,7 +7,7 @@ categories:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2015/11/a-lost-painting-is-found/
+
 wordpress_id: 1238
 image: "/uploads/0902150816c1.jpg"
 ---
@@ -18,4 +18,4 @@ In the summer of 2015 I got an email from a woman who was a member of Baptist Ch
 
 Sometimes paintings have interesting stories. I am grateful to know the next chapter of this one.
 
-![Image 11-21-15 at 12.19 AM](https://www.cherrywinklemoore.com/wp-content/uploads/Image-11-21-15-at-12.19-AM-1024x576.jpg)
+![Image 11-21-15 at 12.19 AM](https://www.cherrywinklemoore.com/wp-content/uploads/Image-11-21-15-at-12.19-AM-1024x576.jpg){:.img-fluid}

@@ -15,7 +15,7 @@ excerpt: "The decision for our son to have a feeding tube placed was not an easy
   met a parent struggling with this same decision so I decided to write this part
   of Lew's story.  This is for you, Diana...and any other parent facing this decision."
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/09/learning-from-lew-lews-says-he-needs-a-gastrostomy-tube/
+
 wordpress_id: 277
 ---
 

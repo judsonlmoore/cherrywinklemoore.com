@@ -15,7 +15,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: This is one of my favorite stories of God's grace at work in our family.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-moving-to-hattiesburg/
+
 wordpress_id: 120
 ---
 

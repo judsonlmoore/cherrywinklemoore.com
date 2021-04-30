@@ -14,7 +14,7 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2013/07/learning-from-lew-and-judson-poem-what-i-know/
+
 wordpress_id: 945
 ---
 

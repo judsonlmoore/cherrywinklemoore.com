@@ -13,7 +13,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: A poem imagining the moment of death.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/06/a-poem-the-welcoming-committee/
+
 wordpress_id: 77
 ---
 

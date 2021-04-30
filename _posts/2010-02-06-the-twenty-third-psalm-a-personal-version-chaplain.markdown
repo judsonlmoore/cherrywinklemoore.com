@@ -11,7 +11,7 @@ excerpt: Writing a personal version of the 23rd Psalm was assigned in Week Three
   seminary professor.  His example begins, "The Lord is My Professor."  I have found
   the process of writing my own to be rich and fascinating.  I recommend it to you.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2010/02/the-twenty-third-psalm-a-personal-version-chaplain/
+
 wordpress_id: 495
 ---
 

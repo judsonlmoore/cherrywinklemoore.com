@@ -13,7 +13,7 @@ excerpt: "For a long time I've been trying to figure out how to use painting and
   erase board, I have markers! Maybe we should get together.\n\n(Note there where
   I wrote \"Psalm 16:9\" I should have written \"Proverbs 16:9.\")"
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2010/05/visual-biography/
+
 wordpress_id: 569
 ---
 

@@ -16,7 +16,7 @@ excerpt: "I think this is a fine sermon by any measure but, for me, the special 
   Habakkuk, \"YET I will rejoice in the Lord.  I will be joyful in God, my Savior.\"
   \ \n\nIf God seems far away or silent, read this."
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2010/01/guest-writer-lonnie-green/
+
 wordpress_id: 427
 ---
 

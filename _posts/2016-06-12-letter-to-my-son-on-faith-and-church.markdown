@@ -7,7 +7,7 @@ categories:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2016/06/letter-to-my-son-on-faith-and-church/
+
 wordpress_id: 1367
 image: "/uploads/IMG_0753.jpg"
 ---

@@ -17,7 +17,7 @@ excerpt: My best experience of a Social Worker - and my worst - happened on the 
   day in the same room.  One listened to me deeply and had for a long time; she helped
   me to see that our family was "in a heap on the floor."
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-best-and-worst-social-worker/
+
 wordpress_id: 168
 ---
 

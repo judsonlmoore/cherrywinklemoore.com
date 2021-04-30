@@ -6,7 +6,7 @@ categories:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2015/09/fire-a-poem-by-judy-sorum-brown/
+
 wordpress_id: 1240
 image: "/uploads/Fire-book-page.jpg"
 ---

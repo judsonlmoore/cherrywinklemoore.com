@@ -15,7 +15,7 @@ comments: false
 excerpt: A Canadian friend wrote me a day or two after 9/11 and asked me what I was
   thinking about the terrorist attacks.  Here is my reply written 9/16/2001.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/07/thoughts-after-september-11-2001/
+
 wordpress_id: 175
 ---
 

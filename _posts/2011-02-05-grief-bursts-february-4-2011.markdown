@@ -10,7 +10,7 @@ excerpt: |-
 
   I had an unexpected one this week.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2011/02/grief-bursts-february-4-2011/
+
 wordpress_id: 696
 ---
 

@@ -20,7 +20,7 @@ excerpt: |-
 
   Here's mine.  What would yours be like?
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2010/05/personal-praise-history/
+
 wordpress_id: 581
 ---
 

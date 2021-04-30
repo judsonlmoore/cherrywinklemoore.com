@@ -9,7 +9,7 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2016/02/rooted-and-grounded-a-painting/
+
 wordpress_id: 1371
 image: "/uploads/IMG_0088.jpg"
 ---

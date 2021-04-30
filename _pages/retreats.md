@@ -4,7 +4,7 @@ date: 2015-02-18 05:16:36 Z
 author: judsonlmoore
 comments: true
 layout: page
-link: https://www.cherrywinklemoore.com/retreats/
+
 slug: retreats
 wordpress_id: 1197
 ---

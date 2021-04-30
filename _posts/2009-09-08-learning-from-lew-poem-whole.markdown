@@ -11,7 +11,7 @@ excerpt: |-
 
   This poem is my answer to that question.  He was whole in his unique way.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/09/learning-from-lew-poem-whole/
+
 wordpress_id: 286
 ---
 

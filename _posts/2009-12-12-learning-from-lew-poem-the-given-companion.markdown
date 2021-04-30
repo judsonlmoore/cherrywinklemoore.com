@@ -17,7 +17,7 @@ comments: false
 excerpt: A poem about my sons.  They were loved before they were born but not special
   ordered.  They came as gifts from a gracious God.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/12/learning-from-lew-poem-the-given-companion/
+
 wordpress_id: 369
 ---
 

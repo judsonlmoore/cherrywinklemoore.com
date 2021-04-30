@@ -12,7 +12,7 @@ author: cherrywinklemoore
 comments: false
 excerpt: A poem I wrote in 1971 and encouraging words for those tempted to quit.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/05/life-plan-a-poem/
+
 wordpress_id: 33
 ---
 

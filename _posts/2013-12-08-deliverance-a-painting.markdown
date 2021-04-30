@@ -10,7 +10,7 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2013/12/deliverance-a-painting/
+
 wordpress_id: 1020
 ---
 

@@ -20,7 +20,7 @@ excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Bap
   then write on the petals things we had learned from that time of crisis and growth.  These
   were my comments.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/11/affirmations-for-a-time-of-crisis/
+
 wordpress_id: 299
 ---
 

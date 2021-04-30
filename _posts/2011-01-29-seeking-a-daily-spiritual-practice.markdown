@@ -11,7 +11,7 @@ excerpt: For years I have admired people who have a set spiritual practice.  I d
   spiritual practice.  Recently my own spiritual life is being transformed.  Let me
   tell you about it.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2011/01/seeking-a-daily-spiritual-practice/
+
 wordpress_id: 685
 ---
 

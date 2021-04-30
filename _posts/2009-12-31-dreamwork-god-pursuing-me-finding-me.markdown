@@ -10,7 +10,7 @@ excerpt: |-
 
   Do you work with your dreams?
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/12/dreamwork-god-pursuing-me-finding-me/
+
 wordpress_id: 414
 ---
 

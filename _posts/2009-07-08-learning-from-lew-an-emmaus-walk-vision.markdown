@@ -15,7 +15,7 @@ excerpt: I was a pilgrim on a Walk to Emmaus in Kentucky in 1987.  This story is
   something that happened to me during that experience - a means of grace from God
   to me.  I pray it may bless you.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-an-emmaus-walk-vision/
+
 wordpress_id: 127
 ---
 

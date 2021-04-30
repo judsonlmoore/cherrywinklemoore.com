@@ -11,7 +11,7 @@ comments: false
 excerpt: An event from early in Lew's life.  Cultivating an attitude of gratitude
   changed the lenses through which I saw my son and my world.
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/06/learning-from-lew-a-two-part-story-about-gratitude/
+
 wordpress_id: 82
 ---
 

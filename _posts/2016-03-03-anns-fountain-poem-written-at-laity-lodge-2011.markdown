@@ -10,7 +10,7 @@ tags:
 author: cherrywinklemoore
 comments: false
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2016/03/anns-fountain-poem-written-at-laity-lodge-2011/
+
 wordpress_id: 1369
 image: "/uploads/IMG_3142.jpg"
 ---

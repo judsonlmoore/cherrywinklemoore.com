@@ -13,7 +13,7 @@ comments: false
 excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
   the poem."
 layout: blog-single
-link: https://www.cherrywinklemoore.com/2009/07/learning-from-lew-poem-enough/
+
 wordpress_id: 158
 ---
 
