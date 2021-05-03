@@ -1,5 +1,6 @@
 ---
 title: 'Life Plan: A Poem'
+date: 2009-05-31 00:00:00 Z
 categories:
 - Poems
 tags:

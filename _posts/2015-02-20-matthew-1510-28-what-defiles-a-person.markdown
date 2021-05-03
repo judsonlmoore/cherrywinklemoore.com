@@ -1,11 +1,12 @@
 ---
 title: Matthew 15:10-28; What defiles a person
+date: 2015-02-20 00:00:00 Z
 categories:
 - Art
 - New
 tags:
 - Gospel Art
-image: /uploads/Integrated.jpg
+image: "/uploads/Integrated.jpg"
 ---
 
 ## St. Thomas Episcopal Church, College Station, Texas - August 17, 2014

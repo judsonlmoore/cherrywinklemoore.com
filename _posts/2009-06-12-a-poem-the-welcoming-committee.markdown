@@ -1,5 +1,6 @@
 ---
 title: The Welcoming Committee
+date: 2009-06-12 00:00:00 Z
 categories:
 - Hospice Stories
 - Poems

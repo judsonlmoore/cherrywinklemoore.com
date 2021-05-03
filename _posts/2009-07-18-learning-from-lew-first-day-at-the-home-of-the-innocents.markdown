@@ -1,5 +1,6 @@
 ---
 title: First day at The Home of The Innocents
+date: 2009-07-18 00:00:00 Z
 categories:
 - Learning From Lew
 tags:
@@ -11,7 +12,7 @@ tags:
 - out-of-home placement
 excerpt: On a terrible day in the life of our family, God's grace breaks through in
   a surprising way.
-image: /uploads/3558176378_0dc5fbdce52.jpg
+image: "/uploads/3558176378_0dc5fbdce52.jpg"
 ---
 
 It was the day we took Lew to the Home of the Innocents to stay.  It was the worst day of my life -- but not for the reasons I expected it to be.

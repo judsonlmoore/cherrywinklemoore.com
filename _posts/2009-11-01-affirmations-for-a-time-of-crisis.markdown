@@ -1,5 +1,6 @@
 ---
 title: Affirmation For a Time of Crisis
+date: 2009-11-01 00:00:00 Z
 categories:
 - New
 tags:
@@ -16,7 +17,7 @@ excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Bap
   out.  We were asked to write a life crisis we had experienced in the middle and
   then write on the petals things we had learned from that time of crisis and growth.  These
   were my comments.
-image: /uploads/3557364095_3ca43015be.jpg
+image: "/uploads/3557364095_3ca43015be.jpg"
 ---
 
 God never left me in the past nor will God leave me now.  God is present and faithful; doing all that God can do.

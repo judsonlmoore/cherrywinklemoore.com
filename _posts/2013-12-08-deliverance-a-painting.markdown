@@ -1,12 +1,13 @@
 ---
 title: Deliverance - A painting
+date: 2013-12-08 00:00:00 Z
 categories:
 - Art
 - Dreams
 tags:
 - Art
 - dying
-image: /uploads/3557364143_00814c2e1e_o.jpg
+image: "/uploads/3557364143_00814c2e1e_o.jpg"
 ---
 
 A cancer patient shared a dream with me. He said he was in bed asleep next to his wife when he became aware that the bed had turned into quicksand and he felt himself sinking. Just as he was about to take his last breath before drowning, a bird came down and lifted him up with its wings – not its talons but it wings. He gasped and woke up. His wife awakened with a start and asked him what was wrong. He said, “Hush…I need to think about this.” After catching the dream before it slipped away, he told her about the dream

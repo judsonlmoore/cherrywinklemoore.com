@@ -1,5 +1,6 @@
 ---
 title: Not a zebra story
+date: 2009-06-04 00:00:00 Z
 categories:
 - Learning From Lew
 tags:
@@ -7,7 +8,7 @@ tags:
 - disability
 excerpt: Every person with a disability or disease is a person first.  Lew was not
   a "zebra" but a child who had severe multiple disabilities.
-image: /uploads/3558176378_0dc5fbdce5.jpg
+image: "/uploads/3558176378_0dc5fbdce5.jpg"
 ---
 
 Lew was born in Lexington, Kentucky and we lived there for much of his childhood. From 1988 until Lew’s death in 1998, my husband, Bob, was on the faculty of the University of Kentucky Medical School. He worked in several departments assisting the faculty and the medical residents with their research and its publication.

@@ -1,5 +1,6 @@
 ---
 title: 'Learning From One Another: Lew and Judson'
+date: 2010-01-14 00:00:00 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -14,7 +15,7 @@ excerpt: |-
   When Judson L. Moore was born in June of 1983, his older brother was twenty-two months old.  His parents wondered how Judson would "do" with a brother who had severe health challenges.
 
   A proud mother tells part of the story.
-image: /uploads/4274634203_a7e17f6b82.jpg
+image: "/uploads/4274634203_a7e17f6b82.jpg"
 ---
 
 I’ll never forget the first day I knew Judson was going to be alright.

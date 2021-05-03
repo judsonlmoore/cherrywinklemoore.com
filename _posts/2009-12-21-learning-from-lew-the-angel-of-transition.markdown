@@ -1,5 +1,6 @@
 ---
 title: The Angel of Transition
+date: 2009-12-21 00:00:00 Z
 categories:
 - Art
 - Learning From Lew
@@ -15,7 +16,7 @@ excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the ar
   dream was just that image but I made up a story about what happened before the picture
   and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
   this story.
-image: /uploads/4220681846_963bd84d48.jpg
+image: "/uploads/4220681846_963bd84d48.jpg"
 ---
 
 **Angel:** Hello, Lew.

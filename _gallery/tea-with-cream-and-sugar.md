@@ -11,7 +11,7 @@ status: For Sale
 price: 700.0
 medium: Oil on canvas
 size: 20" X 20"
-weight: 1000 # weight in grams 
+weight: 1000
 image: "/uploads/tea-with-cream-and-sugar.jpg"
 ---
 

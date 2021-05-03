@@ -1,5 +1,6 @@
 ---
 title: Thoughts After September 11, 2001
+date: 2009-07-12 00:00:00 Z
 categories:
 - New
 tags:
@@ -11,7 +12,7 @@ tags:
 - terrorists
 excerpt: A Canadian friend wrote me a day or two after 9/11 and asked me what I was
   thinking about the terrorist attacks.  Here is my reply written 9/16/2001.
-image: /uploads/3557365775_a3034c6e97.jpg
+image: "/uploads/3557365775_a3034c6e97.jpg"
 ---
 
 Date:    9/16/01 11:06:27 PM Central Daylight Time

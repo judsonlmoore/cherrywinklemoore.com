@@ -1,5 +1,6 @@
 ---
 title: Enough
+date: 2009-07-11 00:00:00 Z
 categories:
 - Learning From Lew
 - Poems
@@ -9,7 +10,7 @@ tags:
 - enough
 excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
   the poem."
-image: /uploads/3558176378_0dc5fbdce53.jpg
+image: "/uploads/3558176378_0dc5fbdce53.jpg"
 ---
 
 I have a son

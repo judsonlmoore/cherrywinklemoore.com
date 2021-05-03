@@ -1,9 +1,10 @@
 ---
 title: Letter to my son on faith and church
+date: 2016-06-12 00:00:00 Z
 categories:
 - Learning From Judson
 - Spiritual Life
-image: /uploads/IMG_0753.jpg
+image: "/uploads/IMG_0753.jpg"
 ---
 
 I wrote this letter to my son after he and I visited a church a couple of years ago. I wanted him to understand certain opinions I hold. Now I share them with you.

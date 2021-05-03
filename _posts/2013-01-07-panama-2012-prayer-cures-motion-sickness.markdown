@@ -1,8 +1,9 @@
 ---
 title: 'Panama 2012: Prayer "cures" motion sickness'
+date: 2013-01-07 00:00:00 Z
 categories:
 - New
-image: /uploads/DSC04677.jpg
+image: "/uploads/DSC04677.jpg"
 ---
 
 _Something I learned years before while walking a labyrinth saved me from motion sickness in Panama in the summer of 2012._

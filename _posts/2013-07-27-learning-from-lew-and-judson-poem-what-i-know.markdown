@@ -1,5 +1,6 @@
 ---
 title: What I Know
+date: 2013-07-27 00:00:00 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -10,7 +11,7 @@ tags:
 - Judson Moore
 - Lew Moore
 - poem
-image: /uploads/Judson-hugging-Lew.jpg
+image: "/uploads/Judson-hugging-Lew.jpg"
 ---
 
 There is a sense in which everything important that I know, I know because of Lew and Judson:

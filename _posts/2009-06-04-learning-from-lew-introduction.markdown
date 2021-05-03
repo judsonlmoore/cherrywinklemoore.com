@@ -1,5 +1,6 @@
 ---
 title: An introduction to Lew Jessen Moore
+date: 2009-06-04 00:00:00 Z
 categories:
 - Learning From Lew
 tags:
@@ -10,7 +11,7 @@ excerpt: If you or anyone you know is a person who is discounted by others, this
   is for you.  If you are the parent, grandparent, sibling, friend of a person others
   see as useless, a burden, a tragedy (oh, the labels we hear!), you may find grace
   in Lew's story.  I know I did.
-image: /uploads/3558176378_0dc5fbdce5.jpg
+image: "/uploads/3558176378_0dc5fbdce5.jpg"
 ---
 
 Lew Jessen Moore (September 11, 1981 – February 4, 1998)

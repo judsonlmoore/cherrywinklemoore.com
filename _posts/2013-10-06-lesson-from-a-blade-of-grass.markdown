@@ -1,8 +1,9 @@
 ---
 title: Lessons from a blade of grass
+date: 2013-10-06 00:00:00 Z
 categories:
 - Spiritual Life
-image: /uploads/photo-3.jpg
+image: "/uploads/photo-3.jpg"
 ---
 
 Today I was told to take a walk, notice something and listen to what it might say to me. I knew I would find something and draw it but I wasn’t sure what.

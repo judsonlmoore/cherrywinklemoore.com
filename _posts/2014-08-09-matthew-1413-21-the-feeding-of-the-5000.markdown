@@ -1,5 +1,6 @@
 ---
-title: 'Matthew 14:13-21 The Feeding of the 5000'
+title: Matthew 14:13-21 The Feeding of the 5000
+date: 2014-08-09 00:00:00 Z
 categories:
 - Art
 - New
@@ -9,7 +10,7 @@ tags:
 - Artist-In-Residence
 - Christ
 - St. Thomas Episcopal Church
-image: /uploads/AIR-Feed-5000-fish.jpg
+image: "/uploads/AIR-Feed-5000-fish.jpg"
 ---
 
 **St. Thomas Episcopal Church, College Station, Texas - August 3, 2014**
