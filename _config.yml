@@ -8,6 +8,8 @@ collections:
   gallery:
     title: Gallery
     output: true
+    tags:
+    - 
   posts:
     title: Posts
     output: true
