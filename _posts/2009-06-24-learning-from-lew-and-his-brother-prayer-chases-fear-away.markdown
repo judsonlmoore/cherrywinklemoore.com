@@ -1,6 +1,5 @@
 ---
 title: Prayer chases fear away
-date: 2009-06-24 01:10:09 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -14,12 +13,9 @@ tags:
 - KY
 - Lexington
 - prayer
-author: cherrywinklemoore
-comments: false
 excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
   was clear to me that Mabel had on open line to the throne of God.
-layout: blog-single
-wordpress_id: 100
+
 ---
 
 “I’m going to pray those fears away.” -- Mabel Mastin

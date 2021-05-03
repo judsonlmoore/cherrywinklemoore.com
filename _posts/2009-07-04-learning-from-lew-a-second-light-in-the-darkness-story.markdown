@@ -1,18 +1,13 @@
 ---
 title: A Second Light in the Darkness story
-date: 2009-07-04 22:30:03 Z
 categories:
 - Learning From Lew
 tags:
 - Chinese
 - Christian
 - Psalms
-author: cherrywinklemoore
-comments: false
-excerpt: "Is one story the mother of the other?  The truth is bigger than the question.
-  \ \nGod's Light is willing to go with us into every darkness."
-layout: blog-single
-wordpress_id: 106
+excerpt: "Is one story the mother of the other?  The truth is bigger than the question. God's Light is willing to go with us into every darkness."
+image: /uploads/3558176378_0dc5fbdce51.jpg
 ---
 
 Several weeks ago I posted the story about a Chinese Christian pastor who said the way he survived extreme persecution was by remembering in the darkness what God had taught him in the light.

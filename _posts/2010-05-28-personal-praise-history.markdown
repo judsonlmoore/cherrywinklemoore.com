@@ -1,6 +1,5 @@
 ---
 title: Personal Praise History
-date: 2010-05-28 01:11:02 Z
 categories:
 - New
 tags:
@@ -11,16 +10,13 @@ tags:
 - Judson Moore
 - Lew Moore
 - Psalms
-author: cherrywinklemoore
-comments: false
 excerpt: |-
   Have you noticed that many of the Psalms recite the history of the people of Israel?  These hymns were used to remind the people of God's action in their lives.  Some of these Psalms are: 78, 105, 106, 114 and there are others.
 
   I was challenged to write my own Praise History and to reread it often.  I have found this to be a rich experience and I recommend it to you.
 
   Here's mine.  What would yours be like?
-layout: blog-single
-wordpress_id: 581
+image: /uploads/photo-14.jpg
 ---
 
 _Spring 2010_

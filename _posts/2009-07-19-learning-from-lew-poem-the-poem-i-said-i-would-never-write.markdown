@@ -1,19 +1,15 @@
 ---
 title: The Poem I Said I Would Never Write
-date: 2009-07-19 02:16:57 Z
 categories:
 - Learning From Lew
 - Poems
 tags:
 - disability
 - poem
-author: cherrywinklemoore
-comments: false
 excerpt: This poem attempts to explain why I wrote it and why I am writing all of
   these stories and poems about Lew and sending them out into the world.  I want people
   to see him and others like him.
-layout: blog-single
-wordpress_id: 200
+image: /uploads/3558176378_0dc5fbdce52.jpg
 ---
 
 Every mother of a child who is disabled

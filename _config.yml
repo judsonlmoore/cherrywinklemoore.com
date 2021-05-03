@@ -127,7 +127,7 @@ compress_html:
   ignore:
     envs: []
 pagination:
-  enabled: false
+  enabled: true
   per_page: 9
   permalink: "/page-:num/"
   title: ":title"
@@ -138,7 +138,7 @@ pagination:
     before: 2
     after: 2
 autopages:
-  enabled: false
+  enabled: true
   categories:
     layouts:
     - autopage.html

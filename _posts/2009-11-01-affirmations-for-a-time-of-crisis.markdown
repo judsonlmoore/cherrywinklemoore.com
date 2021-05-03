@@ -1,6 +1,5 @@
 ---
 title: Affirmation For a Time of Crisis
-date: 2009-11-01 21:00:34 Z
 categories:
 - New
 tags:
@@ -10,8 +9,6 @@ tags:
 - KY
 - Lew Moore
 - Lexington
-author: cherrywinklemoore
-comments: false
 excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Baptist
   Church in Lexington, Kentucky.  My mother had recently died and my son, Lew, was
   declining.  The retreat leader (whose name I am sorry I don't recall), gave us each
@@ -19,8 +16,7 @@ excerpt: At a crisis time in my life I attended a Women's Retreat at Trinity Bap
   out.  We were asked to write a life crisis we had experienced in the middle and
   then write on the petals things we had learned from that time of crisis and growth.  These
   were my comments.
-layout: blog-single
-wordpress_id: 299
+image: /uploads/3557364095_3ca43015be.jpg
 ---
 
 God never left me in the past nor will God leave me now.  God is present and faithful; doing all that God can do.

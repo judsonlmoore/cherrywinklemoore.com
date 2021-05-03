@@ -1,13 +1,8 @@
 ---
 title: '"Where I''m From" - a Poem'
-date: 2015-11-25 02:39:16 Z
 categories:
 - Art
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1271
-image: "/uploads/Cherrys-Shadow1.jpg"
+image: /uploads/Cherrys-Shadow1.jpg
 ---
 
 I am from the King James Bible and the Singer Sewing Machine and the '52 Chevy.

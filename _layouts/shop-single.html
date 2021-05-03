@@ -47,37 +47,26 @@ layout: default
         <p>by<span class="text-primary"> {{ page.author }}</span></p>
         <hr class="my-4" />
         <div class="mb-3 font-20">
-          <span class="text-dark mr-2">${{ page.price }}</span>
+          <span class="text-dark mr-2">${{ page.data-item-price }}</span>
         </div>
 
         <!-- Buy product on site via Snipcart integration -->
-        {% if page.price != nill %}
+        {% if page.data-item-price != nill %}
         <button class="snipcart-add-item btn btn-outline-primary mr-2"
+          data-item-id="{{ page.slug }}"
+          data-item-price="{{ page.data-item-price }}"
           data-item-url="{{ page.url | absolute_url }}"
-          {% if page.id %}
-            data-item-id="{{ page.id }}"
-          {% endif %}
-          {% if page.price %}
-           data-item-price="{{ page.price }}"
-          {% endif %}
-          {% if page.description %}
-            data-item-description="{{ page.description }}"
-          {% endif %}
-          {% if page.image %}
-            data-item-image="{{ page.image }}"
-          {% endif %}
-          {% if page.title %}
-            data-item-name="{{ page.title }}"
-          {% endif %}
-          {% if page.custom1-name %}
-            data-item-custom1-name="{{ page.custom1-name }}"
-          {% endif %}
-          {% if page.custom1-options %}
-            data-item-custom1-options="{{ page.custom1-options }}"
-          {% endif %}
-          {% if page.medium %}
-            data-item-custom1-value="{{ page.medium }}"
-          {% endif %}
+          data-item-description="{{ content | strip_html }}"
+          data-item-image="{{ page.image | absolute_url }}"
+          data-item-name="{{ page.title }}"
+          data-item-categories="{{ page.category }}"
+          data-item-weight="{{ page.data-item-weight }}"
+          data-item-length="{{ page.data-item-length }}"
+          data-item-height="{{ page.data-item-height }}"
+          data-item-width="{{ page.data-item-width }}"
+          data-item-quantity="{{ page.data-item-quantity }}"
+          data-item-max-quantity="{{ page.data-item-max-quantity }}"
+          data-item-stackable="never"
           >
           Add to cart
         </button>
@@ -86,7 +75,7 @@ layout: default
         {% if page.category %}
         <p class="mt-4 font-14 mb-1">
           <span class="text-dark mr-1">Category:</span>
-          <a href="#!" class="text-inherit ml-1">{{ page.category | capitalize }}</a>
+          <a href="#!" class="text-inherit ml-1">{{ page.categories | capitalize }}</a>
         </p>
         {% endif %}
 
@@ -109,7 +98,8 @@ layout: default
         <ul class="list-group list-group-flush font-14 mb-0">
           <li class="list-group-item px-0 py-1"><span class="text-dark">Medium:</span> {{ page.medium }}</li>
           <li class="list-group-item px-0 py-1"><span class="text-dark">Date:</span> {{ page.date | date_to_string: "ordinal", "US" }}</li>
-          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Dimensions:</span> {{ page.size }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Dimensions:</span> {{ page.data-item-width }}cm x {{ page.data-item-length }}cm x {{ page.data-item-height }}cm</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Weight:</span> {{ page.data-item-weight }} grams</li>
         </ul>
       </div>
       <!-- description -->

@@ -1,6 +1,5 @@
 ---
 title: Moving to Hattiesburg
-date: 2009-07-05 00:04:09 Z
 categories:
 - Learning From Lew
 tags:
@@ -11,11 +10,8 @@ tags:
 - pre-language communication
 - University of Southern Mississippi
 - William Carey College
-author: cherrywinklemoore
-comments: false
 excerpt: This is one of my favorite stories of God's grace at work in our family.
-layout: blog-single
-wordpress_id: 120
+image: /uploads/3558176378_0dc5fbdce5.jpg
 ---
 
 Lew is five years old and it is the first time that I shake my fists in anger at God.

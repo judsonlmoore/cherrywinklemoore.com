@@ -1,6 +1,5 @@
 ---
 title: The Best (and worst) Social Worker
-date: 2009-07-11 17:47:23 Z
 categories:
 - Learning From Lew
 tags:
@@ -11,13 +10,10 @@ tags:
 - MSW
 - out-of-home placement
 - University of Kentucky
-author: cherrywinklemoore
-comments: false
 excerpt: My best experience of a Social Worker - and my worst - happened on the same
   day in the same room.  One listened to me deeply and had for a long time; she helped
   me to see that our family was "in a heap on the floor."
-layout: blog-single
-wordpress_id: 168
+image: /uploads/sketch-man-carries-burdon-on-shoulders.png
 ---
 
 “THAT'S EASY FOR YOU TO SAY! IT ISN'T YOUR CHILD HAVING UNCONTROLLABLE SEIZURES ON YOUR LIVINGROOM FLOOR!!"

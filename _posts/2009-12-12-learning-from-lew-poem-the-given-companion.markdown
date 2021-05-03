@@ -1,6 +1,5 @@
 ---
 title: The Given Companion
-date: 2009-12-12 03:00:27 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -12,12 +11,9 @@ tags:
 - Lew Moore
 - means of grace
 - poem
-author: cherrywinklemoore
-comments: false
 excerpt: A poem about my sons.  They were loved before they were born but not special
   ordered.  They came as gifts from a gracious God.
-layout: blog-single
-wordpress_id: 369
+image: /uploads/3558176378_0dc5fbdce510.jpg
 ---
 
 ## The Given Companion

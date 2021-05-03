@@ -1,6 +1,5 @@
 ---
 title: Enough
-date: 2009-07-11 15:10:22 Z
 categories:
 - Learning From Lew
 - Poems
@@ -8,12 +7,9 @@ tags:
 - cerebral palsy
 - disability
 - enough
-author: cherrywinklemoore
-comments: false
 excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
   the poem."
-layout: blog-single
-wordpress_id: 158
+image: /uploads/3558176378_0dc5fbdce53.jpg
 ---
 
 I have a son

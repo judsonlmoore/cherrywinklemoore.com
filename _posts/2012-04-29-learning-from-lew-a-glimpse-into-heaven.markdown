@@ -1,17 +1,13 @@
 ---
 title: A Glimpse into Heaven
-date: 2012-04-29 19:58:32 Z
 categories:
 - Dreams
 - Hospice Stories
 - Learning From Lew
 - Spiritual Life
-author: cherrywinklemoore
-comments: false
 excerpt: Recently I got a glimpse of my son, Lew, in Heaven. It has given me a lot
   of joy.
-layout: blog-single
-wordpress_id: 717
+image: /uploads/Resurrection-thumb.jpg
 ---
 
 I’m not sure even how to talk about it. I wasn’t dreaming. I was wide awake. It wasn’t exactly a daydream. I guess it was a vision. When I try to describe it, I find that I put my hands up to my left and make a globe-like motion. This image appeared fully formed in my mind. It felt like a gift.

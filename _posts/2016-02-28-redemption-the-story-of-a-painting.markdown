@@ -1,13 +1,8 @@
 ---
 title: '"Redemption" - The Story of a Painting'
-date: 2016-02-28 03:37:32 Z
 categories:
 - Art
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1270
-image: "/uploads/IMG_1718.jpg"
+image: /uploads/IMG_1718.jpg
 ---
 
 ## The Beginning of this Painting

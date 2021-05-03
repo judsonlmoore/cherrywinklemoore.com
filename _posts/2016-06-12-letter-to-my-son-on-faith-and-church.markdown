@@ -1,14 +1,9 @@
 ---
 title: Letter to my son on faith and church
-date: 2016-06-12 01:13:49 Z
 categories:
 - Learning From Judson
 - Spiritual Life
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1367
-image: "/uploads/IMG_0753.jpg"
+image: /uploads/IMG_0753.jpg
 ---
 
 I wrote this letter to my son after he and I visited a church a couple of years ago. I wanted him to understand certain opinions I hold. Now I share them with you.

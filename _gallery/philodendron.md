@@ -11,6 +11,7 @@ status: For Sale
 price: 300.0
 medium: Pastel on canvas
 size: 20" X 20"
+weight: 1000 # weight in grams 
 image: "/uploads/philodendron.jpg"
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The Day Lew Died
-date: 2009-10-12 03:37:22 Z
 categories:
 - Learning From Lew
 tags:
@@ -9,14 +8,11 @@ tags:
 - Home of the Innocents
 - Judson Moore
 - Lew Moore
-author: cherrywinklemoore
-comments: false
 excerpt: I've told so much of Lew's story.  It seems right to tell this part, too.  I
   will totally understand if nobody reads it but I share it nonetheless.  It was a
   bleak, dark, snowy night but God was present in many people helping us and in Lew,
   helping him.
-layout: blog-single
-wordpress_id: 293
+image: /uploads/3558177226_a3045bc431.jpg
 ---
 
 The Day Lew Died: February 4, 1998, 5:30 p.m.

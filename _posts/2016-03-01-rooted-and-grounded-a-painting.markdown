@@ -1,16 +1,11 @@
 ---
 title: '"Rooted and Grounded" - A Painting'
-date: 2016-03-01 02:52:43 Z
 categories:
 - Art
 - Spiritual Life
 tags:
 - Art
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1371
-image: "/uploads/IMG_0088.jpg"
+image: /uploads/IMG_0088.jpg
 ---
 
 I attended a spiritual retreat sometime in the 90s. At the first meeting the retreat leader passed out index cards.

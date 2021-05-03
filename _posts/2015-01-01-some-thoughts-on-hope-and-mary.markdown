@@ -1,12 +1,7 @@
 ---
 title: Some Thoughts on Hope and Mary
-date: 2015-01-01 03:02:35 Z
 categories:
 - Hospice Stories
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1092
 image: "/uploads/pieta.jpgxlMedium.jpg"
 ---
 

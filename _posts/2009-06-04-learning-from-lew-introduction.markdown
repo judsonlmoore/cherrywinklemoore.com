@@ -1,20 +1,16 @@
 ---
 title: An introduction to Lew Jessen Moore
-date: 2009-06-04 04:02:04 Z
 categories:
 - Learning From Lew
 tags:
 - cerebral palsy
 - disability
 - grace
-author: cherrywinklemoore
-comments: false
 excerpt: If you or anyone you know is a person who is discounted by others, this story
   is for you.  If you are the parent, grandparent, sibling, friend of a person others
   see as useless, a burden, a tragedy (oh, the labels we hear!), you may find grace
   in Lew's story.  I know I did.
-layout: blog-single
-wordpress_id: 40
+image: /uploads/3558176378_0dc5fbdce5.jpg
 ---
 
 Lew Jessen Moore (September 11, 1981 – February 4, 1998)

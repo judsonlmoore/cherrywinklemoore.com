@@ -1,6 +1,5 @@
 ---
 title: 'I Want: A Poem Prompt'
-date: 2009-07-29 01:09:49 Z
 categories:
 - Learning From Lew
 - Poems
@@ -10,13 +9,10 @@ tags:
 - Judson Moore
 - Lew Moore
 - poem
-author: cherrywinklemoore
-comments: false
 excerpt: Today in 2009 I found this poem prompt that I filled in six years ago, in
   2003.  The prompt had the first few words of every sentence.  Many of the things
   I "wanted" I now have and YOU are part of it!
-layout: blog-single
-wordpress_id: 226
+image: /uploads/3558176378_0dc5fbdce55.jpg
 ---
 
 I WANT

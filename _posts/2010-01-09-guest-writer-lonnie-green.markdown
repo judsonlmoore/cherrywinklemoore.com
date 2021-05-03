@@ -1,6 +1,5 @@
 ---
 title: 'Guest Writer: Lonnie Green'
-date: 2010-01-09 02:20:03 Z
 categories:
 - Guest Writer
 tags:
@@ -9,14 +8,11 @@ tags:
 - grace
 - gratitude
 - grief
-author: cherrywinklemoore
-comments: false
 excerpt: "I think this is a fine sermon by any measure but, for me, the special thing
   is that it is the testimony of a parent whose child died. Lonnie says with the prophet
   Habakkuk, \"YET I will rejoice in the Lord.  I will be joyful in God, my Savior.\"
   \ \n\nIf God seems far away or silent, read this."
-layout: blog-single
-wordpress_id: 427
+image: /uploads/3558177226_a3045bc431_m.jpg
 ---
 
 HAVE YOU REACHED A VERDICT?

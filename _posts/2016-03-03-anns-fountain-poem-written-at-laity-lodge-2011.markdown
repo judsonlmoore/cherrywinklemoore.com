@@ -1,17 +1,12 @@
 ---
 title: 'Ann''s Fountain: Poem written at Laity Lodge, 2011'
-date: 2016-03-03 03:23:22 Z
 categories:
 - Art
 - Poems
 tags:
 - Art
 - poem
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1369
-image: "/uploads/IMG_3142.jpg"
+image: /uploads/IMG_3142.jpg
 ---
 
 Artist's Retreat, 2011. Ian Cron asked us to go experience water and come back in about twenty minutes. This happened. It's taken me six years to share it.

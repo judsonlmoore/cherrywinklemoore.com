@@ -1,12 +1,8 @@
 ---
 title: Lessons from a blade of grass
-date: 2013-10-06 01:51:58 Z
 categories:
 - Spiritual Life
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1010
+image: /uploads/photo-3.jpg
 ---
 
 Today I was told to take a walk, notice something and listen to what it might say to me. I knew I would find something and draw it but I wasn’t sure what.

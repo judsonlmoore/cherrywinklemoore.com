@@ -1,19 +1,15 @@
 ---
 title: Visual Biography
-date: 2010-05-14 00:22:01 Z
 categories:
 - Art
 - Learning From Judson
 - Learning From Lew
-author: cherrywinklemoore
-comments: false
 excerpt: "For a long time I've been trying to figure out how to use painting and/or
   drawing to tell my story and the story of God's action in my life.  Here is a new
   way that I have done this recently.  \n\nIf you have an audience and a large dry
   erase board, I have markers! Maybe we should get together.\n\n(Note there where
   I wrote \"Psalm 16:9\" I should have written \"Proverbs 16:9.\")"
-layout: blog-single
-wordpress_id: 569
+image: /uploads/Visual-bio-001.jpg
 ---
 
 In 2010 I was invited to present a program at “Sweet Spring Splendor,” a dessert fellowship planned by the Women’s Ministry Committee of First Baptist Church of College Station, Texas.

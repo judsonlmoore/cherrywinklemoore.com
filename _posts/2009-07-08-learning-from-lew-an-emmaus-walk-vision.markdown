@@ -1,6 +1,5 @@
 ---
 title: An Emmaus Walk Vision
-date: 2009-07-08 02:29:32 Z
 categories:
 - Learning From Lew
 tags:
@@ -9,13 +8,9 @@ tags:
 - grace
 - KY
 - means of grace
-author: cherrywinklemoore
-comments: false
 excerpt: I was a pilgrim on a Walk to Emmaus in Kentucky in 1987.  This story is about
   something that happened to me during that experience - a means of grace from God
   to me.  I pray it may bless you.
-layout: blog-single
-wordpress_id: 127
 ---
 
 On this day in 1987 I don't know very much about the Emmaus Walk movement but I know and trust my sponsors, Chet and Martha Cramer. They are retired United Methodist home missionaries. Martha is going to be at the event so off I go to Elizabethtown, Kentucky, leaving Bob and the boys in Campbellsville. I desperately need a time of respite.  I don't care very much what happens on a Walk.  I just want a break.

@@ -1,13 +1,8 @@
 ---
 title: 'FIRE: a poem by Judy Sorum Brown and a book page of mine'
-date: 2015-09-07 23:07:53 Z
 categories:
 - Poems
-author: cherrywinklemoore
-comments: false
-layout: blog-single
-wordpress_id: 1240
-image: "/uploads/Fire-book-page.jpg"
+image: /uploads/Fire-book-page.jpg
 ---
 
 A couple of years ago I took a page in a book called Creativity by Matthew Fox and made a "found word" poem.
