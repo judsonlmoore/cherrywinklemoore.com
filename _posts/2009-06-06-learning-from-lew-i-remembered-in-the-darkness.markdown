@@ -1,5 +1,6 @@
 ---
 title: I remembered in the darkness...
+date: 2009-06-06 00:00:00 Z
 categories:
 - Learning From Lew
 excerpt: This is a story I heard when Lew's diagnosis was new that continues to be

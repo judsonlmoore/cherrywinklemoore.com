@@ -1,8 +1,9 @@
 ---
 title: Good Friday 2009
+date: 2009-05-24 00:00:00 Z
 categories:
 - Art
-image: /uploads/Dissolving-into-a-Heap-of-Tears.jpg
+image: "/uploads/Dissolving-into-a-Heap-of-Tears.jpg"
 ---
 
 Artists in Bryan/College Station, Texas were invited to share art at the 7:00 p.m. Good Friday service of St. Andrew's Episcopal Church in Historic Downtown Bryan, Texas. Rev. Sean Cox asked for art - of any media - that had to do with the themes of suffering or betrayal or any "Good Friday" theme. Here in my first blog I will attempt to upload images of the two paintings I showed at this event. That night there was a poet, a writer, another artist and me.

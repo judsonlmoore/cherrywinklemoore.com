@@ -1,12 +1,13 @@
 ---
 title: 'The Twenty-Third Psalm: Personal Version - Artist'
+date: 2010-02-06 00:00:00 Z
 categories:
 - New
 excerpt: David had been a shepherd so when he wrote about God he used imagery he knew.  This
   week I was challenged to use the format of the 23rd Psalm and write a version using
   a title meaningful to me.  I wrote more than one but here is "The Lord is my Master
   Artist."  How would you do this assignment to make it fit your life?
-image: /uploads/3557363977_759d45c5d3_m.jpg
+image: "/uploads/3557363977_759d45c5d3_m.jpg"
 ---
 
 The Lord is my Master Artist

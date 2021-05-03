@@ -1,5 +1,6 @@
 ---
 title: God pursuing me, finding me
+date: 2009-12-31 00:00:00 Z
 categories:
 - Dreams
 excerpt: |-

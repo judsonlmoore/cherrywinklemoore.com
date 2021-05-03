@@ -1,5 +1,6 @@
 ---
 title: An Emmaus Walk Vision
+date: 2009-07-08 00:00:00 Z
 categories:
 - Learning From Lew
 tags:

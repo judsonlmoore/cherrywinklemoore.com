@@ -1,5 +1,6 @@
 ---
 title: The Best (and worst) Social Worker
+date: 2009-07-11 00:00:00 Z
 categories:
 - Learning From Lew
 tags:
@@ -13,7 +14,7 @@ tags:
 excerpt: My best experience of a Social Worker - and my worst - happened on the same
   day in the same room.  One listened to me deeply and had for a long time; she helped
   me to see that our family was "in a heap on the floor."
-image: /uploads/sketch-man-carries-burdon-on-shoulders.png
+image: "/uploads/sketch-man-carries-burdon-on-shoulders.png"
 ---
 
 “THAT'S EASY FOR YOU TO SAY! IT ISN'T YOUR CHILD HAVING UNCONTROLLABLE SEIZURES ON YOUR LIVINGROOM FLOOR!!"

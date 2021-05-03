@@ -1,5 +1,6 @@
 ---
 title: Prayer chases fear away
+date: 2009-06-24 00:00:00 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -15,7 +16,6 @@ tags:
 - prayer
 excerpt: Mabel Mastin was the kind of person I wanted praying for me in a crisis.  It
   was clear to me that Mabel had on open line to the throne of God.
-
 ---
 
 “I’m going to pray those fears away.” -- Mabel Mastin

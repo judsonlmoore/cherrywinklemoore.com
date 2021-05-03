@@ -1,5 +1,6 @@
 ---
 title: 'Poem: Laity Lodge Artist Retreat 2011'
+date: 2011-10-30 00:00:00 Z
 categories:
 - Art
 - Poems
@@ -8,7 +9,7 @@ excerpt: |-
   This retreat was led by Ian Cron and Luci Shaw. On Saturday morning we were given a time of silence with the instructions to go to water.  Look at water.  Listen to water.  Here's some of what I heard and saw and thought during that time.
 
   Later when many of us shared what we had written or thought or (in one case) filmed, someone said, "Never doubt the power of the artist prompt". I don't think I will any more.
-image: /uploads/First-print2.jpg
+image: "/uploads/First-print2.jpg"
 ---
 
 **MUSIC, ART and ARCHITECTURE… the Frio River**

@@ -1,8 +1,9 @@
 ---
 title: '"Redemption" - The Story of a Painting'
+date: 2016-02-28 00:00:00 Z
 categories:
 - Art
-image: /uploads/IMG_1718.jpg
+image: "/uploads/IMG_1718.jpg"
 ---
 
 ## The Beginning of this Painting

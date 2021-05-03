@@ -1,10 +1,11 @@
 ---
 title: The Worst Loss
+date: 2010-12-05 00:00:00 Z
 categories:
 - Poems
 excerpt: Some thoughts about "The Worst Loss".  I'm told I have experienced it but
   I wonder...
-image: /uploads/3558176378_0dc5fbdce511.jpg
+image: "/uploads/3558176378_0dc5fbdce511.jpg"
 ---
 
 **THE WORST LOSS – the death of a child**

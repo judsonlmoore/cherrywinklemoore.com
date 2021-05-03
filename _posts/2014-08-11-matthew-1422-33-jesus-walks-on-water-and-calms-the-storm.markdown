@@ -1,5 +1,6 @@
 ---
 title: Matthew 14:22-33; Jesus Walks on Water and Calms the Storm
+date: 2014-08-11 00:00:00 Z
 categories:
 - Art
 - New
@@ -8,7 +9,7 @@ tags:
 - Art
 - Christ
 - St. Thomas Episcopal Church
-image: /uploads/On-water-boat.jpg
+image: "/uploads/On-water-boat.jpg"
 ---
 
 ** St. Thomas Episcopal Church, College Station, Texas - August 10, 2014**

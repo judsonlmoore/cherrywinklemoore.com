@@ -1,5 +1,6 @@
 ---
 title: An Open Letter to my friends from your friend whose child has disabilities
+date: 2009-08-16 00:00:00 Z
 categories:
 - Learning From Lew
 tags:
@@ -12,7 +13,7 @@ excerpt: A friend made me promise I would publish this letter someday.  I was to
   cowardly to publish it sooner.  I was afraid I would hurt someone's feelings.  Maybe
   this can be helpful to some other parent of a child who has disabilities - or to
   the friend of a parent.
-image: /uploads/3558176378_0dc5fbdce56.jpg
+image: "/uploads/3558176378_0dc5fbdce56.jpg"
 ---
 
 Dear Friends:

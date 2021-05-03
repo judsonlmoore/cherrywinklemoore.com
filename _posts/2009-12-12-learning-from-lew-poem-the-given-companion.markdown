@@ -1,5 +1,6 @@
 ---
 title: The Given Companion
+date: 2009-12-12 00:00:00 Z
 categories:
 - Learning From Judson
 - Learning From Lew
@@ -13,7 +14,7 @@ tags:
 - poem
 excerpt: A poem about my sons.  They were loved before they were born but not special
   ordered.  They came as gifts from a gracious God.
-image: /uploads/3558176378_0dc5fbdce510.jpg
+image: "/uploads/3558176378_0dc5fbdce510.jpg"
 ---
 
 ## The Given Companion

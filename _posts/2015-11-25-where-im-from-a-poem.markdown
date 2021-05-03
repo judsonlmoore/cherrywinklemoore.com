@@ -1,8 +1,9 @@
 ---
 title: '"Where I''m From" - a Poem'
+date: 2015-11-25 00:00:00 Z
 categories:
 - Art
-image: /uploads/Cherrys-Shadow1.jpg
+image: "/uploads/Cherrys-Shadow1.jpg"
 ---
 
 I am from the King James Bible and the Singer Sewing Machine and the '52 Chevy.

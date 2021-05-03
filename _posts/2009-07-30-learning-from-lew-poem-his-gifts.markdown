@@ -1,5 +1,6 @@
 ---
 title: His Gifts
+date: 2009-07-30 00:00:00 Z
 categories:
 - Learning From Lew
 - Poems
@@ -17,7 +18,7 @@ excerpt: 'I read a Reader''s Digest article by Henri Nouwen about his relationsh
   then I started thinking how I would answer the question: What did Lew bring to my
   life?  Maybe Henri and I were trying to say the same thing and were using different
   words.  Here''s my answer.'
-image: /uploads/3777323718_26c2c40f6e.jpg
+image: "/uploads/3777323718_26c2c40f6e.jpg"
 ---
 
 I have a first-born son

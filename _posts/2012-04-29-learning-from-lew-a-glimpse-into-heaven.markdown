@@ -1,5 +1,6 @@
 ---
 title: A Glimpse into Heaven
+date: 2012-04-29 00:00:00 Z
 categories:
 - Dreams
 - Hospice Stories
@@ -7,7 +8,7 @@ categories:
 - Spiritual Life
 excerpt: Recently I got a glimpse of my son, Lew, in Heaven. It has given me a lot
   of joy.
-image: /uploads/Resurrection-thumb.jpg
+image: "/uploads/Resurrection-thumb.jpg"
 ---
 
 I’m not sure even how to talk about it. I wasn’t dreaming. I was wide awake. It wasn’t exactly a daydream. I guess it was a vision. When I try to describe it, I find that I put my hands up to my left and make a globe-like motion. This image appeared fully formed in my mind. It felt like a gift.
