@@ -43,8 +43,8 @@ defaults:
   values:
     layout: shop-single
     title: 
-    categories:
-    tags:
+    categories: 
+    tags: 
     status: 
     medium: 
     image: 
