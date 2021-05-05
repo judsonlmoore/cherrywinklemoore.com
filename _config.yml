@@ -42,6 +42,20 @@ defaults:
     path: _gallery
   values:
     layout: shop-single
+    title: 
+    categories:
+    tags:
+    status: 
+    medium: 
+    image: 
+    data-item-price: 
+    data-item-weight: 
+    data-item-length: 
+    data-item-width: 
+    data-item-height: 
+    data-item-quantity: 1
+    data-item-max-quantity: 1
+    data-item-stackable: false
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
 description: Write an awesome description for your new site here. You can edit this
