@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   authors:
     title: Authors
-    output: true
+    output: false
   gallery:
     title: Gallery
     output: true
@@ -13,7 +13,7 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
