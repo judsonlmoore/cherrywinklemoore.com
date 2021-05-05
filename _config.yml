@@ -21,9 +21,10 @@ defaults:
   values:
     layout: blog-single
     author: cherrywinklemoore
+    image: 
 - scope:
     path: ''
-    type: page
+    type: pages
   values:
     layout: page
     permalink: "/:basename"
