@@ -1,12 +1,8 @@
 ---
 title: Home
 date: 2015-02-15 01:29:20 Z
-author: judsonlmoore
-comments: true
 layout: home
-slug: home
-wordpress_id: 1131
-image: "/uploads/lunch-alone.jpg"
+image: "/uploads/bread-and-wine.jpg"
 ---
 
 ### Cherry Winkle Moore, MFA, MDiv
