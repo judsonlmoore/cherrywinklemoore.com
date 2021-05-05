@@ -33,16 +33,16 @@ defaults:
   values:
     layout: shop-single
     image: 
-    status: For Sale #For Sale, Sold, Pending
-    medium: Oil on canvas #medium of the art
-    data-item-price: 0.00 #price in USD
-    data-item-weight: 1000 #weight in grams
-    data-item-length: 50 #length in cm
-    data-item-width: 50 #width in cm
-    data-item-height: 4 #height in cm
-    data-item-quantity: 1 #available quantity for sale 
-    data-item-max-quantity: 1 #max quantity sold per order
-    data-item-stackable: false 
+    status: For Sale
+    medium: Oil on canvas
+    data-item-price: 0.0
+    data-item-weight: 1000
+    data-item-length: 50
+    data-item-width: 50
+    data-item-height: 4
+    data-item-quantity: 1
+    data-item-max-quantity: 1
+    data-item-stackable: false
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
 description: Write an awesome description for your new site here. You can edit this
