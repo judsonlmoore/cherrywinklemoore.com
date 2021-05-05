@@ -16,28 +16,20 @@ collections:
     output: false
 defaults:
 - scope:
-    path: ''
-  values:
-    layout: page
-    author: cherrywinklemoore
-- scope:
-    path: ''
-    type: posts
+    path: ""
+    type: "posts"
   values:
     layout: blog-single
-    is_post: true
+    author: cherrywinklemoore
 - scope:
-    path: _pages
+    path: ""
+    type: "page"
   values:
     layout: page
     permalink: "/:basename"
 - scope:
-    path: ''
-    type: authors
-  values:
-    layout: blog-author
-- scope:
-    path: _gallery
+    path: ""
+    type: "gallery"
   values:
     layout: shop-single
     title: 
