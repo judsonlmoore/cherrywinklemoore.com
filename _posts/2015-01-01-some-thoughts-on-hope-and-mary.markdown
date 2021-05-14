@@ -14,4 +14,4 @@ In the first chapter of the Book of Acts we are told that the disciples were “
 
 Our hopes may have to change, too. I see this pattern in many hospice patients and I expect I will have it, too. When the diagnosis is new, we hope to be cured and get this behind us. When the doctor says there is no cure or the last treatment option hasn’t worked, we have to change our hopes. We can hope for a long and pain-free time with the illness or condition. We may then be told the disease is gaining on us. We can hope for good care and pain management. Our hope changes but we don’t have to give up hope. We can hope for a final healing as we die and step into our next life with God.
 
-What hopes have you had to change in the past? What hopes do you have for 2015?
+What hopes have you had to change in the past? What hopes do you have for this next year?
