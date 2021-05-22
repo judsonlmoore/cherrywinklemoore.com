@@ -5,10 +5,10 @@ categories:
 tags:
 - pastel
 - canvas
+image: "/uploads/philodendron.jpg"
 status: For Sale
 medium: Pastel on canvas
-image: "/uploads/philodendron.jpg"
-data-item-price: 300.0
+data-item-price: 400
 data-item-weight: 1000
 data-item-length: 51
 data-item-width: 51
