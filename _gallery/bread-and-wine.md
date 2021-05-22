@@ -5,10 +5,10 @@ categories:
 tags:
 - oil
 - canvas
+image: "/uploads/the-son-leaving-heaven.jpg"
 status: For Sale
 medium: Oil on canvas
-image: "/uploads/the-son-leaving-heaven.jpg"
-data-item-price: 700.0
+data-item-price: 500
 data-item-weight: 1000
 data-item-length: 51
 data-item-width: 51
