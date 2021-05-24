@@ -13,7 +13,7 @@ tags:
 excerpt: Today in 2009 I found this poem prompt that I filled in six years ago, in
   2003.  The prompt had the first few words of every sentence.  Many of the things
   I "wanted" I now have and YOU are part of it!
-image: "/uploads/3558176378_0dc5fbdce55.jpg"
+image: "/assets/images/3558176378_0dc5fbdce55.jpg"
 ---
 
 I WANT

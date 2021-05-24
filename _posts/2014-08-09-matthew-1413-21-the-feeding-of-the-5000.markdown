@@ -10,7 +10,7 @@ tags:
 - Artist-In-Residence
 - Christ
 - St. Thomas Episcopal Church
-image: "/uploads/AIR-Feed-5000-fish.jpg"
+image: "/assets/images/AIR-Feed-5000-fish.jpg"
 ---
 
 **St. Thomas Episcopal Church, College Station, Texas - August 3, 2014**
@@ -32,7 +32,7 @@ Are we told what time of day it is?  Is the little boy whose lunch this was men
 I read the text again and asked them to listen for more details and to play the scene in their imagination as if they were filming a video of the story. What else do they see? What do you see Jesus doing in your film?
 
 
-![](/uploads/AIR-Feeding-5000.jpg){:.img-fluid}
+![](/assets/images/AIR-Feeding-5000.jpg){:.img-fluid}
 
 
 ## MATERIALS
@@ -47,7 +47,7 @@ I had a curtain rod draped with black netting (fish net?) and various other supp
 I encouraged the participants to decorate their fish as individually and creatively as possible. If they had some insight from the text, I encouraged them to write that on their fish or to simply freely decorate it. After a period of working on our fish, we had a time of discussing our fish and our thoughts about the text.
 
 
-![](/uploads/AIR-Feed-5000-2.jpg){:.img-fluid}
+![](/assets/images/AIR-Feed-5000-2.jpg){:.img-fluid}
 
 
 ## INSIGHTS THAT EMERGED

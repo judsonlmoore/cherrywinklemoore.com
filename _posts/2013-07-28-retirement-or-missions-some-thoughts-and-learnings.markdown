@@ -6,7 +6,7 @@ categories:
 tags:
 - missions
 - retirement
-image: "/uploads/DSC04713.jpg"
+image: "/assets/images/DSC04713.jpg"
 ---
 
 Voices inside and out tell me to make plans about retiring. I do feel that a season of my life is ending but I also find that I am looking for a new, a next challenge.

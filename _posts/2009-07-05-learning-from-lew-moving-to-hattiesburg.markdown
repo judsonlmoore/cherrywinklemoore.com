@@ -12,7 +12,7 @@ tags:
 - University of Southern Mississippi
 - William Carey College
 excerpt: This is one of my favorite stories of God's grace at work in our family.
-image: "/uploads/3558176378_0dc5fbdce5.jpg"
+image: "/assets/images/3558176378_0dc5fbdce5.jpg"
 ---
 
 Lew is five years old and it is the first time that I shake my fists in anger at God.

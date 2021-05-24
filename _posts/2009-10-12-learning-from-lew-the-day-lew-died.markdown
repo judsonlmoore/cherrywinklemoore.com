@@ -13,7 +13,7 @@ excerpt: I've told so much of Lew's story.  It seems right to tell this part, to
   will totally understand if nobody reads it but I share it nonetheless.  It was a
   bleak, dark, snowy night but God was present in many people helping us and in Lew,
   helping him.
-image: "/uploads/3558177226_a3045bc431.jpg"
+image: "/assets/images/3558177226_a3045bc431.jpg"
 ---
 
 The Day Lew Died: February 4, 1998, 5:30 p.m.

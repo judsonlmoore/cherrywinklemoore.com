@@ -12,7 +12,7 @@ tags:
 - out-of-home placement
 excerpt: On a terrible day in the life of our family, God's grace breaks through in
   a surprising way.
-image: "/uploads/3558176378_0dc5fbdce52.jpg"
+image: "/assets/images/3558176378_0dc5fbdce52.jpg"
 ---
 
 It was the day we took Lew to the Home of the Innocents to stay.  It was the worst day of my life -- but not for the reasons I expected it to be.

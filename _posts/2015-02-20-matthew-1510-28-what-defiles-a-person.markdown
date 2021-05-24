@@ -6,7 +6,7 @@ categories:
 - New
 tags:
 - Gospel Art
-image: "/uploads/Integrated.jpg"
+image: "/assets/images/Integrated.jpg"
 ---
 
 ## St. Thomas Episcopal Church, College Station, Texas - August 17, 2014
@@ -34,16 +34,16 @@ I encouraged them to think about the good and bad things that come from the insi
 
 This one was done by the mother of an infant. What is coming out of her mouth and heart is love but notice that there is also some chaos around. She probably isn't getting a lot of sleep. Her husband was sitting beside her holding the infant so she could paint.
 
-![Mother Love](/uploads/Mother-Love.jpg){:.img-fluid}
+![Mother Love](/assets/images/Mother-Love.jpg){:.img-fluid}
 
 This was by a woman who said what she has depicted coming into her mouth is water, bread and meat, fruits and vegetables and leafy greens. What is coming out of her mouth is her love, her financial concerns and her dreams.
 
-![Love Dreams Money](/uploads/Love-Dreams-Money1.jpg){:.img-fluid}
+![Love Dreams Money](/assets/images/Love-Dreams-Money1.jpg){:.img-fluid}
 
 I love that this one depicts a lot of integration. The rainbow of colors in his head and in his chest match what is coming out his mouth. His young son was sitting beside him and said, "But see that thing coming out of his mouth? That's how he sometimes talks to me!" I'm sure every parent can relate to that. I know I can.
 
-![Integrated](/uploads/Integrated.jpg){:.img-fluid}
+![Integrated](/assets/images/Integrated.jpg){:.img-fluid}
 
 I love that there is always someone who departs from what the group is doing and does their own thing. This is a great example of that.
 
-![I am what I allow](/uploads/I-am-what-I-allow.jpg){:.img-fluid}
+![I am what I allow](/assets/images/I-am-what-I-allow.jpg){:.img-fluid}

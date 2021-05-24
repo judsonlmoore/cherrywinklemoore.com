@@ -10,7 +10,7 @@ tags:
 - enough
 excerpt: "Someone actually asked me the question in this poem.  \nThe question prompted
   the poem."
-image: "/uploads/3558176378_0dc5fbdce53.jpg"
+image: "/assets/images/3558176378_0dc5fbdce53.jpg"
 ---
 
 I have a son

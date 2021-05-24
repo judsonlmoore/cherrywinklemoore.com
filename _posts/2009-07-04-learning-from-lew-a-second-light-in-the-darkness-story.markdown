@@ -9,7 +9,7 @@ tags:
 - Psalms
 excerpt: Is one story the mother of the other?  The truth is bigger than the question.
   God's Light is willing to go with us into every darkness.
-image: "/uploads/3558176378_0dc5fbdce51.jpg"
+image: "/assets/images/3558176378_0dc5fbdce51.jpg"
 ---
 
 Several weeks ago I posted the story about a Chinese Christian pastor who said the way he survived extreme persecution was by remembering in the darkness what God had taught him in the light.

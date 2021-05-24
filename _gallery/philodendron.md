@@ -5,7 +5,7 @@ categories:
 tags:
 - pastel
 - canvas
-image: "/uploads/philodendron.jpg"
+image: "/assets/images/philodendron.jpg"
 status: For Sale
 medium: Pastel on canvas
 data-item-price: 400

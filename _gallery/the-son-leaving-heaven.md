@@ -5,7 +5,7 @@ categories:
 tags:
 - oil
 - canvas
-image: "/uploads/in-the-best-company.jpg"
+image: "/assets/images/in-the-best-company.jpg"
 status: For Sale
 medium: Oil on canvas
 data-item-price: 500

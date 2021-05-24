@@ -3,7 +3,7 @@ title: Some Thoughts on Hope and Mary
 date: 2015-01-01 00:00:00 Z
 categories:
 - Hospice Stories
-image: "/uploads/pieta.jpgxlMedium.jpg"
+image: "/assets/images/pieta.jpgxlMedium.jpg"
 ---
 
 We hope. We don’t have to give up hope but sometimes our hopes have to change.

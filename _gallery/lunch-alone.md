@@ -5,7 +5,7 @@ categories:
 tags:
 - oil
 - canvas
-image: "/uploads/lunch-alone.jpg"
+image: "/assets/images/lunch-alone.jpg"
 status: For Sale
 medium: Oil on canvas
 data-item-price: 500

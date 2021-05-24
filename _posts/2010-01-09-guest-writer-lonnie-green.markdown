@@ -13,7 +13,7 @@ excerpt: "I think this is a fine sermon by any measure but, for me, the special 
   is that it is the testimony of a parent whose child died. Lonnie says with the prophet
   Habakkuk, \"YET I will rejoice in the Lord.  I will be joyful in God, my Savior.\"
   \ \n\nIf God seems far away or silent, read this."
-image: "/uploads/3558177226_a3045bc431_m.jpg"
+image: "/assets/images/3558177226_a3045bc431_m.jpg"
 ---
 
 HAVE YOU REACHED A VERDICT?

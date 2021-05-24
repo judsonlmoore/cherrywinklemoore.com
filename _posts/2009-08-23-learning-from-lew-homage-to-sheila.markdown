@@ -12,7 +12,7 @@ excerpt: |-
   Many staff members at the Home of the Innocents in Louisville, Kentucky were special friends to us and to Lew.  Debbie, Patty, Dawn.  So many others. Physical Therapists.  Volunteers.  Administrators.  But Sheila stood out.  It was love at first sight.  How could I ever thank Sheila enough?
 
   When Lew died, Sheila told me she was never going to allow herself to get so attached to a patient again.  It was too painful.  But, Sheila, I hope that is not what happened.  You were such a blessing to Lew and to his family.  Thank you, dear one.
-image: "/uploads/3558176378_0dc5fbdce57.jpg"
+image: "/assets/images/3558176378_0dc5fbdce57.jpg"
 ---
 
 Sheila was an aide at the Home of the Innocents. She was working that first day when we took Lew from the respite care home to HOTI.  That day was a fog for me.  On that day Sheila was just one of a cloud of concerned, welcoming faces we encountered.  Over the months and years that followed, however, Sheila began to stand out in the crowd.

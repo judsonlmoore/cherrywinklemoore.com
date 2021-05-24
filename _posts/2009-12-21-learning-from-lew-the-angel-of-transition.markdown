@@ -16,7 +16,7 @@ excerpt: I woke up with a powerful dream image in my mind.  It was Lew in the ar
   dream was just that image but I made up a story about what happened before the picture
   and after it.  Lew died ten days after the dream and a couple of weeks later I wrote
   this story.
-image: "/uploads/4220681846_963bd84d48.jpg"
+image: "/assets/images/4220681846_963bd84d48.jpg"
 ---
 
 **Angel:** Hello, Lew.
@@ -52,7 +52,7 @@ I can help you breathe if you like.
 **L:** You can float?  Show me.
 
 
-![](/uploads/sketch-angel-in-flight.jpg){:.img-fluid}
+![](/assets/images/sketch-angel-in-flight.jpg){:.img-fluid}
 
 (Angel takes a spin around the room avoiding the doctors and nurses who are there but they don't see or feel her anyway.)
 
@@ -68,7 +68,7 @@ you will hear mine.
 **L:** Breathing is getting harder...I'd like your help.
 
 
-![](/uploads/painting-angel-lifting-lew.jpg){:.img-fluid}
+![](/assets/images/painting-angel-lifting-lew.jpg){:.img-fluid}
 
 (Angel floats above Lew and places her mouth over hi**A:**  Her arms support his torso.)
 
@@ -107,7 +107,7 @@ leave.
 But Sheila...we can wait for Sheil**A:**  She's on her way and very close.
 
 
-![](/uploads/sketch-bedside-comfort.jpg){:.img-fluid}
+![](/assets/images/sketch-bedside-comfort.jpg){:.img-fluid}
 
 **Sheila:** "Luder, Luder.  Miss Sheila is here.
 
@@ -152,4 +152,4 @@ His eyelids fly open.  He takes another breath, quickly, deeply._
 **A:**  Let's go up toward the light, Lew.  That's where everyone is waiting.
 
 
-![](/uploads/Ressurection1-e1347729949662.jpg){:.img-fluid}
+![](/assets/images/Ressurection1-e1347729949662.jpg){:.img-fluid}

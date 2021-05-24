@@ -3,7 +3,7 @@ title: 'FIRE: a poem by Judy Sorum Brown and a book page of mine'
 date: 2015-09-07 00:00:00 Z
 categories:
 - Poems
-image: "/uploads/Fire-book-page.jpg"
+image: "/assets/images/Fire-book-page.jpg"
 ---
 
 A couple of years ago I took a page in a book called Creativity by Matthew Fox and made a "found word" poem.

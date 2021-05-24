@@ -7,7 +7,7 @@ excerpt: In my last post I wrote about seeking a personal spiritual practice.  T
   post is about what I am actually doing now.  The real point is to lead a life faithful
   to God - whatever pattern for prayer is used.  I pray you will find - and use -
   a pattern for prayer and devotion that works for you.
-image: "/uploads/3558174990_4743007893_o.jpg"
+image: "/assets/images/3558174990_4743007893_o.jpg"
 ---
 
 In my last post I wrote about my struggle to find a personal spiritual practice and confessed that I have often felt that I have ADHD of the Spiritual Life.  I remind myself often that the real point of all this is to lead a life focused on the love of God and to share the love of Christ with others.  I’m certainly not suggesting that you do what I do but that you find ways to be faithful and intentional in your personal devotion to the Lord and Savior Jesus Christ.

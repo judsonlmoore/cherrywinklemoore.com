@@ -5,7 +5,7 @@ categories:
 tags:
 - oil
 - canvas
-image: "/uploads/tea-with-cream-and-sugar.jpg"
+image: "/assets/images/tea-with-cream-and-sugar.jpg"
 status: For Sale
 medium: Oil on canvas
 data-item-price: 500

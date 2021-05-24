@@ -8,7 +8,7 @@ excerpt: Writing a personal version of the 23rd Psalm was assigned in Week Three
   Texas are doing this spring of 2010.  T.W. Hunt who wrote the study guide was a
   seminary professor.  His example begins, "The Lord is My Professor."  I have found
   the process of writing my own to be rich and fascinating.  I recommend it to you.
-image: "/uploads/3557364095_3ca43015be_m.jpg"
+image: "/assets/images/3557364095_3ca43015be_m.jpg"
 ---
 
 The Lord is my chaplain.

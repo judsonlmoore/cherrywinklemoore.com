@@ -6,7 +6,7 @@ categories:
 - Spiritual Life
 tags:
 - Art
-image: "/uploads/IMG_0088.jpg"
+image: "/assets/images/IMG_0088.jpg"
 ---
 
 I attended a spiritual retreat sometime in the 90s. At the first meeting the retreat leader passed out index cards.

@@ -11,9 +11,6 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: false
 defaults:
 - scope:
     path: ''
@@ -65,7 +62,6 @@ plugins:
 gems:
 - jekyll-paginate-v2
 include:
-- _uploads
 - _pages
 exclude:
 - ".sass-cache/"

@@ -7,7 +7,7 @@ excerpt: |-
   Have you experienced a "grief burst"?  If you have ever experienced a significant loss, you probably have.
 
   I had an unexpected one this week.
-image: "/uploads/3558176378_0dc5fbdce512.jpg"
+image: "/assets/images/3558176378_0dc5fbdce512.jpg"
 ---
 
 Shortly after I went to work at the hospice where I am a chaplain, I learned about “grief bursts” from the Bereavement Coordinator. I hadn’t heard the definition but I was familiar with the experience.

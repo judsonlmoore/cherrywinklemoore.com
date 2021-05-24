@@ -12,7 +12,7 @@ tags:
 excerpt: "Both my mother and one of my sons were declining in 1993.  \nI went on a
   spiritual retreat where God's comforting, nurturing presence met me.  \nA few years
   later this painting resulted.  What does God look like in your imagination?"
-image: "/uploads/Experiencing-the-feminine-characteristics-of-God2.jpg"
+image: "/assets/images/Experiencing-the-feminine-characteristics-of-God2.jpg"
 ---
 
 I would like to tell you about a 36" round painting that I call "Experiencing the Feminine Characteristics of God."  Once she was carried into a seminary chapel by liturgical dancers and placed on an easel that was awaiting her on the chancel.  This was in 1996 at Lexington Theological Seminary (Disciples of Christ) where I took 31 hours toward my Master of Divinity degree.

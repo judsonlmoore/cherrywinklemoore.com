@@ -13,7 +13,7 @@ tags:
 excerpt: This quote is one of the most helpful things I have read anywhere in helping
   me to deal with the disabilities and death of my son, Lew.  My thanks to John B.
   Cobb, Jr.
-image: "/uploads/3558176378_0dc5fbdce52.jpg"
+image: "/assets/images/3558176378_0dc5fbdce52.jpg"
 ---
 
 In the Fall of 1997 I found this quote in the book Encountering Evil: live options in theodicy edited by Stephen T. Davis. This is a book I never would have read had it not been a text for a seminary class. I also don’t recommend it unless you know what you are getting into and really want a challenging read. The original statement was written by John B. Cobb, Jr. in a postscript to the book. He is responding to the four theodicies presented in the book and answering the question, “If you agree intellectually more with this one or that one, how would that translate into your pastoral ministry?”

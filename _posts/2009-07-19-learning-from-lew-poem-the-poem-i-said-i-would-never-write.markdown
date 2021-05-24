@@ -10,7 +10,7 @@ tags:
 excerpt: This poem attempts to explain why I wrote it and why I am writing all of
   these stories and poems about Lew and sending them out into the world.  I want people
   to see him and others like him.
-image: "/uploads/3558176378_0dc5fbdce52.jpg"
+image: "/assets/images/3558176378_0dc5fbdce52.jpg"
 ---
 
 Every mother of a child who is disabled

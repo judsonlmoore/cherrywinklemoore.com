@@ -7,7 +7,7 @@ tags:
 - canvas
 status: For Sale
 medium: Oil on canvas
-image: "/uploads/bread-and-wine.jpg"
+image: "/assets/images/bread-and-wine.jpg"
 data-item-price: 700.0
 data-item-weight: 1000
 data-item-length: 51

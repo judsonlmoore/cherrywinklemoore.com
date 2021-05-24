@@ -17,7 +17,7 @@ excerpt: |-
   I was challenged to write my own Praise History and to reread it often.  I have found this to be a rich experience and I recommend it to you.
 
   Here's mine.  What would yours be like?
-image: "/uploads/photo-14.jpg"
+image: "/assets/images/photo-14.jpg"
 ---
 
 _Spring 2010_

@@ -7,7 +7,7 @@ categories:
 tags:
 - Art
 - poem
-image: "/uploads/IMG_3142.jpg"
+image: "/assets/images/IMG_3142.jpg"
 ---
 
 Artist's Retreat, 2011. Ian Cron asked us to go experience water and come back in about twenty minutes. This happened. It's taken me six years to share it.

@@ -7,7 +7,7 @@ excerpt: David had been a shepherd so when he wrote about God he used imagery he
   week I was challenged to use the format of the 23rd Psalm and write a version using
   a title meaningful to me.  I wrote more than one but here is "The Lord is my Master
   Artist."  How would you do this assignment to make it fit your life?
-image: "/uploads/3557363977_759d45c5d3_m.jpg"
+image: "/assets/images/3557363977_759d45c5d3_m.jpg"
 ---
 
 The Lord is my Master Artist

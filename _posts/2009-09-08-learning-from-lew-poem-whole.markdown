@@ -10,7 +10,7 @@ excerpt: |-
   I wrote a poem about Lew called "His Gifts" that included the line "all of these gifts I would gladly exchange for a whole son." Then I had to think about what in the world THAT meant.  He filled my life in so many ways.  He had challenges and maybe even "deficits" but so often he was a joy to me.
 
   This poem is my answer to that question.  He was whole in his unique way.
-image: "/uploads/3558176378_0dc5fbdce59.jpg"
+image: "/assets/images/3558176378_0dc5fbdce59.jpg"
 ---
 
 I said he was not whole

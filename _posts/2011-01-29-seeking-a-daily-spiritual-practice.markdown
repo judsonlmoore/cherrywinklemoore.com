@@ -8,7 +8,7 @@ excerpt: For years I have admired people who have a set spiritual practice.  I d
   know them and the authenticity of their life – I learn about what they do as a regular
   spiritual practice.  Recently my own spiritual life is being transformed.  Let me
   tell you about it.
-image: "/uploads/3557364143_00814c2e1e_o.jpg"
+image: "/assets/images/3557364143_00814c2e1e_o.jpg"
 ---
 
 Not having grown up in a tradition with a liturgy or lectionary or a set schedule for morning and evening prayers, I’ve been on the look-out for my own spiritual practice.  I had a long list of things I thought I “should” be doing: prayer, Bible reading, meditation, journaling, paying attention to my dreams, drawing my dreams or prayers, etc.   The list was so long that many mornings I would feel defeated and condemned before I even said “Good Morning, God”.  If I did everything on my list, I would need four hours so often I practiced nothing but guilt and defeat.

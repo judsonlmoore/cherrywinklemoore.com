@@ -6,7 +6,7 @@ categories:
 excerpt: I found this drawing in an old sketchbook.  A "family portrait" of sorts,
   it was drawn at a stressful time in my life but I was blessed to be able to imagine
   a different future - a future I inhabit now!
-image: "/uploads/4219484797_723cf60146.jpg"
+image: "/assets/images/4219484797_723cf60146.jpg"
 ---
 
 I found this drawing in a 1994 sketchbook: a family portrait with an imagined future.

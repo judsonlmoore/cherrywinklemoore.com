@@ -14,7 +14,7 @@ tags:
 - poem
 excerpt: A poem about my sons.  They were loved before they were born but not special
   ordered.  They came as gifts from a gracious God.
-image: "/uploads/3558176378_0dc5fbdce510.jpg"
+image: "/assets/images/3558176378_0dc5fbdce510.jpg"
 ---
 
 ## The Given Companion
