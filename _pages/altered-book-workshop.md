@@ -30,62 +30,62 @@ An ideal group size is 10-20.
 
 ### Altered Book Examples
 
-<img src="/assets/images/FullSizeRender-1.jpg" />
+{% cloudinary /assets/images/FullSizeRender-1.jpg %}
 <h3>By a workshop student in Bryan Texas February 2014</h3>
 
-<img src="/assets/images/altered-book-student-work-bryan-tx-4.jpg" />
+{% cloudinary /assets/images/altered-book-student-work-bryan-tx-4.jpg %}
 <h3>By a workshop student in Bryan Texas February 2014</h3>
 
-<img src="/assets/images/altered-book-student-work-bryan-tx-1.jpg" />
+{% cloudinary /assets/images/altered-book-student-work-bryan-tx-1.jpg %}
 <h3>By a workshop student in Bryan Texas February 2014</h3>
 
-<img src="/assets/images/altered-book-student-work-bryan-tx-2.jpg" />
+{% cloudinary /assets/images/altered-book-student-work-bryan-tx-2.jpg %}
 <h3>By a workshop student in Bryan Texas February 2014</h3>
 
-<img src="/assets/images/bg-body-pain.jpg" />
+{% cloudinary /assets/images/bg-body-pain.jpg %}
 <h3>A body of pain, by Cherry W Moore</h3>
 
-<img src="/assets/images/bg-altered-book-2-e1424183399895.jpg" />
+{% cloudinary /assets/images/bg-altered-book-2-e1424183399895.jpg %}
 <h3>Example of an altered book by Cherry W Moore</h3>
 
-<img src="/assets/images/bg-gold-e1424110306470.jpg" />
+{% cloudinary /assets/images/bg-gold-e1424110306470.jpg %}
 <h3>Golden brush strokes by Cherry W Moore</h3>
 
-<img src="/assets/images/bg-altered-book-1.jpg" />
+{% cloudinary /assets/images/bg-altered-book-1.jpg %}
 <h3>bg-altered-book-1</h3>
 
-<img src="/assets/images/altered-book-student-work-bryan-tx-3.jpg" />
+{% cloudinary /assets/images/altered-book-student-work-bryan-tx-3.jpg %}
 <h3>By a workshop student in Bryan Texas February 2014</h3>
 
 ### Workshop Photos
 
-<img src="/assets/images/workshop-bryan-tx-2014-3.jpg" alt="Workshop in Bryan Texas February 2014" />
+{% cloudinary /assets/images/workshop-bryan-tx-2014-3.jpg" alt="Workshop in Bryan Texas February 2014" %}
 <h3>Workshop in Bryan Texas February 2014</h3>
 <p>Workshop in Bryan Texas February 2014</p>
 
-<img src="/assets/images/workshop-sa-tx-2014-3.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-3.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <h3>Workshop in San Antonio Texas February 2014</h3>
 <p>Workshop in Bryan Texas February 2014</p>
 
-<img src="/assets/images/workshop-sa-tx-2014-1-e1424647771864.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-1-e1424647771864.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <h3>Workshop in San Antonio Texas February 2014</h3>
 <p>Workshop in San Antonio Texas February 2014</p>
 
-<img src="/assets/images/workshop-sa-tx-2014-4.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-4.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <h3>Workshop in San Antonio Texas February 2014</h3>
 
-<img src="/assets/images/workshop-sa-tx-2014-2.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-2.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <p>Workshop in San Antonio Texas February 2014</p>
 
-<img src="/assets/images/workshop-sa-tx-2014-5.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-5.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <p>Workshop in San Antonio Texas February 2014</p>
 
-<img src="/assets/images/workshop-bryan-tx-2014-2.jpg" alt="Workshop in Bryan Texas February 2014" />
+{% cloudinary /assets/images/workshop-bryan-tx-2014-2.jpg" alt="Workshop in Bryan Texas February 2014" %}
 <h3>Workshop in Bryan Texas February 2014</h3>
 <p>Workshop in Bryan Texas February 2014</p>
 
-<img src="/assets/images/workshop-sa-tx-2014-6.jpg" alt="Workshop in San Antonio Texas February 2014" />
+{% cloudinary /assets/images/workshop-sa-tx-2014-6.jpg" alt="Workshop in San Antonio Texas February 2014" %}
 <h3>Workshop in San Antonio Texas February 2014</h3>
 
-<img src="/assets/images/workshop-bryan-tx-2014-4.jpg" alt="Workshop in Bryan Texas February 2014" />
+{% cloudinary /assets/images/workshop-bryan-tx-2014-4.jpg" alt="Workshop in Bryan Texas February 2014" %}
 <h3>Workshop in Bryan Texas February 2014</h3>

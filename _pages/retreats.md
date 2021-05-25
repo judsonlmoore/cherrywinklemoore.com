@@ -64,7 +64,7 @@ To learn more and to schedule a retreat, please [contact Cherry](https://www.che
 ### Workshop Photos
 
 
-<img src="/assets/images/photo-1.jpg" />
-<img src="/assets/images/AIR-Feeding-5000.jpg" />
-<img src="/assets/images/AIR-Feed-5000-2.jpg" />
-<img src="/assets/images/AIR-Feed-5000-fish.jpg" />
+{% cloudinary /assets/images/photo-1.jpg %}
+{% cloudinary /assets/images/AIR-Feeding-5000.jpg %}
+{% cloudinary /assets/images/AIR-Feed-5000-2.jpg %}
+{% cloudinary /assets/images/AIR-Feed-5000-fish.jpg %}

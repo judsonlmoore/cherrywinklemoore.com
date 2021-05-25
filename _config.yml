@@ -50,7 +50,7 @@ description: Write an awesome description for your new site here. You can edit t
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 baseurl: 
-url: https://github.cherrywinklemoore.com
+url: ""
 author: cherrywinklemoore
 logo: "/favicon.ico"
 lang: en_US
@@ -95,11 +95,12 @@ cloudinary:
       gravity: auto
       crop: fill
       focus: auto
-      min_width: 256
+      steps: 5
+      min_width: 128
       max_width: 1024
       figure: never
       attributes:
-        class: img-fluid mb-2 mt-3 w-100
+        class: img-fluid
         loading: lazy
 compress_html:
   clippings: all

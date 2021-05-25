@@ -12,15 +12,20 @@ layout: default
       <div class="col-lg-4 col-md-6 col-12">
         <div class="mb-4">
           <div class="mb-5">
-            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image }}" alt="{{ post.title }}" class="img-fluid w-100 rounded" /></a>
+            <a href="{{ post.url | absolute_url }}">
+              {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid w-100 rounded" %}
+            </a>
           </div>
-          <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.category }}</span>
-          <a href="{{ post.url | absolute_url }}">
+          {% assign sortedCategories = post.categories | sort_natural %}
+          {% for category in sortedCategories limit:1 %}
+          <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}/" class="mb-3 text-secondary font-weight-bold d-block">{{ category }}</a>
+          {% endfor %}
+            <a href="{{ post.url | absolute_url }}">
             <h3 class="h4 mb-2">
               {{ post.title }}
             </h3>
           </a>
-          <p class="mb-4 font-12 font-weight-bold"><span class="me-3">{{ post.date | date_to_string: "ordinal", "US" }}</span><span>38 mins 11 secs</span></p>
+          <p class="mb-4 font-12 font-weight-bold"><span class="me-3">${{ post.data-item-price }}</span><span class="text-right">{{ post.medium }}</span></p>
         </div>
       </div>
       {% endfor %}
@@ -32,7 +37,9 @@ layout: default
       <div class="col-lg-4 col-md-6 col-12">
         <div class="mb-4">
           <div class="mb-5">
-            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image }}" alt="{{ post.title }}" class="img-fluid w-100 rounded" /></a>
+            <a href="{{ post.url | absolute_url }}">
+              {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid w-100 rounded" %}
+            </a>
           </div>
           <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.category }}</span>
           <a href="{{ post.url | absolute_url }}">

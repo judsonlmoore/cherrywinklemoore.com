@@ -25,9 +25,6 @@ layout: compress
 
   {% seo %}
 
-  <!-- Libs CSS -->
-  <link rel="stylesheet" href="{{ '/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css'| absolute_url }}">
-
   <!-- Theme CSS -->
   <link rel="stylesheet" href="{{'/assets/css/theme.min.css'| absolute_url }}">
 
@@ -51,9 +48,15 @@ layout: compress
   <body class="{{layout}}">
 
     {% if jekyll.environment == 'production' %}
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm }}"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T3FVMLVCV0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-T3FVMLVCV0');
+    </script>
     {% endif %}
 
     <!-- header -->
@@ -61,7 +64,7 @@ layout: compress
       <!-- navigation start -->
       <div class="container-lg">
         <nav class="navbar navbar-expand-lg navbar-default">
-          <a class="navbar-brand" href="{{ site.url | absolute_url }}">
+          <a class="navbar-brand" href="{{ '/' | absolute_url }}">
             <h1 class="font-weight-bolder d-block text-white h4 m-0">Cherry Winkle Moore</h1>
             <p class="font-weight-light h6 text-white m-0">making divine images visible</p>
           </a>
