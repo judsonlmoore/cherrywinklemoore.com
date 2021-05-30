@@ -52,7 +52,7 @@ layout: default
     {% endif %}
 
     <div class="row">
-      {% for post in paginator.posts | offset:1 | limit:8 %}
+      {% for post in paginator.posts offset:1 limit:8 %}
       {% include postbox-posts.html %}
       {% endfor %} 
 
