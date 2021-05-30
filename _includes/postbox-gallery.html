@@ -1,7 +1,7 @@
 <!-- gallery thumbnail -->
-<div class="col-lg-4 col-md-6 col-12 mb-3">
-  <div class="embed-responsive embed-responsive-1by1 mb-3">
-    {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-top embed-responsive-item" style="object-fit: cover;" %}
+<div class="col-lg-4 col-md-6 col-12 mb-3 position-relative">
+  <div class="ratio ratio-1x1 mb-3">
+    {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-top" style="object-fit: cover;" %}
   </div>
   <h3 class="h4 mb-2">{{ post.title }}</h3>
   <p class="mb-4 font-12 font-weight-bold">
@@ -11,6 +11,6 @@
     {% endfor %}
     <span>{{ post.medium }}</span> | 
     <span>${{ post.data-item-price }}</span>
+    <a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
   </p>
-  <a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
 </div>
