@@ -28,7 +28,7 @@ defaults:
   values:
     layout: page
     permalink: "/:basename"
-    image: /assets/images/bg-altered-book-2-e1424183399895.jpg
+    image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
 - scope:
     path: ''
     type: gallery
@@ -56,7 +56,7 @@ author: cherrywinklemoore
 logo: "/favicon.ico"
 lang: en_US
 favicon: "/favicon.ico"
-og_image: /assets/images/bg-altered-book-2-e1424183399895.jpg
+og_image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
 plugins:
 - jekyll-feed
 - jekyll-strapi
