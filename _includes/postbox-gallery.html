@@ -1,0 +1,16 @@
+<!-- gallery thumbnail -->
+<div class="col-lg-4 col-md-6 col-12 mb-3">
+  <div class="embed-responsive embed-responsive-1by1 mb-3">
+    {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-top embed-responsive-item" style="object-fit: cover;" %}
+  </div>
+  <h3 class="h4 mb-2">{{ post.title }}</h3>
+  <p class="mb-4 font-12 font-weight-bold">
+    {% assign sortedCategories = post.categories | sort_natural %}
+    {% for category in sortedCategories limit:1 %}
+    <span>{{ category }}</span> | 
+    {% endfor %}
+    <span>{{ post.medium }}</span> | 
+    <span>${{ post.data-item-price }}</span>
+  </p>
+  <a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
+</div>

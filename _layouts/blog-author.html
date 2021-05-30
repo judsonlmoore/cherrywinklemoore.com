@@ -80,7 +80,7 @@ layout: default
 
       {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
       {% for post in filtered_posts %}
-      {% include postbox.html %}
+      {% include postbox-posts.html %}
       {% endfor %}
 
     </div>

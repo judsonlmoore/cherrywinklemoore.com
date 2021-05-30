@@ -1,48 +1,20 @@
 main:
   - title: About
     url: /about
-  - dropdown-title: Gallery
-    dropdown-items:
-      - title: Oil
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Acrylic
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Original Prints
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Still Life
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Spiritual
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Portraits
-        subtitle: Art for sale
-        icon: fas fa-user-plus
-        url: /store
-      - title: Archived
-        subtitle: Sold art
-        icon: fas fa-user-plus
-        url: /store-archived
+  - title: Gallery
+    url: /gallery
   - dropdown-title: Musings
     dropdown-items:
       - title: On Faith
         subtitle: Writings about faith
-        icon: fas fa-user-plus
-        url: /faith
+        icon: fas fa-cross
+        url: /category/spiritual-life/
       - title: On Disability
         subtitle: Writings about disabilities
-        icon: fas fa-user-plus
-        url: /disability
+        icon: fas fa-wheelchair
+        url: /tag/disability/
   - title: Poems
-    url: /poems
+    url: /category/poems/
   - title: Contact Cherry
     url: /contact
 footer:
@@ -50,10 +22,10 @@ footer:
     links:
       - title: Home
         url: /
-      - title: Home
-        url: /
-      - title: Home
-        url: /
+      - title: Facebook
+        url: https://www.facebook.com/CherryWinkleMoore
+      - title: Twitter
+        url: https://twitter.com/cherrywmoore
       - title: Login
         url: https://manage.siteleaf.com/login
 bottom-bar:

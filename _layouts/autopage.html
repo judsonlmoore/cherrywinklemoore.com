@@ -26,7 +26,7 @@ layout: default
     <div class="row">
 
       {% for post in paginator.posts %}
-      {% include postbox.html %}
+      {% include postbox-posts.html %}
       {% endfor %}
 
       {% if paginator.total_pages > 1 %}

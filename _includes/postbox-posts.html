@@ -1,0 +1,11 @@
+<!-- post thumbnail -->
+<div class="col-lg-3 col-md-6 col-12 mb-3">
+  <div class="embed-responsive embed-responsive-4by3 mb-3">
+    {% if post.image %}
+    {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-top embed-responsive-item" style="object-fit: cover;" %}
+    {% endif %}
+  </div>
+  <p class="mb-2 font-weight-bold">{{ post.title }}</p>
+  <p>{{ post.content | strip_html | truncatewords: 13 }}</p>
+  <a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
+</div>

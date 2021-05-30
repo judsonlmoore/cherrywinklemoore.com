@@ -28,6 +28,7 @@ defaults:
   values:
     layout: page
     permalink: "/:basename"
+    image: /assets/images/bg-altered-book-2-e1424183399895.jpg
 - scope:
     path: ''
     type: gallery
@@ -55,7 +56,7 @@ author: cherrywinklemoore
 logo: "/favicon.ico"
 lang: en_US
 favicon: "/favicon.ico"
-og_image: "/assets/images/bg-hero.jpg"
+og_image: /assets/images/bg-altered-book-2-e1424183399895.jpg
 plugins:
 - jekyll-feed
 - jekyll-strapi
@@ -132,9 +133,10 @@ compress_html:
     envs: []
 pagination:
   enabled: true
+  debug: false
   per_page: 9
   permalink: "/page-:num/"
-  title: ":title"
+  title: ":title - page :num"
   limit: 0
   sort_field: date
   sort_reverse: true

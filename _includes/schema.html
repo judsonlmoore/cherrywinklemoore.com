@@ -15,87 +15,61 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://www.judsonlmoore.com/#person",
-        "name": "Judson L Moore",
-        "alternateName": "Judson L Moore",
+        "@id": "https://www.cherrywinklemoore.com/#person",
+        "name": "Cherry Winkle Moore",
+        "alternateName": "Cherry Winkle Moore",
         "url": {{ '/' | absolute_url | jsonify }},
         "nationality": "American",
         "birthPlace": {
           "@type": "Place",
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "Berlin",
-            "addressRegion": "Berlin",
-            "addressCountry": "Germany"
+            "addressLocality": "Hamilton",
+            "addressRegion": "Ohio",
+            "addressCountry": "USA"
           }
         },
-        "alumniOf": [
-          {
-            "@type": "CollegeOrUniversity",
-            "name": "Louisiana State Univeristy",
-            "sameAs": "https://www.lsu.edu/"
-          }
-        ],
-        "gender": "Male",
-        "Description": "Product manager, author, and travel adict",
-        "disambiguatingDescription": "Author of Exponential Happiness",
-        "jobTitle": "Senior Product Manager",
-        "worksFor": [
-          {
-            "@type": "Organization",
-            "name": "eBay",
-            "sameAs": ["https://twitter.com/ebay", "https://www.facebook.com/ebay/", "https://www.linkedin.com/company/ebay/mycompany/", "https://www.youtube.com/user/ebay"]
-          }
-        ],
-        "image": "https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png",
+        "gender": "Female",
+        "Description": "Cherry Winkle Moore is a visual artist and a retired hospice chaplain.",
+        "jobTitle": "Artist",
+        "image": "https://www.cherrywinklemoore.com/assets/images/cherrywmoore-avatar.jpg",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Berlin",
-          "addressRegion": "Berlin",
-          "addressCountry": "Germany"
+          "addressLocality": "Bryan",
+          "addressRegion": "Texas",
+          "addressCountry": "USA"
         },
         "sameAs": [
-          "https://twitter.com/judsonlmoore",
-          "https://instagram.com/judsonlmoore",
-          "https://www.facebook.com/judsonlmooreblog",
-          "https://www.linkedin.com/in/judsonlmoore/",
-          "https://www.youtube.com/judsonlmoore",
-          "https://github.com/judsonlmoore",
-          "https://www.pinterest.com/judsonlmoore/"
+          "https://www.facebook.com/CherryWinkleMoore",
+          "https://twitter.com/cherrywmoore"
         ]
       },
       {
         "@type": "Organization",
-        "@id": "https://www.judsonlmoore.com",
-        "name": "Judson L Moore",
-        "legalName": "Judson L Moore",
-        "url": "http://www.judsonlmoore.com",
+        "@id": "https://www.cherrywinklemoore.com",
+        "name": "Cherry Winkle Moore",
+        "legalName": "Cherry Winkle Moore",
+        "url": "http://www.cherrywinklemoore.com",
         "logo": {
           "@type": "ImageObject",
           "url": "{{ site.og_image | absolute_url }}"
         },
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "Krossener Str 20",
-          "addressLocality": "Berlin",
-          "addressRegion": "Berlin",
-          "postalCode": "10245",
-          "addressCountry": "Germany"
+          "streetAddress": "2102 Quail Hollow Dr",
+          "addressLocality": "Bryan",
+          "addressRegion": "Texas",
+          "postalCode": "77802",
+          "addressCountry": "USA"
         },
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "customer support",
-          "telephone": "[+1.310.571.5210]",
-          "email": "contact@judsonlmoore.com"
+          "email": "contact@cherrywinklemoore.com"
         },
         "sameAs": [
-          "https://twitter.com/judsonlmoore",
-          "https://instagram.com/judsonlmoore",
-          "https://www.facebook.com/judsonlmooreblog",
-          "https://www.linkedin.com/in/judsonlmoore/",
-          "https://www.youtube.com/judsonlmoore",
-          "https://github.com/judsonlmoore",
-          "https://www.pinterest.com/judsonlmoore/"
+          "https://www.facebook.com/CherryWinkleMoore",
+          "https://twitter.com/cherrywmoore"
         ]
       }
       {% if og_type == "article" %}
@@ -116,13 +90,13 @@
         "author": "{{ author.name }}",
         {% endif %}
 
-        "editor": "Judson L Moore",
+        "editor": "Cherry Winkle Moore",
         "keywords": "{% if page.categories %}{{ page.categories }}{% endif %} {% if page.tags %}{{ page.tags }}{% endif %}",
         "wordcount": {{ page.content | number_of_words | jsonify }},
         "publisher": {
           "@type": "Organization",
-          "@id": "https://www.judsonlmoore.com/#organization",
-          "name": "Judson L Moore",
+          "@id": "https://www.cherrywinklemoore.com/#organization",
+          "name": "Cherry Winkle Moore",
           "logo": {
             "@type": "ImageObject",
             "url": "{{ site.favicon | absolute_url }}"
@@ -155,67 +129,10 @@
         },
         "url": "{{ canonical_url }}",
         "author": {
-          "@id": "https://www.judsonlmoore.com/authors/judsonlmoore"
+          "@id": "https://www.cherrywinklemoore.com/authors/cherrywinklemoore"
         }
       }
       {% endif %}
     ]
   }
 </script>
-
-
-{% if page.schema.type == "book" %}
-<script type="application/ld+json">
-  {
-    "@context": "http://www.schema.org",
-    "@type": "Book",
-    {% assign author = site.authors | where: 'short_name', page.schema.author_short_name | first %}
-    "author": {{ author.url | absolute_url | jsonify }},
-    "bookFormat": {{ page.schema.bookFormat | jsonify }},
-    "datePublished": "{{ page.schema.datePublished | date_to_xmlschema }}",
-    "image": {{ page.schema.image | absolute_url | jsonify }},
-    "inLanguage": {{ page.schema.inLanguage | jsonify }},
-    "isbn": {{ page.schema.isbn | jsonify }},
-    "name": {{ page.schema.name | jsonify }},
-    "abstract": {{ page.schema.abstract | jsonify }}, 
-    "numberOfPages": {{ page.schema.numberOfPages | jsonify }},
-    "offers": {
-      "@type": "Offer",
-      "availability": {{ page.schema.availability | jsonify }},
-      "price": {{ page.schema.price | jsonify }},
-      "priceCurrency": {{ page.schema.priceCurrency | jsonify }}
-    },
-    "publisher": {{ page.schema.publisher | jsonify }},
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": {{ page.schema.ratingValue | jsonify }},
-      "reviewCount": {{ page.schema.reviewCount | jsonify }}
-    }
-
-    {% if page.reviews %}
-
-    ,"review": [
-
-        {% for review in page.reviews %}
-
-        {
-          "@type": "Review",
-          "author": {{ review.name | jsonify }},
-          "datePublished": "{{ review.date | date_to_xmlschema }}",
-          "name": {{ review.title | jsonify }},
-          "reviewBody": {{ review.description | jsonify }},
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{{ review.rating | jsonify }}"
-          }
-        }{% unless forloop.last %},{% endunless %}
-
-        {% endfor %}
-
-    ]
-
-    {% endif %}
-
-  }
-</script>
-{% endif %}

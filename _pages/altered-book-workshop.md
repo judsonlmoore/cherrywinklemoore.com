@@ -1,11 +1,5 @@
 ---
 title: Altered Book Workshop
-date: 2015-02-17 14:05:23 Z
-author: judsonlmoore
-comments: true
-layout: page
-slug: altered-book-workshop
-wordpress_id: 1177
 ---
 
 ## Altered Book / Spiritual Journal Workshop

@@ -6,57 +6,35 @@ layout: default
 
 <div class="py-lg-8 py-10">
   <div class="container">
+    <div class="row">
+      <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
+        <div class="mb-8 text-center">
+          <h2 class="mb-3 h1">Featured Original Art</h2>
+          <p class="lead">
+            Select pieces of origianl art are available for purchase. View all art in the <a href="{{ 'gallery' | absolute_url }}">gallery</a>.
+          </p>
+        </div>
+      </div>
+    </div>
     <div class="row mb-lg-7 mb-0">
       {% for post in site.gallery limit: 6 %}
-      <!-- podcast thumbnail -->
-      <div class="col-lg-4 col-md-6 col-12">
-        <div class="mb-4">
-          <div class="mb-5">
-            <a href="{{ post.url | absolute_url }}">
-              {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid w-100 rounded" %}
-            </a>
-          </div>
-          {% assign sortedCategories = post.categories | sort_natural %}
-          {% for category in sortedCategories limit:1 %}
-          <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}/" class="mb-3 text-secondary font-weight-bold d-block">{{ category }}</a>
-          {% endfor %}
-            <a href="{{ post.url | absolute_url }}">
-            <h3 class="h4 mb-2">
-              {{ post.title }}
-            </h3>
-          </a>
-          <p class="mb-4 font-12 font-weight-bold"><span class="me-3">${{ post.data-item-price }}</span><span class="text-right">{{ post.medium }}</span></p>
-        </div>
-      </div>
+      {% include postbox-gallery.html %}
       {% endfor %}
     </div>
-
-    <div class="row mb-lg-7 mb-0">
-      {% for post in site. posts limit: 6 %}
-      <!-- podcast thumbnail -->
-      <div class="col-lg-4 col-md-6 col-12">
-        <div class="mb-4">
-          <div class="mb-5">
-            <a href="{{ post.url | absolute_url }}">
-              {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid w-100 rounded" %}
-            </a>
-          </div>
-          <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.category }}</span>
-          <a href="{{ post.url | absolute_url }}">
-            <h3 class="h4 mb-2">
-              {{ post.title }}
-            </h3>
-          </a>
-          <p class="mb-4 font-12 font-weight-bold"><span class="me-3">{{ post.date | date_to_string: "ordinal", "US" }}</span><span>38 mins 11 secs</span></p>
+    <div class="row">
+      <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
+        <div class="mb-8 text-center">
+          <h2 class="mb-3 h1">Writing</h2>
+          <p class="lead">
+            I've been an avid journaler all my life. A number of my thoughts, experiences, and poems are posted on <a href="{{ 'blog' | absolute_url }}">the blog</a>.
+          </p>
         </div>
       </div>
-      {% endfor %}
     </div>
-
     <div class="row mb-lg-7 mb-0">
-      <div class="col">
-        {{ content }}
-      </div>
+      {% for post in site.posts limit: 6 %}
+      {% include postbox-posts.html %}
+      {% endfor %}
     </div>
   </div>
 </div>
