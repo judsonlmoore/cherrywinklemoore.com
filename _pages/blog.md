@@ -1,8 +1,8 @@
 ---
 title: Blog
-layout: blog
 permalink: blog
-pagination: 
+layout: blog
+pagination:
   enabled: true
 ---
 
