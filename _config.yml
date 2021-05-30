@@ -1,5 +1,4 @@
-baseurl: ''
-url: https://github.cherrywinklemoore.com
+---
 title: Cherry Winkle Moore
 timezone: UTC
 collections:
@@ -45,6 +44,8 @@ defaults:
     data-item-quantity: 1
     data-item-max-quantity: 1
     data-item-stackable: false
+baseurl: ''
+url: https://github.cherrywinklemoore.com
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
 description: Write an awesome description for your new site here. You can edit this
