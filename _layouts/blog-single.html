@@ -48,13 +48,13 @@ post_class: post-template
               {{ author.content | strip_html }} {% if author.links.twitter %}Follow me on <a href="{{ author.links.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.links.facebook %}Find me on
               <a href="{{ author.links.facebook }}" target="_blank"> facebook</a>.{% endif %}
             </p>
-            <a href="{{ author.url }}" class="btn-link">View All Post</a>
+            <a href="{{ author.url | absolute_url }}" class="btn-link">View All Post</a>
           </div>
         </div>
         {% endif %} 
 
         {% if jekyll.environment == 'production' %}
-        {% if page.comments != false %}
+        {% if page.comments == true %}
         <!-- comment section -->
         <div class="mb-4" id="disqus_thread">
           <div class="card bg-transparent">
