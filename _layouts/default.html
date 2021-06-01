@@ -187,7 +187,7 @@ layout: compress
       </div>
     </div>
 
-    {% if page.layout == "blog-single" %}
+    {% if page.comments == true %}
     <!-- Disqus Count -->
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
       var disqus_config = function () {
@@ -200,7 +200,6 @@ layout: compress
 
     <!-- Libs JS -->
     <script src="{{'/assets/libs/jquery/dist/jquery.min.js' | absolute_url }}"></script>
-    <script src="{{'/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js' | absolute_url }}"></script>
     <script src="{{'/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js' | absolute_url }}"></script>
     <script src="{{'/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js' | absolute_url }}"></script>
     <script src="{{'/assets/libs/prismjs/prism.min.js' | absolute_url }}"></script>
@@ -229,22 +228,6 @@ layout: compress
         limit: 5,
         fuzzy: true,
         exclude: ['Welcome']
-      });
-    </script>
-
-    <!-- Modal popup controll -->
-    <script type="text/javascript"> 
-      $(document).ready(function () {
-        if (!sessionStorage.adModal) {
-          setTimeout(function () {
-            $("#admodal").find(".modal");
-            $("#admodal").modal({
-              backdrop: "static",
-              keyboard: false,
-            });
-          }, 30000);
-          sessionStorage.adModal = 1;
-        }
       });
     </script>
 
