@@ -1,8 +1,9 @@
 ---
-title:						Privacy Policy
-description:			Protecting user data and respecting the privacy of those who choose to visit this page is critical. Understand your rights as a visitor to cherrywinklemoore.com by reading this page.
+title: Privacy Policy
+description: Protecting user data and respecting the privacy of those who choose to
+  visit this page is critical. Understand your rights as a visitor to cherrywinklemoore.com
+  by reading this page.
 ---
-
 
 ## SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
