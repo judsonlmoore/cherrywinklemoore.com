@@ -1,4 +1,3 @@
----
 title: Cherry Winkle Moore
 timezone: UTC
 collections:
@@ -142,7 +141,7 @@ pagination:
   enabled: true
   debug: false
   per_page: 9
-  permalink: "/page-:num/"
+  permalink: "/page-:num"
   title: ":title - page :num"
   limit: 0
   sort_field: date
