@@ -152,20 +152,51 @@ layout: compress
     <div class="footer pt-11 pb-3 bg-dark text-base">
       <div class="container">
         <div class="row">
+          <div class="col-md-3 col-6">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">About</h4>
+              <p>Cherry Winkle Moore is a visual artist and a retired hospice chaplain living in Bryan, Texas.</p>
+              <p><a href="{{ '/contact' absolute_url }}">Contact Cherry</a></p>
+            </div>
+          </div>
           {% for item in site.data.nav.footer %}
-          <div class="col-lg-2 col-md-4 col-6">
+          <div class="col-md-3 col-6">
             <div class="mb-4">
               <h4 class="mb-4 text-white">{{ item.column-h }}</h4>
               <ul class="list-unstyled list-group">
                 {% for entry in item.links %}
-                <li class="list-group-item"><a href="{{ entry.url | absolute_url }}" class="list-group-item-link">{{ entry.title }}</a></li>
+                <li class="list-group-item">
+                  <a href="{{ entry.url | absolute_url }}" class="list-group-item-link">{{ entry.title | capitalize }}</a>
+                </li>
                 {% endfor %}
               </ul>
             </div>
           </div>
           {% endfor %}
-          <div class="col-lg-4 col-md-8 col-12">
+          <div class="col-md-3 col-6">
             <div class="mb-4">
+              <h4 class="mb-4 text-white">Categories</h4>
+              <ul class="list-unstyled list-group">
+                {% for category in site.categories limit: 5 %} 
+                {% assign cat_name = category[0] %} 
+                <li class="list-group-item">
+                  <a href="{{ cat_name | slugify | prepend:'/category/' | absolute_url }}/" class="list-group-item-link">{{ cat_name | join: " " | capitalize }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-6">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">Tags</h4>
+              <ul class="list-unstyled list-group">
+                {% for tag in site.tags limit: 5 %} 
+                {% assign tag_name = tag[0] %} 
+                <li class="list-group-item">
+                  <a href="{{ tag_name | slugify | prepend:'/tag/' | absolute_url }}/" class="list-group-item-link">{{ tag_name | join: " " | capitalize }}</a>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
           </div>
           <div class="col-md-12">

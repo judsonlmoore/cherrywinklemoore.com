@@ -18,10 +18,14 @@ main:
   - title: Contact Cherry
     url: /contact
 footer:
-  - column-h: Links
+  - column-h: Pages
     links:
-      - title: Home
-        url: /
+      - title: Blog
+        url: /blog
+      - title: Gallery
+        url: /gallery
+      - title: Poems
+        url: /category/poems/
       - title: Facebook
         url: https://www.facebook.com/CherryWinkleMoore
       - title: Login
