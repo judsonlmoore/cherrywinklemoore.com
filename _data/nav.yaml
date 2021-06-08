@@ -24,8 +24,6 @@ footer:
         url: /
       - title: Facebook
         url: https://www.facebook.com/CherryWinkleMoore
-      - title: Twitter
-        url: https://twitter.com/cherrywmoore
       - title: Login
         url: https://manage.siteleaf.com/login
 bottom-bar:

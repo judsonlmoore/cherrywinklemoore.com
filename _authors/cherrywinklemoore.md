@@ -8,7 +8,6 @@ avatar: "/assets/images/cherrywmoore-avatar.jpg"
 location: Bryan, Texas, USA
 links:
 - facebook: https://www.facebook.com/CherryWinkleMoore
-- twitter: https://twitter.com/cherrywmoore
 - web: https://www.cherrywinklemoore.com/
 ---
 

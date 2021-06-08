@@ -1,5 +1,5 @@
 ---
-title: Seeking a Daily Spiritual Practice
+title: Seeking a Spiritual Practice
 date: 2011-01-29 00:00:00 Z
 categories:
 - Spiritual Life
