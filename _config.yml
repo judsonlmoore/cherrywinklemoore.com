@@ -56,9 +56,7 @@ baseurl: ''
 url: https://www.cherrywinklemoore.com
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Cherry Winkle Moore is a visual artist and retured hospice chaplain in Bryan Texas. 
 author: cherrywinklemoore
 logo: "/favicon.ico"
 lang: en_US
