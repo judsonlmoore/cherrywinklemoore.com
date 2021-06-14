@@ -56,7 +56,8 @@ baseurl: ''
 url: https://www.cherrywinklemoore.com
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
-description: Cherry Winkle Moore is a visual artist and retured hospice chaplain in Bryan Texas. 
+description: Cherry Winkle Moore is a visual artist and retured hospice chaplain in
+  Bryan Texas.
 author: cherrywinklemoore
 logo: "/favicon.ico"
 lang: en_US
