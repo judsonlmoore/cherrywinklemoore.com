@@ -35,7 +35,9 @@ layout: default
     <div class="row align-items-center">
       <!-- image -->
       <div class="col-lg-4 col-md-4 col-12">
+        {% if page.image %}
         {% cloudinary {{ page.image }} alt="{{ page.title }}" class="img-fluid" %}
+        {% endif %}
       </div>
       <!-- description -->
       <div class="offset-lg-1 col-lg-7 col-md-8 col-12">
