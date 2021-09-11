@@ -38,13 +38,6 @@ layout: compress
   <!-- Site Icon -->
   <link rel="icon" href="{{'/assets/images/favicon.png'| absolute_url }}" />
 
-  {% if page.layout == "shop-single" or page.layout == "shop" %}
-  <!-- Snipcart eCommerce -->
-  <link rel="preconnect" href="https://app.snipcart.com">
-  <link rel="preconnect" href="https://cdn.snipcart.com">
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css" />
-  {% endif %}
-
 </head>
 
   {% capture layout %}
@@ -256,12 +249,6 @@ layout: compress
         exclude: ['Welcome']
       });
     </script> -->
-
-    {% if page.layout == "shop-single" or page.layout == "shop" %}
-    <!-- Snipcart eCommerce -->
-    <script async src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
-    <div hidden id="snipcart" data-api-key="ZDYzYWRmODYtNTBhMC00ZDM0LWI5OTEtZDIyZjE1Zjk0Y2VlNjM3NDQ0MDM0OTYxNDIwOTQ1"></div>
-    {% endif %}
 
     {% include schema.html %}
 

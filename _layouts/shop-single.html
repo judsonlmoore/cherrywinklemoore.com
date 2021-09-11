@@ -47,27 +47,9 @@ layout: default
           <span class="text-dark mr-2">${{ page.data-item-price }}</span>
         </div>
 
-        <!-- Buy product on site via Snipcart integration -->
-        {% if page.data-item-price != nill %}
-        <button class="snipcart-add-item btn btn-outline-primary mr-2"
-          data-item-id="{{ page.slug }}"
-          data-item-price="{{ page.data-item-price }}"
-          data-item-url="{{ page.url | absolute_url }}"
-          data-item-description="{{ content | strip_html }}"
-          data-item-image="{{ page.image | absolute_url }}"
-          data-item-name="{{ page.title }}"
-          data-item-categories="{{ page.category }}"
-          data-item-weight="{{ page.data-item-weight }}"
-          data-item-length="{{ page.data-item-length }}"
-          data-item-height="{{ page.data-item-height }}"
-          data-item-width="{{ page.data-item-width }}"
-          data-item-quantity="{{ page.data-item-quantity }}"
-          data-item-max-quantity="{{ page.data-item-max-quantity }}"
-          data-item-stackable="never"
-          >
-          Add to cart
-        </button>
-        {% endif %}
+        <a href="{{ 'contact' | absolute_url }}" class="btn btn-outline-primary mr-2">
+          Contact to inquire
+        </a>
 
         {% if page.categories %}
         <p class="mt-4 font-14 mb-1">

@@ -67,42 +67,8 @@ layout: default
                         <span class="ml-1">6</span>
                       </div>
 
-							        <!-- Buy product on site via Snipcart integration -->
-							        {% if item.snipcart-data-item %}
-							        <button class="snipcart-add-item btn btn-outline-primary btn-sm mt-3 mr-3"
-							          data-item-url="{{ item.url | absolute_url }}"
-							          {% if item.snipcart-data-item.id %}
-							            data-item-id="{{ item.snipcart-data-item.id }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.price %}
-							           data-item-price="{{ item.snipcart-data-item.price }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.description %}
-							            data-item-description="{{ item.snipcart-data-item.description }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.image %}
-							            data-item-image="{{ item.snipcart-data-item.image }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.name %}
-							            data-item-name="{{ item.snipcart-data-item.name }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.custom1-name %}
-							            data-item-custom1-name="{{ item.snipcart-data-item.custom1-name }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.custom1-options %}
-							            data-item-custom1-options="{{ item.snipcart-data-item.custom1-options }}"
-							          {% endif %}
-							          {% if item.snipcart-data-item.custom1-value %}
-							            data-item-custom1-value="{{ item.snipcart-data-item.custom1-value }}"
-							          {% endif %}
-							          >
-							          Add to cart
-							        </button>
-							        <a href="{{ item.url }}" class="btn btn-outline-none btn-sm mt-3 p-0">View details</a>
-							        {% else %}
 							        <!-- View item details -->
                       <a href="{{ item.url }}" class="btn btn-outline-primary btn-sm mt-3">View details</a>
-                      {% endif %}
 
                     </div>
                   </div>
