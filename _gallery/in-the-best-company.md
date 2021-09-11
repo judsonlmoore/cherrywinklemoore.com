@@ -5,10 +5,10 @@ categories:
 tags:
 - oil
 - canvas
+image: "/assets/images/bread-and-wine.jpg"
 status: For Sale
 medium: Oil on canvas
-image: "/assets/images/bread-and-wine.jpg"
-data-item-price: 700.0
+data-item-price: 600
 data-item-weight: 1000
 data-item-length: 51
 data-item-width: 51
@@ -18,4 +18,6 @@ data-item-max-quantity: 1
 data-item-stackable: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I thought I had finished this painting in 2007 but then I realized that the right background was not complete. I put it aside for several years. In 2020 I repainted that background three or four times. The dark background highlighted the grapes and is the one I chose. 
+
+A painting I thought I might never finish has become a favorite one.
