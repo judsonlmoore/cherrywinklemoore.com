@@ -97,7 +97,6 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4.0)
   jekyll-target-blank (~> 2.0.2)
   kramdown (~> 2.4.0)
-  rouge (~> 4.2.0)
 
 BUNDLED WITH
    2.4.19

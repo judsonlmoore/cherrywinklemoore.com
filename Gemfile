@@ -7,7 +7,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2", "~> 3.0"
   gem "jekyll-seo-tag", "~> 2.8.0"
   gem "kramdown", "~> 2.4.0"
-  gem "rouge", "~> 4.2.0"
   gem "jekyll-cloudinary", "~> 1.14.1"
   gem "jekyll-sitemap", "~> 1.4.0"
   gem "jekyll-target-blank", "~> 2.0.2"
