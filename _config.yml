@@ -27,7 +27,7 @@ defaults:
       type: pages
     values:
       layout: page
-      permalink: "/:basename/"
+      permalink: "/:basename"
       image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
   - scope:
       path: ""
