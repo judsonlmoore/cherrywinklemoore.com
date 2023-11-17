@@ -19,7 +19,7 @@ jobs:
           bundler-cache: false
 
       - name: Update RubyGems
-        run: gem update --system 3.2.3
+        run: gem update --system
 
       - name: Install Bundler
         run: gem install bundler -v 2.4.19
