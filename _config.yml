@@ -1,4 +1,3 @@
----
 title: Cherry Winkle Moore
 timezone: UTC
 collections:
@@ -15,44 +14,44 @@ collections:
     title: Uploads
     output: false
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: blog-single
-    author: cherrywinklemoore
-    image: 
-    comments: true
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-    permalink: "/:basename"
-    image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
-- scope:
-    path: ''
-    type: authors
-  values:
-    layout: blog-author
-    image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
-- scope:
-    path: ''
-    type: gallery
-  values:
-    layout: shop-single
-    image: 
-    status: For Sale
-    medium: Oil on canvas
-    data-item-price: 0.0
-    data-item-weight: 1000
-    data-item-length: 50
-    data-item-width: 50
-    data-item-height: 4
-    data-item-quantity: 1
-    data-item-max-quantity: 1
-    data-item-stackable: false
-baseurl: ''
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: blog-single
+      author: cherrywinklemoore
+      image:
+      comments: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      permalink: "/:basename"
+      image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: blog-author
+      image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: shop-single
+      image:
+      status: For Sale
+      medium: Oil on canvas
+      data-item-price: 0.0
+      data-item-weight: 1000
+      data-item-length: 50
+      data-item-width: 50
+      data-item-height: 4
+      data-item-quantity: 1
+      data-item-max-quantity: 1
+      data-item-stackable: false
+baseurl: ""
 url: https://www.cherrywinklemoore.com
 permalink: "/:year/:month/:title/"
 email: artist@cherrywinklemoore.com
@@ -64,28 +63,23 @@ lang: en_US
 favicon: "/favicon.ico"
 og_image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
 plugins:
-- jekyll-feed
-- jekyll-strapi
-- jekyll-seo-tag
-- jekyll-sitemap
-- jekyll-target-blank
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-autoprefixer
+autoprefixer:
+  browsers:
+    - last 4 versions
+#    - Safari > 2
+sass:
+  style: compressed
+  sass_dir: _sass
 gems:
-- jekyll-paginate-v2
+  - jekyll-paginate-v2
 include:
-- _pages
-exclude:
-- ".sass-cache/"
-- ".jekyll-cache/"
-- gemfiles/
-- Gemfile
-- Gemfile.lock
-- node_modules/
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
-strapi:
-  endpoint: http://localhost:1337
+  - _pages
+  - assets/css
 markdown: kramdown
 kramdown:
   input: GFM
@@ -112,27 +106,27 @@ cloudinary:
 compress_html:
   clippings: all
   comments:
-  - "<!-- "
-  - " -->"
+    - "<!-- "
+    - " -->"
   endings:
-  - html
-  - head
-  - body
-  - li
-  - dt
-  - dd
-  - rt
-  - rp
-  - optgroup
-  - option
-  - colgroup
-  - caption
-  - thead
-  - tbody
-  - tfoot
-  - tr
-  - td
-  - th
+    - html
+    - head
+    - body
+    - li
+    - dt
+    - dd
+    - rt
+    - rp
+    - optgroup
+    - option
+    - colgroup
+    - caption
+    - thead
+    - tbody
+    - tfoot
+    - tr
+    - td
+    - th
   profile: false
   blanklines: false
   ignore:
@@ -141,7 +135,7 @@ pagination:
   enabled: true
   debug: false
   per_page: 9
-  permalink: "/page-:num"
+  permalink: "/page-:num.html"
   title: ":title - page :num"
   limit: 0
   sort_field: date
@@ -153,7 +147,7 @@ autopages:
   enabled: true
   categories:
     layouts:
-    - autopage.html
+      - autopage.html
     title: Posts in category :cat
     permalink: "/category/:cat"
     slugify:
@@ -161,7 +155,7 @@ autopages:
       case: true
   tags:
     layouts:
-    - autopage.html
+      - autopage.html
     title: Posts tagged with :tag
     permalink: "/tag/:tag"
     slugify:
@@ -169,7 +163,7 @@ autopages:
       case: true
   collections:
     layouts:
-    - autopage.html
+      - autopage.html
     title: Posts in collection :coll
     permalink: "/collection/:coll"
     slugify:

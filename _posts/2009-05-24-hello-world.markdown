@@ -18,4 +18,4 @@ The second I call "Dissolving into a Heap of Tears." The original drawing was me
 ![](/assets/images/Caregiver+Stress.jpg){:.img-fluid}
 
 
-![](/assets/images/Dissolving-into-a-Heap-of-Tears.jpg){:.img-fluid}
+![](/assets/images/Dissolving-into-a-Heap-of-Tears.jpg)
