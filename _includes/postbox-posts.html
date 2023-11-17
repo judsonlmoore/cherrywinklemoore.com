@@ -3,7 +3,7 @@
     <!-- post classic block -->
     <div class="mb-4">
       <a href="{{ post.url | absolute_url }}">
-        <div class="img-zoom">
+        <div class="img-zoom ratio ratio-16x9 bg-light w-100">
           {% if post.image %}
             {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
           {% endif %}
