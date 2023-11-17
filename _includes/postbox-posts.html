@@ -1,13 +1,28 @@
-<!-- post thumbnail -->
-<div class="col-lg-3 col-md-6 col-12 mb-3 position-relative">
-  <div class="ratio ratio-4x3 mb-3">
-    {% if post.image %}
-    {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-top" style="object-fit: cover;" %}
-    {% endif %}
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+  <div class="mb-8">
+    <!-- post classic block -->
+    <div class="mb-4">
+      <a href="{{ post.url | absolute_url }}">
+        <div class="img-zoom">
+          {% if post.image %}
+            {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
+          {% endif %}
+        </div>
+      </a>
+    </div>
+    <div>
+      <a href="{{ post.categories | first | slugify | prepend: '/category/' | append: '/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block fw-semi-bold">{{ post.categories | first }}</a>
+      <a href="{{ post.url | absolute_url }}">
+        <h3 class="mb-3">{{ post.title }}</h3>
+      </a>
+      <div class="mb-3">
+        <div class="font-14">
+          <span>
+            {{ post.content | strip_html | truncatewords: 30 }}
+          </span>
+        </div>
+      </div>
+    </div>
   </div>
-  <div>
-    <p class="mb-2 font-weight-bold">{{ post.title }}</p>
-    <p>{{ post.content | strip_html | truncatewords: 13 }}</p>
-    <a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
-  </div>
+  <!-- post classic block -->
 </div>
