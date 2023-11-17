@@ -219,18 +219,6 @@ layout: compress
     </div>
   </div>
 
-  {% if page.comments == true %}
-    <!-- Disqus Count -->
-    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
-      var disqus_config = function () {
-        this.callbacks.onNewComment = [function () {
-            DISQUSWIDGETS.getCount({reset: true});
-          }
-        ];
-      };
-    </script>
-  {% endif %}
-
   <!-- Optional JavaScript -->
 
   <!-- Libs JS -->
