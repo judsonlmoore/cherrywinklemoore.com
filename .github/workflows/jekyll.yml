@@ -27,20 +27,19 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Add Linux Platform to Gemfile.lock
-        run:  bundle lock --add-platform x86_64-linux
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Add Linux Platform to Gemfile.lock
+        run: bundle lock --add-platform x86_64-linux
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
