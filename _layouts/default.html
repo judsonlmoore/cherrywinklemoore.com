@@ -49,20 +49,6 @@ layout: compress
 
   <body class="{{layout}}">
 
-    {% if jekyll.environment == 'production' %}
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-T3FVMLVCV0"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-T3FVMLVCV0');
-      </script>
-    {% endif %}
-
     <!-- header -->
     <nav class="navbar navbar-expand-lg navbar-default fixed-top border-3 border-top border-primary navbar-dark">
       <!-- navigation start -->
@@ -238,21 +224,6 @@ layout: compress
 
   <!-- Theme JS -->
   <script src="{{'/assets/js/theme.min.js' | absolute_url }}"></script>
-
-  <!-- Search JS -->
-  <!-- <script src="{{'/assets/js/simple-jekyll-search.min.js' | absolute_url }}"></script>
-    <script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ 'search.json' | absolute_url }}',
-        searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 5,
-        fuzzy: true,
-        exclude: ['Welcome']
-      });
-    </script> -->
 
   {% include schema.html %}
 
