@@ -28,7 +28,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"     # Uses the specified Ruby version
+          ruby-version: "3.2.5"     # Uses the specified Ruby version
           bundler-cache: true       # Caches gems to speed up subsequent builds
           cache-version: 0          # Increment to reset the bundler cache
 
