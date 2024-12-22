@@ -5,7 +5,7 @@
       <a href="{{ post.url | absolute_url }}">
         <div class="img-zoom ratio ratio-16x9 bg-light w-100">
           {% if post.image %}
-            {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
+            {% include image.html src=post.image alt=post.title class="img-fluid rounded" %}
           {% endif %}
         </div>
       </a>

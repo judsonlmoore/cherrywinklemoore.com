@@ -1,4 +1,5 @@
-//  fonts
+//  Fonts
+
 $font-size: font !default;
 @for $i from 12 through 48 {
     .#{$font-size}-#{$i} {
@@ -6,21 +7,30 @@ $font-size: font !default;
     }
 }
 
+//  dm serif
+
 .font-dm-serif {
     font-family: $font-family-dm-serif;
 }
 
+//  text inherit
+
 .text-inherit {
     color: inherit;
-    &:hover{
+    &:hover {
         color: $primary !important;
     }
 }
+
+//  text reset
+
 .text-reset {
-    &:hover{
+    &:hover {
         color: $primary !important;
     }
 }
+
+//  text bottom line
 
 .text-bottom-line {
     position: relative;

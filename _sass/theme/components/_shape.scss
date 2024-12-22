@@ -1,10 +1,11 @@
 // Custom shape
 // bg shape
+
 .bg-shape {
     position: relative;
     &:after {
         position: absolute;
-        background: url(../assets/images/curve-shape.svg);
+        background: url(../images/curve-shape.svg);
         background-size: cover;
         background-repeat: no-repeat;
         bottom: -15px;
@@ -16,11 +17,12 @@
 }
 
 // Top shape
+
 .top-shape {
     position: relative;
     &:after {
         position: absolute;
-        background: url(../assets/images/curve-shape-top.svg);
+        background: url(../images/curve-shape-top.svg);
         background-size: cover;
         background-repeat: no-repeat;
         top: -36px;
@@ -32,11 +34,12 @@
 }
 
 // Bottom shape
+
 .bottom-shape {
     position: relative;
     &:after {
         position: absolute;
-        background: url(../assets/images/curve-shape-bottom.svg);
+        background: url(../images/curve-shape-bottom.svg);
         background-size: cover;
         background-repeat: no-repeat;
         top: 0px;
@@ -48,6 +51,7 @@
 }
 
 // bg pattern
+
 .bg-pattern {
     position: relative;
     &:before {
@@ -59,12 +63,13 @@
         height: 100%;
         width: 100%;
         content: "";
-        opacity: .5;
+        opacity: 0.5;
         background-position-x: center;
     }
 }
 
 // bg left slant shape
+
 .left-slant-shape {
     position: relative;
     &:before {
@@ -81,6 +86,7 @@
 }
 
 // bg left slant shape
+
 .right-slant-shape {
     position: relative;
     &:after {

@@ -1,5 +1,6 @@
 // button
 // Primary Link
+
 .btn-primary-link {
     font-weight: $font-weight-bold;
     color: var(--#{$prefix}primary);
@@ -23,6 +24,7 @@
 }
 
 // Secondary link
+
 .btn-secondary-link {
     font-weight: $font-weight-bold;
     color: $secondary;
@@ -46,6 +48,7 @@
 }
 
 // Soft variants
+
 @mixin btn-variant-soft($bg, $color) {
     background-color: $bg;
     color: $color;
@@ -62,6 +65,7 @@
 }
 
 // btn play
+
 .btn-play {
     background-color: var(--#{$prefix}white);
     color: var(--#{$prefix}primary);
@@ -74,6 +78,7 @@
 }
 
 // btn group
+
 .nav.btn-group > .btn,
 .btn-group-vertical > .btn {
     flex: 0;
@@ -93,6 +98,7 @@
 }
 
 // btn like
+
 .btn-like {
     border: 1px solid var(--#{$prefix}gray-200);
     background-color: transparent;
@@ -115,6 +121,7 @@
 }
 
 // btn icon
+
 .btn-icon {
     position: relative;
     display: -ms-inline-flexbox;

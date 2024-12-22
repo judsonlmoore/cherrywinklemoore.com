@@ -1,5 +1,9 @@
 title: Cherry Winkle Moore
 timezone: UTC
+sass:
+  quiet_deps: true
+  style: compressed
+  sass_dir: _sass
 collections:
   authors:
     title: Authors
@@ -13,6 +17,8 @@ collections:
   uploads:
     title: Uploads
     output: false
+  pages:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -27,7 +33,7 @@ defaults:
       type: pages
     values:
       layout: page
-      permalink: "/:basename"
+      # permalink: "/:basename"
       image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
   - scope:
       path: ""
@@ -58,51 +64,16 @@ email: artist@cherrywinklemoore.com
 description: Cherry Winkle Moore is a visual artist and retured hospice chaplain in
   Bryan Texas.
 author: cherrywinklemoore
-logo: "/favicon.ico"
-lang: en_US
-favicon: "/favicon.ico"
+logo: "/assets/favicons/favicon.ico"
+favicon: "/assets/favicons/favicon.ico"
 og_image: "/assets/images/bg-altered-book-2-e1424183399895.jpg"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-autoprefixer
-autoprefixer:
-  browsers:
-    - last 4 versions
-#    - Safari > 2
-sass:
-  style: compressed
-  sass_dir: _sass
 gems:
   - jekyll-paginate-v2
-include:
-  - _pages
-  - assets/css
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-cloudinary:
-  cloud_name: cherrywinklemoore-com
-  only_prod: false
-  verbose: false
-  presets:
-    default:
-      gravity: auto
-      crop: fill
-      focus: auto
-      steps: 5
-      min_width: 128
-      max_width: 1024
-      figure: never
-      attributes:
-        class: img-fluid
-        loading: lazy
 compress_html:
   clippings: all
   comments:

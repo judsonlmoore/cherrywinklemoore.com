@@ -10,7 +10,7 @@ pagination: true
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-12">
         <div class="pt-lg-14 pb-lg-8 py-12 text-center">
 
-          {% cloudinary author {{ page.avatar }} alt="Image of {{ page.name }}" class="img-fluid avatar-xl rounded-circle mr-3" %}
+          {% include image.html src= page.avatar alt=page.name class="img-fluid avatar-xl rounded-circle mr-3" %}
 
           <h1 class="display-4 text-white">{{ page.name }}</h1>
           <p class="lead text-light">

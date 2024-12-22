@@ -2,6 +2,7 @@
 title: Terms and Conditions
 description: All visitors and users of cherrywinklemoore.com agree to these terms
   and conditions
+permalink: /terms
 ---
 
 ## OVERVIEW

@@ -36,15 +36,16 @@ layout: default
       <!-- image -->
       <div class="col-lg-4 col-md-4 col-12">
         {% if page.image %}
-        {% cloudinary {{ page.image }} alt="{{ page.title }}" class="img-fluid" %}
+          {% include image.html src= page.image alt=page.title %}
         {% endif %}
       </div>
       <!-- description -->
       <div class="offset-lg-1 col-lg-7 col-md-8 col-12">
         <h2>{{ page.title }}</h2>
         <h3 class="lead">{{ page.medium }}</h3>
-        <p>by<span class="text-primary"> {{ page.author }}</span></p>
-        <hr class="my-4" />
+        <p>by<span class="text-primary">
+            {{ page.author }}</span></p>
+        <hr class="my-4"/>
         <div class="mb-3 font-20">
           <span class="text-dark mr-2">${{ page.data-item-price }}</span>
         </div>
@@ -54,39 +55,47 @@ layout: default
         </a>
 
         {% if page.categories %}
-        <p class="mt-4 font-14 mb-1">
-          <span class="text-dark mr-1">Category:</span>
-          {{ page.categories }}
-        </p>
+          <p class="mt-4 font-14 mb-1">
+            <span class="text-dark mr-1">Category:</span>
+            {{ page.categories }}
+          </p>
         {% endif %}
 
         {% if page.tags %}
-        <p class="font-14">
-          <span class="text-dark mr-1">Tags:</span>
-          {% for tag in page.tags %}
-          {{ tag | capitalize }}
-          {% endfor %}
-        </p>
+          <p class="font-14">
+            <span class="text-dark mr-1">Tags:</span>
+            {% for tag in page.tags %}
+              {{ tag | capitalize }}
+            {% endfor %}
+          </p>
         {% endif %}
 
       </div>
     </div>
-    <hr class="my-10" />
+    <hr class="my-10"/>
     <!-- product detail list -->
     <div class="row">
       <div class="col-lg-4 col-md-5 col-12">
         <h4 class="mb-3">Product details</h4>
         <ul class="list-group list-group-flush font-14 mb-0">
-          <li class="list-group-item px-0 py-1"><span class="text-dark">Medium:</span> {{ page.medium }}</li>
-          <li class="list-group-item px-0 py-1"><span class="text-dark">Date:</span> {{ page.date | date_to_string: "ordinal", "US" }}</li>
-          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Dimensions:</span> {{ page.data-item-width }}cm x {{ page.data-item-length }}cm x {{ page.data-item-height }}cm</li>
-          <li class="list-group-item px-0 py-1"><span class="text-dark">Weight:</span> {{ page.data-item-weight }} grams</li>
+          <li class="list-group-item px-0 py-1">
+            <span class="text-dark">Medium:</span>
+            {{ page.medium }}</li>
+          <li class="list-group-item px-0 py-1">
+            <span class="text-dark">Date:</span>
+            {{ page.date | date_to_string: "ordinal", "US" }}</li>
+          <li class="list-group-item px-0 py-1">
+            <span class="text-dark">Product Dimensions:</span>
+            {{ page.data-item-width }}cm x {{ page.data-item-length }}cm x {{ page.data-item-height }}cm</li>
+          <li class="list-group-item px-0 py-1">
+            <span class="text-dark">Weight:</span>
+            {{ page.data-item-weight }} grams</li>
         </ul>
       </div>
       <!-- description -->
       <div class="col-lg-8 col-md-7 col-12">
         <h4 class="mb-3">Description</h4>
-        
+
         {{ content }}
 
       </div>

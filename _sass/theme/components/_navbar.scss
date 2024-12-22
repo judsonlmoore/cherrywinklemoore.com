@@ -2,7 +2,7 @@
 
 .navbar {
     z-index: 1001;
-    // padding: 18px 0px;
+
     .navbar-toggler {
         border: 0px;
         &:focus {
@@ -430,10 +430,6 @@
 // navbar light
 
 .navbar-light {
-    // .navbar-brand {
-    //     -webkit-filter: brightness(0) invert(0);
-    //     filter: brightness(0) invert(0);
-    // }
     .navbar-toggler {
         border-color: var(--#{$prefix}gray-400) !important;
         .icon-bar {
@@ -458,7 +454,6 @@
             .nav-link {
                 color: var(--#{$prefix}gray-900) !important;
                 border-bottom: transparent;
-                // padding: 0.3125rem 1rem;
 
                 &:hover,
                 &.active {
